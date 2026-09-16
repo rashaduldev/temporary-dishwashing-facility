@@ -1,0 +1,650 @@
+{
+  "generatedAt": "2026-09-12T14:21:03.605Z",
+  "pageCount": 108,
+  "method": "Rendered main content; navigation and sidebars excluded. Imported articles compared after replacing their own location name. Matching groups indicate editorial overlap, not a Google penalty or proof of indexing status.",
+  "duplicateTitles": [],
+  "duplicateHeadings": [],
+  "duplicateDescriptions": [],
+  "locationNormalizedDuplicateGroups": [],
+  "repeatedParagraphs": [],
+  "thinPages": [
+    {
+      "path": "/404.html",
+      "words": 21
+    },
+    {
+      "path": "/video/",
+      "words": 10
+    },
+    {
+      "path": "/privacy/",
+      "words": 53
+    },
+    {
+      "path": "/planning/",
+      "words": 52
+    },
+    {
+      "path": "/modular-kitchen-facilities/",
+      "words": 17
+    },
+    {
+      "path": "/government/hospitals/",
+      "words": 17
+    },
+    {
+      "path": "/equipment-rental/wastewater-and-freshwater-container/",
+      "words": 90
+    },
+    {
+      "path": "/equipment-rental/tent-structures/",
+      "words": 92
+    },
+    {
+      "path": "/equipment-rental/stair-rentals/",
+      "words": 90
+    },
+    {
+      "path": "/equipment-rental/security-camera-trailers/",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/ramp-rentals/",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/modular-command-center-trailers/",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/modular-buildings/",
+      "words": 90
+    },
+    {
+      "path": "/equipment-rental/mobile-office-trailers/",
+      "words": 94
+    },
+    {
+      "path": "/equipment-rental/mobile-crew-camps/",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/generator-trailers/",
+      "words": 89
+    },
+    {
+      "path": "/equipment-rental/fencing-barricades-trash-receptacles/",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/dining-structure-rental/",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/classroom-trailers/",
+      "words": 95
+    },
+    {
+      "path": "/equipment-rental/bunkhouse-trailers/",
+      "words": 92
+    },
+    {
+      "path": "/equipment-rental/breakroom-trailer/",
+      "words": 98
+    },
+    {
+      "path": "/contact-us/",
+      "words": 53
+    },
+    {
+      "path": "/4000-correctional-facilities-series/",
+      "words": 29
+    },
+    {
+      "path": "/26ft-military-bulk-kitchen/",
+      "words": 12
+    }
+  ],
+  "inventory": [
+    {
+      "path": "/404.html",
+      "title": "Page not found | Temporary 123",
+      "words": 21
+    },
+    {
+      "path": "/",
+      "title": "Mobile Kitchens & Temporary Facilities | Temporary 123",
+      "words": 915
+    },
+    {
+      "path": "/video/",
+      "title": "Temporary 123 Videos | Temporary 123",
+      "words": 10
+    },
+    {
+      "path": "/turnkey-man-camp-solutions/",
+      "title": "Turnkey Man Camp Solutions | Fully-Equipped Workforce Housing | Temporary 123",
+      "words": 298
+    },
+    {
+      "path": "/temporary-man-camp-solutions/",
+      "title": "Temporary Man Camp Solutions | Portable Workforce Housing Options | Temporary 123",
+      "words": 313
+    },
+    {
+      "path": "/sleeper-trailer-rental/",
+      "title": "Sleeper Trailer Rental | Temporary 123",
+      "words": 178
+    },
+    {
+      "path": "/shower-trailer-rental/",
+      "title": "Shower Trailer Rental | Temporary 123",
+      "words": 176
+    },
+    {
+      "path": "/services/",
+      "title": "Temporary Facility Solutions | Temporary 123",
+      "words": 818
+    },
+    {
+      "path": "/services/shower-trailers/30ft/",
+      "title": "30ft Shower Trailer Rental | Temporary 123",
+      "words": 201
+    },
+    {
+      "path": "/services/shower-trailers/20ft/",
+      "title": "20ft Shower Trailer Rental | Temporary 123",
+      "words": 201
+    },
+    {
+      "path": "/services/shower-trailers/14ft/",
+      "title": "14ft Shower Trailer Rental | Temporary 123",
+      "words": 197
+    },
+    {
+      "path": "/services/shower-trailers/12ft/",
+      "title": "12ft Shower Trailer Rental | Temporary 123",
+      "words": 199
+    },
+    {
+      "path": "/services/shower-restroom-combination-trailers/",
+      "title": "Shower and Restroom Combination Trailers Rental | Temporary 123",
+      "words": 168
+    },
+    {
+      "path": "/services/shower-restroom-combination-trailers/30ft/",
+      "title": "30ft Restroom and Shower Trailer Rental | Temporary 123",
+      "words": 222
+    },
+    {
+      "path": "/services/shower-restroom-combination-trailers/20ft/",
+      "title": "20ft Restroom and Shower Trailer Rental | Temporary 123",
+      "words": 222
+    },
+    {
+      "path": "/services/shower-restroom-combination-trailers/14ft/",
+      "title": "14ft Restroom and Shower Trailer Rental | Temporary 123",
+      "words": 221
+    },
+    {
+      "path": "/services/shower-restroom-combination-trailers/12ft/",
+      "title": "12ft Restroom and Shower Trailer Rental | Temporary 123",
+      "words": 219
+    },
+    {
+      "path": "/services/restroom-trailers/30ft/",
+      "title": "30ft Restroom Trailer Rental | Temporary 123",
+      "words": 194
+    },
+    {
+      "path": "/services/restroom-trailers/20ft/",
+      "title": "20ft Restroom Trailer Rental | Temporary 123",
+      "words": 192
+    },
+    {
+      "path": "/services/restroom-trailers/14ft/",
+      "title": "14ft Restroom Trailer Rental | Temporary 123",
+      "words": 197
+    },
+    {
+      "path": "/services/restroom-trailers/12ft/",
+      "title": "12ft Restroom Trailer Rental | Temporary 123",
+      "words": 201
+    },
+    {
+      "path": "/services/mobile-sleeper-trailers/20ft-vip/",
+      "title": "20ft VIP Sleeper Trailer Rental | Temporary 123",
+      "words": 207
+    },
+    {
+      "path": "/services/mobile-sleeper-trailers/20ft-shared/",
+      "title": "20ft Shared Sleeper Trailer Rental | Temporary 123",
+      "words": 203
+    },
+    {
+      "path": "/services/mobile-sleeper-trailers/20ft-contractor/",
+      "title": "20ft Contractor Sleeper Trailer Rental | Temporary 123",
+      "words": 200
+    },
+    {
+      "path": "/services/mobile-kitchen-trailers/40ft-combination/",
+      "title": "40ft Combination Mobile Kitchen Rental | Temporary 123",
+      "words": 220
+    },
+    {
+      "path": "/services/mobile-kitchen-trailers/40ft-bulk-combination/",
+      "title": "40ft Bulk Combination Mobile Kitchen Rental | Temporary 123",
+      "words": 219
+    },
+    {
+      "path": "/services/mobile-kitchen-trailers/40ft/",
+      "title": "40ft Mobile Kitchen Trailer Rental | Temporary 123",
+      "words": 219
+    },
+    {
+      "path": "/services/mobile-kitchen-trailers/38ft/",
+      "title": "38ft Mobile Kitchen Trailer Rental | Temporary 123",
+      "words": 212
+    },
+    {
+      "path": "/services/mobile-kitchen-trailers/28ft/",
+      "title": "28ft Mobile Kitchen Trailer Rental | Temporary 123",
+      "words": 220
+    },
+    {
+      "path": "/services/mobile-kitchen-trailers/26ft-bulk/",
+      "title": "26ft Bulk Mobile Kitchen Rental | Temporary 123",
+      "words": 220
+    },
+    {
+      "path": "/services/mobile-kitchen-trailers/24ft/",
+      "title": "24ft Mobile Kitchen Trailer Rental | Temporary 123",
+      "words": 223
+    },
+    {
+      "path": "/services/laundry-trailers/30ft/",
+      "title": "30ft Mobile Laundry Trailer Rental | Temporary 123",
+      "words": 212
+    },
+    {
+      "path": "/services/laundry-trailers/24ft/",
+      "title": "24ft Mobile Laundry Trailer Rental | Temporary 123",
+      "words": 203
+    },
+    {
+      "path": "/services/handwashing-trailers/hands-free/",
+      "title": "Hands-Free Handwashing Stations Rental | Temporary 123",
+      "words": 209
+    },
+    {
+      "path": "/services/dishwashing-trailers/38ft-conveyor/",
+      "title": "38ft Conveyor Dishwashing Trailer Rental | Temporary 123",
+      "words": 239
+    },
+    {
+      "path": "/services/dishwashing-trailers/26ft/",
+      "title": "26ft Dishwashing Trailer Rental | Temporary 123",
+      "words": 225
+    },
+    {
+      "path": "/services/dishwashing-trailers/24ft/",
+      "title": "24ft Dishwashing Trailer Rental | Temporary 123",
+      "words": 232
+    },
+    {
+      "path": "/services/dishwashing-trailers/22ft/",
+      "title": "22ft Dishwashing Trailer Rental | Temporary 123",
+      "words": 234
+    },
+    {
+      "path": "/service-areas/",
+      "title": "Temporary Facility Rental Service Areas | Temporary 123AlabamaAlaskaArizonaColoradoFloridaGeorgiaIndianaKansasMaineMassachusettsMinnesotaNew JerseyNorth CarolinaNorth DakotaOklahomaPennsylvaniaSouth DakotaTexasWyomingConnecticutMissouriWest VirginiaIllinoisNew MexicoArkansasCaliforniaDelawareHawaiiIowaKentuckyMarylandMichiganMississippiMontanaNew HampshireNew YorkOhioOregonTennesseeUtahVirginiaWashingtonWisconsinNebraskaSouth CarolinaIdahoNevadaVermontLouisianaRhode IslandAlabamaAlaskaArizonaColoradoFloridaGeorgiaIndianaKansasMaineMassachusettsMinnesotaNew JerseyNorth CarolinaNorth DakotaOklahomaPennsylvaniaSouth DakotaTexasWyomingConnecticutMissouriWest VirginiaIllinoisNew MexicoArkansasCaliforniaDelawareHawaiiIowaKentuckyMarylandMichiganMississippiMontanaNew HampshireNew YorkOhioOregonTennesseeUtahVirginiaWashingtonWisconsinNebraskaSouth CarolinaIdahoNevadaVermontLouisianaRhode Island",
+      "words": 2914
+    },
+    {
+      "path": "/restroom-trailer-rental/",
+      "title": "Restroom Trailer Rental | Temporary 123",
+      "words": 183
+    },
+    {
+      "path": "/remote-man-camp-rental/",
+      "title": "Remote Man Camp Rental | Workforce Housing for Remote Job Sites | Temporary 123",
+      "words": 309
+    },
+    {
+      "path": "/remote-man-camp-for-rent/",
+      "title": "Remote Man Camp for Rent | Workforce Housing for Remote Locations | Temporary 123",
+      "words": 397
+    },
+    {
+      "path": "/remote-containerized-military-berthing-solution-for-rent/",
+      "title": "Containerized Sleeper Units Rental | Temporary 123",
+      "words": 200
+    },
+    {
+      "path": "/remote-basecamp-temporary-housing-rent-mobile-trailers-modular-buildings-restroom-shower-laundry-dining-temporary-building-rentals/",
+      "title": "Remote Basecamp Temporary Housing, Mobile Trailers & Modular Building Rentals | Temporary 123",
+      "words": 579
+    },
+    {
+      "path": "/privacy/",
+      "title": "Privacy | Temporary 123",
+      "words": 53
+    },
+    {
+      "path": "/portable-man-camps-for-rent/",
+      "title": "Portable Man Camps for Rent | Flexible Workforce Housing Solutions | Temporary 123",
+      "words": 311
+    },
+    {
+      "path": "/portable-dishwashing-trailer-rental/",
+      "title": "Portable Dishwashing Trailer Rental | Temporary 123",
+      "words": 180
+    },
+    {
+      "path": "/planning/",
+      "title": "Plan Your Temporary Facilities | Temporary 123",
+      "words": 52
+    },
+    {
+      "path": "/oilfield-man-camp-rentals/",
+      "title": "Oilfield Man Camp Rentals | Workforce Housing for Oilfield Projects | Temporary 123",
+      "words": 305
+    },
+    {
+      "path": "/modular-kitchen-facilities/",
+      "title": "Modular Kitchen Facilities | Temporary 123",
+      "words": 17
+    },
+    {
+      "path": "/mobile-units-for-disaster-relief-special-events/",
+      "title": "Mobile Units for Disaster Relief & Special Events | Temporary 123",
+      "words": 496
+    },
+    {
+      "path": "/mobile-staffing/",
+      "title": "Mobile Staffing | Temporary 123",
+      "words": 194
+    },
+    {
+      "path": "/mobile-man-camp-for-lease/",
+      "title": "Mobile Man Camp for Lease | Flexible Workforce Housing Solutions | Temporary 123",
+      "words": 399
+    },
+    {
+      "path": "/mobile-kitchen-trailer-rental/",
+      "title": "Mobile Kitchen Trailer Rental | Temporary 123",
+      "words": 194
+    },
+    {
+      "path": "/mining-man-camp-rentals/",
+      "title": "Mining Man Camp Rentals | Workforce Housing for Mining Operations | Temporary 123",
+      "words": 320
+    },
+    {
+      "path": "/man-camps-for-rent/",
+      "title": "Man Camps for Rent | Workforce Housing Solutions for Remote Sites | Temporary 123",
+      "words": 336
+    },
+    {
+      "path": "/man-camp-rental/",
+      "title": "Man Camp Rental | Workforce Housing for Remote Sites | Temporary 123",
+      "words": 333
+    },
+    {
+      "path": "/industries/",
+      "title": "Industries & Project Solutions | Temporary 123",
+      "words": 177
+    },
+    {
+      "path": "/hospitality/",
+      "title": "Hospitality | Temporary 123",
+      "words": 207
+    },
+    {
+      "path": "/gsa-schedule/",
+      "title": "GSA Schedule | Temporary 123",
+      "words": 287
+    },
+    {
+      "path": "/government-and-non-government/",
+      "title": "Acquired Government and Non-Goverment Approvals | Temporary 123",
+      "words": 234
+    },
+    {
+      "path": "/government/",
+      "title": "Government | Temporary 123",
+      "words": 159
+    },
+    {
+      "path": "/government/military-kitchen/",
+      "title": "Military Kitchen | Temporary 123",
+      "words": 152
+    },
+    {
+      "path": "/government/hospitals/",
+      "title": "Hospitals | Temporary 123",
+      "words": 17
+    },
+    {
+      "path": "/government/correctional-facilities/",
+      "title": "Correctional Facilities | Temporary 123",
+      "words": 153
+    },
+    {
+      "path": "/food-services-2/",
+      "title": "Food Services | Temporary 123",
+      "words": 311
+    },
+    {
+      "path": "/facility-management-and-base-operations-support/",
+      "title": "Facility Management and Base Operations Support | Temporary 123",
+      "words": 204
+    },
+    {
+      "path": "/equipment-rental-refrigeration-12ft-refrigerated-trailer/",
+      "title": "12ft Refrigeration Trailer Rental | Temporary 123",
+      "words": 209
+    },
+    {
+      "path": "/equipment-rental/",
+      "title": "Equipment Rental | Temporary 123",
+      "words": 1138
+    },
+    {
+      "path": "/equipment-rental/wastewater-and-freshwater-container/",
+      "title": "Wastewater and Freshwater Container | Temporary 123",
+      "words": 90
+    },
+    {
+      "path": "/equipment-rental/tent-structures/",
+      "title": "Tent Structures | Temporary 123",
+      "words": 92
+    },
+    {
+      "path": "/equipment-rental/stair-rentals/",
+      "title": "Stair Rentals | Temporary 123",
+      "words": 90
+    },
+    {
+      "path": "/equipment-rental/shower-trailer/",
+      "title": "Shower Trailer Rental in USA | Temporary 123",
+      "words": 150
+    },
+    {
+      "path": "/equipment-rental/security-camera-trailers/",
+      "title": "Security Camera Trailers | Temporary 123",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/restroom-trailers/",
+      "title": "Restroom Trailers Rental in USA | Temporary 123",
+      "words": 144
+    },
+    {
+      "path": "/equipment-rental/refrigeration/",
+      "title": "Refrigeration | Temporary 123",
+      "words": 130
+    },
+    {
+      "path": "/equipment-rental/refrigerated-containers/",
+      "title": "40ft Refrigerated Container Rental | Temporary 123",
+      "words": 196
+    },
+    {
+      "path": "/equipment-rental/ramp-rentals/",
+      "title": "Ramp Rentals | Temporary 123",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/modular-command-center-trailers/",
+      "title": "Modular Command Center Trailers | Temporary 123",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/modular-buildings/",
+      "title": "Modular buildings | Temporary 123",
+      "words": 90
+    },
+    {
+      "path": "/equipment-rental/mobile-sleep-trailers/",
+      "title": "Mobile sleep trailers | Temporary 123",
+      "words": 156
+    },
+    {
+      "path": "/equipment-rental/mobile-office-trailers/",
+      "title": "Mobile Office Trailers | Temporary 123",
+      "words": 94
+    },
+    {
+      "path": "/equipment-rental/mobile-kitchen-trailers/",
+      "title": "Mobile Kitchen Trailers | Temporary 123",
+      "words": 374
+    },
+    {
+      "path": "/equipment-rental/mobile-crew-camps/",
+      "title": "Mobile crew camps | Temporary 123",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/laundry-trailers/",
+      "title": "Laundry Trailers | Temporary 123",
+      "words": 117
+    },
+    {
+      "path": "/equipment-rental/handwashing-stations/",
+      "title": "Portable Handwashing Stations Rental | Temporary 123",
+      "words": 209
+    },
+    {
+      "path": "/equipment-rental/generator-trailers/",
+      "title": "Generator Trailers Rental in USA | Temporary 123",
+      "words": 89
+    },
+    {
+      "path": "/equipment-rental/fencing-barricades-trash-receptacles/",
+      "title": "Fencing, Barricades, Trash, Receptacles | Temporary 123",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/dining-structure-rental/",
+      "title": "Dining structures | Temporary 123",
+      "words": 93
+    },
+    {
+      "path": "/equipment-rental/classroom-trailers/",
+      "title": "Classroom Trailers | Temporary 123",
+      "words": 95
+    },
+    {
+      "path": "/equipment-rental/bunkhouse-trailers/",
+      "title": "Bunkhouse trailers | Temporary 123",
+      "words": 92
+    },
+    {
+      "path": "/equipment-rental/breakroom-trailer/",
+      "title": "Breakroom Trailer | Temporary 123",
+      "words": 98
+    },
+    {
+      "path": "/disaster-relief-man-camp-workforce-rentals/",
+      "title": "Disaster Relief Man Camp Workforce Rentals | Emergency Housing Solutions | Temporary 123",
+      "words": 320
+    },
+    {
+      "path": "/contact-us/",
+      "title": "Contact Our Team | Temporary 123",
+      "words": 53
+    },
+    {
+      "path": "/construction-man-camp-rentals/",
+      "title": "Construction Man Camp Rentals | Workforce Housing for Construction Sites | Temporary 123",
+      "words": 307
+    },
+    {
+      "path": "/camp-management-and-design/",
+      "title": "Camp Management and Design | Temporary 123",
+      "words": 285
+    },
+    {
+      "path": "/blog/",
+      "title": "Articles on Temporary Facility Planning | Temporary 123",
+      "words": 188
+    },
+    {
+      "path": "/base-camps-for-rent/",
+      "title": "Base Camps for Rent | Modular & Scalable Housing Solutions | Temporary 123",
+      "words": 325
+    },
+    {
+      "path": "/about-us/",
+      "title": "About Temporary 123 | Temporary 123",
+      "words": 215
+    },
+    {
+      "path": "/4500-military-series/",
+      "title": "4500 Military Series | Temporary 123",
+      "words": 462
+    },
+    {
+      "path": "/4500-correctional-facilities-series/",
+      "title": "4500 Correctional Facilities Series | Temporary 123",
+      "words": 474
+    },
+    {
+      "path": "/40ft-military-bulk-kitchen/",
+      "title": "40ft Military Bulk Kitchen | Temporary 123",
+      "words": 435
+    },
+    {
+      "path": "/4000-military-series/",
+      "title": "4000 Military Series | Temporary 123",
+      "words": 420
+    },
+    {
+      "path": "/4000-correctional-facilities-series/",
+      "title": "4000 Correctional Facilities Series | Temporary 123",
+      "words": 29
+    },
+    {
+      "path": "/2800-military-series/",
+      "title": "2800 Military Series | Temporary 123",
+      "words": 386
+    },
+    {
+      "path": "/2800-correctional-facilities-series/",
+      "title": "2800 Correctional Facilities Series | Temporary 123",
+      "words": 436
+    },
+    {
+      "path": "/26ft-military-bulk-kitchen/",
+      "title": "26ft Military Bulk Kitchen | Temporary 123",
+      "words": 12
+    },
+    {
+      "path": "/20ft-refrigeration-trailers/",
+      "title": "20ft Refrigeration Trailer Rental | Temporary 123",
+      "words": 191
+    }
+  ]
+}

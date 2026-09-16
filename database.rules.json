@@ -1,0 +1,8 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "inquiries": { ".indexOn": ["status", "expiresAt"] },
+    "rateLimits": { ".indexOn": ["expiresAt"] }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "temporary123",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build && node --import tsx scripts/prerender.tsx",
+    "preview": "node scripts/serve.mjs",
+    "test": "vitest run tests/calculator.test.ts tests/dishwashing-content.test.ts tests/seo-dashboard.test.ts tests/dishwashing-build.test.ts tests/middleware.test.ts tests/emergency-drawer.test.ts",
+    "test:rules": "firebase emulators:exec --project demo-temporary123 --only database \"vitest run --no-file-parallelism tests/rules.test.ts\"",
+    "test:e2e": "playwright test",
+    "check:release": "node --import tsx scripts/release.ts",
+    "check:seo": "node scripts/check-preview.mjs",
+    "check:links": "node scripts/check-internal-link-casing.mjs",
+    "check:headlines": "node --import tsx scripts/check-location-headlines.mjs",
+    "check:cities": "node --import tsx scripts/check-city-pages.mjs",
+    "optimize:location-photos": "python scripts/optimize-location-photos.py",
+    "typecheck": "tsc --noEmit",
+    "check:security": "python scripts/check-security-evidence.py security/security-evidence.json",
+    "check:secrets": "node scripts/secret-check.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.3.0",
+    "@fontsource/barlow": "^5.2.0",
+    "@fontsource/barlow-condensed": "^5.2.0",
+    "@vercel/functions": "^3.9.8",
+    "firebase": "^12.0.0",
+    "firebase-admin": "^14.4.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "resend": "^6.0.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^5.0.0",
+    "@playwright/test": "^1.55.0",
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "cheerio": "^1.2.0",
+    "firebase-tools": "^14.0.0",
+    "prettier": "^3.9.6",
+    "tailwindcss": "^4.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.0",
+    "vite": "^7.0.0",
+    "vitest": "^3.0.0"
+  },
+  "overrides": {
+    "tar": "^7.5.10",
+    "jwks-rsa": {
+      "jose": "5.10.0"
+    }
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "schema_version": 1,
+  "project": "Temporary 123",
+  "source_revision": "8ea8db4f8b840807295c302ac69f5fed1d3e9f73",
+  "environment": "Node 24; demo-temporary123 Realtime Database emulator; Chrome local preview; live locked database rules; Vercel project creation denied",
+  "generated_at": "2026-09-11T16:49:57.473Z",
+  "controls": [
+    {
+      "id": "ARCH",
+      "status": "pass",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Reviewed server/API and static frontend boundaries",
+      "expected": "Realtime Database implementation and private data access documented",
+      "observed": "Realtime Database implementation and private data access documented",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": ""
+    },
+    {
+      "id": "AUTH",
+      "status": "not_applicable",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "",
+      "expected": "",
+      "observed": "",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "No customer login, recovery or MFA feature."
+    },
+    {
+      "id": "RULES",
+      "status": "pass",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "npm run test:rules; firebase deploy --only database; unauthenticated HTTPS GET",
+      "expected": "Seven emulator tests passed; locked rules deployed; public inquiry read returned HTTP 401 Permission denied",
+      "observed": "Seven emulator tests passed; locked rules deployed; public inquiry read returned HTTP 401 Permission denied",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": ""
+    },
+    {
+      "id": "AUTHZ",
+      "status": "blocked",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Local implementation reviewed; deployed verification unavailable",
+      "expected": "Actual Vercel backend configuration and production evidence",
+      "observed": "Vercel team denies project creation; online intake disabled",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "Requires hosting access and deployment configuration"
+    },
+    {
+      "id": "TENANT",
+      "status": "not_applicable",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "",
+      "expected": "",
+      "observed": "",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "No tenant model or membership feature."
+    },
+    {
+      "id": "SESSION",
+      "status": "not_applicable",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "",
+      "expected": "",
+      "observed": "",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "No browser authentication sessions or session cookies."
+    },
+    {
+      "id": "CSRF",
+      "status": "not_applicable",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "",
+      "expected": "",
+      "observed": "",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "No cookie-authenticated mutations; public submission uses exact origin and App Check, scheduler uses bearer authentication."
+    },
+    {
+      "id": "CORS_HEADERS",
+      "status": "blocked",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Local implementation reviewed; deployed verification unavailable",
+      "expected": "Actual Vercel backend configuration and production evidence",
+      "observed": "Vercel team denies project creation; online intake disabled",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "Requires hosting access and deployment configuration"
+    },
+    {
+      "id": "COOKIE_CONSENT",
+      "status": "pass",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Source and browser inspection",
+      "expected": "No optional tracking scripts; online form disabled",
+      "observed": "No optional tracking scripts; online form disabled",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": ""
+    },
+    {
+      "id": "RATE",
+      "status": "pass",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "npm run test:rules",
+      "expected": "Concurrent IP quota test passed; shared atomic store",
+      "observed": "Concurrent IP quota test passed; shared atomic store",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": ""
+    },
+    {
+      "id": "APP_CHECK",
+      "status": "blocked",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Local implementation reviewed; deployed verification unavailable",
+      "expected": "Actual Vercel backend configuration and production evidence",
+      "observed": "Vercel team denies project creation; online intake disabled",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "Requires hosting access and deployment configuration"
+    },
+    {
+      "id": "INPUT",
+      "status": "pass",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "npm test; scripts/content-check.ts",
+      "expected": "21 API/import tests; imported markup scan has no active content",
+      "observed": "21 API/import tests; imported markup scan has no active content",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": ""
+    },
+    {
+      "id": "STORAGE",
+      "status": "not_applicable",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "",
+      "expected": "",
+      "observed": "",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "No uploads, download endpoints or configured cloud Storage bucket."
+    },
+    {
+      "id": "INTEGRATIONS",
+      "status": "blocked",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Local implementation reviewed; deployed verification unavailable",
+      "expected": "Actual Vercel backend configuration and production evidence",
+      "observed": "Vercel team denies project creation; online intake disabled",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "Requires hosting access and deployment configuration"
+    },
+    {
+      "id": "SECRETS",
+      "status": "blocked",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Local implementation reviewed; deployed verification unavailable",
+      "expected": "Actual Vercel backend configuration and production evidence",
+      "observed": "Vercel team denies project creation; online intake disabled",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "Requires hosting access and deployment configuration"
+    },
+    {
+      "id": "DEPLOY",
+      "status": "blocked",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Local implementation reviewed; deployed verification unavailable",
+      "expected": "Actual Vercel backend configuration and production evidence",
+      "observed": "Vercel team denies project creation; online intake disabled",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "Requires hosting access and deployment configuration"
+    },
+    {
+      "id": "OBSERVE",
+      "status": "blocked",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Local implementation reviewed; deployed verification unavailable",
+      "expected": "Actual Vercel backend configuration and production evidence",
+      "observed": "Vercel team denies project creation; online intake disabled",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "Requires hosting access and deployment configuration"
+    },
+    {
+      "id": "RECOVERY",
+      "status": "blocked",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "Local implementation reviewed; deployed verification unavailable",
+      "expected": "Actual Vercel backend configuration and production evidence",
+      "observed": "Vercel team denies project creation; online intake disabled",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": "Requires hosting access and deployment configuration"
+    },
+    {
+      "id": "SUPPLY",
+      "status": "pass",
+      "implementation": [
+        "server/",
+        "api/",
+        "src/",
+        "database.rules.json"
+      ],
+      "verification": "npm audit --omit=dev --audit-level=high",
+      "expected": "No high/critical production findings; two moderate transitive gaxios/uuid findings remain",
+      "observed": "No high/critical production findings; two moderate transitive gaxios/uuid findings remain",
+      "executed_at": "2026-09-11T16:49:57.473Z",
+      "evidence": [
+        "access-inventory.md",
+        "../docs/REVIEW-AND-HANDOFF.md"
+      ],
+      "reason": ""
+    }
+  ],
+  "findings": []
+}

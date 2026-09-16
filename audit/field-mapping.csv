@@ -1,0 +1,29 @@
+Spreadsheet field,Available or missing,Interpreted meaning,Reliability,Use,Blank count,Additional data required
+Page title,Available,Exported target page title,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,127,Original provider report settings and fresh crawl
+Page URL,Available,"Destination URL, not referring source",Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Language,Available,Detected target language,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,127,Original provider report settings and fresh crawl
+Platform,Available,Detected target platform,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,127,Original provider report settings and fresh crawl
+UR,Available,"Provider URL rating, not Google metric",Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,30,Original provider report settings and fresh crawl
+Referring domains,Available,Aggregate referring-domain count; overlaps unknown,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Top DR,Available,"Highest source Domain Rating, not a quality verdict",Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Links to target,Available,Aggregate links to this target,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+New Links,Available,Provider new-link count; time window not supplied,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Lost Links,Available,Provider lost-link count; time window not supplied,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Dofollow,Available,Aggregate followed links,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Nofollow,Available,Aggregate nofollow links,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Redirects,Available,Provider redirect metric; NOT verified chain length,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Page HTTP code,Available,"Crawler HTTP snapshot, not live status",Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,30,Original provider report settings and fresh crawl
+First seen,Available,Provider first observation timestamp,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Last seen,Available,Provider last observation timestamp,Historical provider snapshot; semantics need original export documentation,Inventory and prioritization only,0,Original provider report settings and fresh crawl
+Referring page URL,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Referring domain identity,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Anchor text,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Per-link follow status,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Sponsored/UGC attributes,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Link placement,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Organic traffic,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Redirect destination/chain,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Source topical context,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Google-selected canonical,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Search Console clicks/impressions,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"
+Conversions,Missing,Not present,Unavailable,Required before final migration/quality decisions,148,"Backlink-level export, crawl, analytics or Search Console as appropriate"

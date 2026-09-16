@@ -1,0 +1,10 @@
+EVIDENCE INCOMPLETE � release readiness rejected
+- AUTHZ: blocked
+- CORS_HEADERS: blocked
+- COOKIE_CONSENT: blocked
+- APP_CHECK: blocked
+- INTEGRATIONS: blocked
+- SECRETS: blocked
+- DEPLOY: blocked
+- OBSERVE: blocked
+- RECOVERY: blocked

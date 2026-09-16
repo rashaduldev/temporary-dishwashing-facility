@@ -1,0 +1,143 @@
+{
+  "workbook": "temporary123.com-bbl-external-subdomains_2026-09-11_03-38-48 (1).csv.xlsx",
+  "sha256": "a0b2e858845fc6df5d50078ee467b34061d4f2ae92795eea9c3db0b3379cbc62",
+  "sheets": [
+    "temporary123.com-bbl-external-s"
+  ],
+  "data_rows": 148,
+  "columns": 16,
+  "exact_unique_urls": 148,
+  "normalized_strategic_targets": 102,
+  "scheme_preserving_www_normalized_targets": 103,
+  "status_counts": {
+    "403": 30,
+    "301": 67,
+    "200": 21,
+    "None": 30
+  },
+  "missing_by_field": {
+    "Page title": 127,
+    "Page URL": 0,
+    "Language": 127,
+    "Platform": 127,
+    "UR": 30,
+    "Referring domains": 0,
+    "Top DR": 0,
+    "Links to target": 0,
+    "New Links": 0,
+    "Lost Links": 0,
+    "Dofollow": 0,
+    "Nofollow": 0,
+    "Redirects": 0,
+    "Page HTTP code": 30,
+    "First seen": 0,
+    "Last seen": 0
+  },
+  "dates": {
+    "First seen": {
+      "minimum": "2023-05-16 15:08:35",
+      "maximum": "2026-08-29 02:29:18"
+    },
+    "Last seen": {
+      "minimum": "2026-04-09 01:26:32",
+      "maximum": "2026-09-10 19:27:04"
+    }
+  },
+  "priority_counts": {
+    "A": 3,
+    "B": 5,
+    "C": 121,
+    "E": 19
+  },
+  "nonreconciling_rows": 4,
+  "host_counts": {
+    "temporary123.com": 52,
+    "www.temporary123.com": 96
+  },
+  "scheme_counts": {
+    "https": 146,
+    "http": 2
+  },
+  "repeated_metric_groups": [
+    {
+      "metrics": [
+        2,
+        10,
+        13,
+        13,
+        0
+      ],
+      "rows": 51
+    },
+    {
+      "metrics": [
+        1,
+        56,
+        178,
+        178,
+        0
+      ],
+      "rows": 5
+    },
+    {
+      "metrics": [
+        1,
+        10,
+        2,
+        2,
+        0
+      ],
+      "rows": 15
+    },
+    {
+      "metrics": [
+        1,
+        68,
+        1,
+        1,
+        0
+      ],
+      "rows": 5
+    },
+    {
+      "metrics": [
+        1,
+        56,
+        343,
+        343,
+        0
+      ],
+      "rows": 7
+    },
+    {
+      "metrics": [
+        1,
+        56,
+        239,
+        239,
+        0
+      ],
+      "rows": 7
+    },
+    {
+      "metrics": [
+        1,
+        56,
+        1,
+        1,
+        0
+      ],
+      "rows": 6
+    },
+    {
+      "metrics": [
+        1,
+        56,
+        87,
+        87,
+        0
+      ],
+      "rows": 7
+    }
+  ]
+}

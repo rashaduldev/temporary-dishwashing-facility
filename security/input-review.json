@@ -1,0 +1,89 @@
+{
+  "sheet": "temporary123.com-bbl-external-s",
+  "rows": 148,
+  "exact_urls": 148,
+  "normalized_targets": 102,
+  "archive_comparison": [
+    {
+      "path": "audit\\AUDIT-AND-PLAN.md",
+      "identical": true
+    },
+    {
+      "path": "audit\\content-review.json",
+      "identical": true
+    },
+    {
+      "path": "audit\\field-mapping.csv",
+      "identical": true
+    },
+    {
+      "path": "audit\\high-value-candidates.csv",
+      "identical": true
+    },
+    {
+      "path": "audit\\live-fetch-log.csv",
+      "identical": true
+    },
+    {
+      "path": "audit\\manual-review.csv",
+      "identical": true
+    },
+    {
+      "path": "audit\\migration-map.csv",
+      "identical": true
+    },
+    {
+      "path": "audit\\summary.json",
+      "identical": true
+    },
+    {
+      "path": "audit\\url-inventory.csv",
+      "identical": true
+    },
+    {
+      "path": "docs\\DESIGN.md",
+      "identical": true
+    },
+    {
+      "path": "docs\\OPERATIONS.md",
+      "identical": true
+    },
+    {
+      "path": "docs\\QA.md",
+      "identical": true
+    },
+    {
+      "path": "docs\\REVISED-PROJECT-PROMPT.md",
+      "identical": true
+    },
+    {
+      "path": "docs\\SETUP.md",
+      "identical": true
+    },
+    {
+      "path": "docs\\THIRD-PARTY-NOTICES.md",
+      "identical": true
+    },
+    {
+      "path": "docs\\THREAT-MODEL.md",
+      "identical": true
+    },
+    {
+      "path": "audit\\input\\original-backlink-export.xlsx",
+      "identical": true
+    },
+    {
+      "path": "audit\\input\\original-project-prompt.md",
+      "identical": true
+    }
+  ],
+  "all_audit_files_match_source": true,
+  "export_status_counts": {
+    "403": 30,
+    "301": 67,
+    "200": 21,
+    "None": 30
+  },
+  "missing_page_titles": 127,
+  "note": "This is a backlink-target export; it does not contain individual referring-page URLs or anchor text. Referring-domain counts are per target and cannot be summed into unique domains."
+}

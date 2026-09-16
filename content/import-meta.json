@@ -1,0 +1,8 @@
+{
+  "source": "https://temporary123.com",
+  "startedAt": "2026-09-11T16:26:17.122Z",
+  "total": 98253,
+  "batches": 983,
+  "scope": "All public WordPress pages",
+  "sanitization": "Preserves text, semantic markup, links and image references; removes executable scripts, styles, forms and layout wrappers."
+}

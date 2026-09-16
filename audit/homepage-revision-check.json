@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-09-14T15:44:51.132Z",
+  "htmlPages": 650,
+  "localLinks": 79882,
+  "localImages": 2048,
+  "uniqueTitles": 650,
+  "uniqueDescriptions": 650,
+  "linkedRoutes": 679,
+  "problems": [],
+  "pendingMigrationLinks": [
+    {
+      "path": "/government/education/",
+      "links": 3
+    },
+    {
+      "path": "/government/emergency-services/",
+      "links": 3
+    },
+    {
+      "path": "/wp-content/uploads/2021/11/HAND-WASHING-STATION-1-web.jpg",
+      "links": 2
+    },
+    {
+      "path": "/testimonials/",
+      "links": 1
+    }
+  ],
+  "restoredAssets": 186,
+  "migration": {
+    "source": "https://temporary123.com",
+    "expected": 98253,
+    "recovered": 625,
+    "complete": false,
+    "checkedAt": "2026-09-11T16:39:23.031Z"
+  },
+  "launchReady": false,
+  "indexing": "This build remains excluded from indexing."
+}

@@ -1,0 +1,560 @@
+{
+  "approvedScope": "Phase 2 preview, user approved 2026-09-12",
+  "sourceRecoveryComplete": false,
+  "googlePropertiesVerified": false,
+  "inquiryDeliveryVerified": false,
+  "businessClaimsReviewed": false,
+  "oldWorkflowParityVerified": false,
+  "unresolvedPaths": [
+    "/wp-content/uploads/2023/02/Air-Force.png",
+    "/wp-content/uploads/2023/02/Army.png",
+    "/wp-content/uploads/2023/02/Coast-Guard.png",
+    "/wp-content/uploads/2023/02/DFA.png",
+    "/wp-content/uploads/2023/02/Marine.png",
+    "/wp-content/uploads/2023/02/Navy.png",
+    "/government/education/",
+    "/government/emergency-services/",
+    "/images/catalog/handwashing-station-original.jpg",
+    "/images/facility.webp",
+    "/images/housing.webp",
+    "/images/interior.webp",
+    "/images/kitchen.webp",
+    "/images/shower.webp",
+    "/media/0565a988863c92aeef235ef1.png",
+    "/media/15f16009c3f63a6c37e9707f.jpg",
+    "/media/2b38204c46365fe95a6f581a.jpg",
+    "/media/2e9e800b7059c1c663b8b3d9.png",
+    "/media/39c58d8db693693df7d5589f.png",
+    "/media/47bd84b329b117f784286ee8.webp",
+    "/media/4d917669a1ddf2cc7450e58c.jpg",
+    "/media/4e54342585946d7f0e0254a2.png",
+    "/media/655fb7048f20d305203873c3.jpg",
+    "/media/975bd6d0d31e613e775308c2.jpg",
+    "/media/a82699176e52dc1827cc9495.jpg",
+    "/media/ac11f5fcaca5a724b424aa76.jpg",
+    "/media/c120f1a788627b5c7ac5f743.png",
+    "/media/c253efd7ad57a4de5e8f15d3.jpg",
+    "/media/e4c4ec3a81b6ed6fec49b183.png",
+    "/media/e5bfe18449d2639300dc2066.png",
+    "/media/f2e5f2a9200ba3511ec38271.jpg",
+    "/media/f346e3a773e0fed5a83e0b5a.jpg",
+    "/wp-content/uploads/2021/11/HAND-WASHING-STATION-1-web.jpg",
+    "/albuquerque-new-mexico-mobile-kitchen-rental/",
+    "/anaheim-california-mobile-kitchen-rental/",
+    "/anchorage-alaska-mobile-kitchen-rental/",
+    "/arlington-texas-mobile-kitchen-rental/",
+    "/atlanta-georgia-mobile-kitchen-rental/",
+    "/aurora-colorado-mobile-kitchen-rental/",
+    "/austin-texas-mobile-kitchen-rental/",
+    "/bakersfield-california-mobile-kitchen-rental/",
+    "/baltimore-maryland-mobile-kitchen-rental/",
+    "/boise-city-idaho-mobile-kitchen-rental/",
+    "/boston-massachusetts-mobile-kitchen-rental/",
+    "/buffalo-new-york-mobile-kitchen-rental/",
+    "/chandler-arizona-mobile-kitchen-rental/",
+    "/charlotte-north-carolina-mobile-kitchen-rental/",
+    "/chesapeake-virginia-mobile-kitchen-rental/",
+    "/chicago-illinois-mobile-kitchen-rental/",
+    "/chula-vista-california-mobile-kitchen-rental/",
+    "/cincinnati-ohio-mobile-kitchen-rental/",
+    "/cleveland-ohio-mobile-kitchen-rental/",
+    "/colorado-springs-colorado-mobile-kitchen-rental/",
+    "/columbus-ohio-mobile-kitchen-rental/",
+    "/corpus-christi-texas-mobile-kitchen-rental/",
+    "/dallas-texas-mobile-kitchen-rental/",
+    "/denver-colorado-mobile-kitchen-rental/",
+    "/detroit-michigan-mobile-kitchen-rental/",
+    "/durham-north-carolina-mobile-kitchen-rental/",
+    "/el-paso-texas-mobile-kitchen-rental/",
+    "/fort-wayne-indiana-mobile-kitchen-rental/",
+    "/fort-worth-texas-mobile-kitchen-rental/",
+    "/fremont-california-mobile-kitchen-rental/",
+    "/fresno-california-mobile-kitchen-rental/",
+    "/garland-texas-mobile-kitchen-rental/",
+    "/gilbert-arizona-mobile-kitchen-rental/",
+    "/glendale-arizona-mobile-kitchen-rental/",
+    "/greensboro-north-carolina-mobile-kitchen-rental/",
+    "/henderson-nevada-mobile-kitchen-rental/",
+    "/honolulu-hawaii-mobile-kitchen-rental/",
+    "/indianapolis-indiana-mobile-kitchen-rental/",
+    "/irvine-california-mobile-kitchen-rental/",
+    "/irving-texas-mobile-kitchen-rental/",
+    "/jacksonville-florida-mobile-kitchen-rental/",
+    "/jersey-city-new-jersey-mobile-kitchen-rental/",
+    "/kansas-city-missouri-mobile-kitchen-rental/",
+    "/laredo-texas-mobile-kitchen-rental/",
+    "/las-vegas-nevada-mobile-kitchen-rental/",
+    "/lexington-kentucky-mobile-kitchen-rental/",
+    "/lincoln-nebraska-mobile-kitchen-rental/",
+    "/long-beach-california-mobile-kitchen-rental/",
+    "/los-angeles-california-mobile-kitchen-rental/",
+    "/louisville-kentucky-mobile-kitchen-rental/",
+    "/lubbock-texas-mobile-kitchen-rental/",
+    "/memphis-tennessee-mobile-kitchen-rental/",
+    "/mesa-arizona-mobile-kitchen-rental/",
+    "/miami-florida-mobile-kitchen-rental/",
+    "/milwaukee-wisconsin-mobile-kitchen-rental/",
+    "/minneapolis-minnesota-mobile-kitchen-rental/",
+    "/nashville-tennessee-mobile-kitchen-rental/",
+    "/new-orleans-louisiana-mobile-kitchen-rental/",
+    "/new-york-new-york-mobile-kitchen-rental/",
+    "/newark-new-jersey-mobile-kitchen-rental/",
+    "/norfolk-virginia-mobile-kitchen-rental/",
+    "/north-las-vegas-nevada-mobile-kitchen-rental/",
+    "/oakland-california-mobile-kitchen-rental/",
+    "/oklahoma-city-oklahoma-mobile-kitchen-rental/",
+    "/omaha-nebraska-mobile-kitchen-rental/",
+    "/orlando-florida-mobile-kitchen-rental/",
+    "/philadelphia-pennsylvania-mobile-kitchen-rental/",
+    "/phoenix-arizona-mobile-kitchen-rental/",
+    "/pittsburgh-pennsylvania-mobile-kitchen-rental/",
+    "/plano-texas-mobile-kitchen-rental/",
+    "/portland-oregon-mobile-kitchen-rental/",
+    "/raleigh-north-carolina-mobile-kitchen-rental/",
+    "/richmond-virginia-mobile-kitchen-rental/",
+    "/riverside-california-mobile-kitchen-rental/",
+    "/sacramento-california-mobile-kitchen-rental/",
+    "/san-antonio-texas-mobile-kitchen-rental/",
+    "/san-bernardino-california-mobile-kitchen-rental/",
+    "/san-diego-california-mobile-kitchen-rental/",
+    "/san-francisco-california-mobile-kitchen-rental/",
+    "/san-jose-california-mobile-kitchen-rental/",
+    "/santa-ana-california-mobile-kitchen-rental/",
+    "/santa-clarita-california-mobile-kitchen-rental/",
+    "/scottsdale-arizona-mobile-kitchen-rental/",
+    "/seattle-washington-mobile-kitchen-rental/",
+    "/spokane-washington-mobile-kitchen-rental/",
+    "/st-louis-missouri-mobile-kitchen-rental/",
+    "/st-paul-minnesota-mobile-kitchen-rental/",
+    "/st-petersburg-florida-mobile-kitchen-rental/",
+    "/stockton-california-mobile-kitchen-rental/",
+    "/tampa-florida-mobile-kitchen-rental/",
+    "/tucson-arizona-mobile-kitchen-rental/",
+    "/tulsa-oklahoma-mobile-kitchen-rental/",
+    "/virginia-beach-virginia-mobile-kitchen-rental/",
+    "/washington-district-of-columbia-mobile-kitchen-rental/",
+    "/wichita-kansas-mobile-kitchen-rental/",
+    "/winston-salem-north-carolina-mobile-kitchen-rental/",
+    "/food-catering/",
+    "/food-service-design/",
+    "/food-service-management/",
+    "/food-service-staffing/",
+    "/wp-content/uploads/2023/02/FEMA.png",
+    "/testimonials/"
+  ],
+  "redirectReviews": [
+    {
+      "source": "/houston-texas-mobile-kitchen-rental/",
+      "destination": "/equipment-rental/mobile-kitchen-trailers/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-:location/",
+      "destination": "/equipment-rental/restroom-trailers/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/equipment-rental/shower-trailer/portable-shower-trailers-in-:location/",
+      "destination": "/equipment-rental/shower-trailer/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/temporary-remote-workforce-housing-services-in-:location/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/remote-workforce-housing-services-in-:location/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/remote-workforce-housing-in-:location/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/remote-workforce-housing-rentals-in-:location/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/remote-workforce-house-company-in-:location/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/workforce-housing-shelters-in-:location/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/emergency-workforce-housing-in-:location/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Source and coverage evidence required; no generic hub redirect approved"
+    },
+    {
+      "source": "/temporary-workforce-housing-facilities/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/containerized-shower-trailers/",
+      "destination": "/equipment-rental/shower-trailer/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "redirect",
+      "reason": "Approve only after original content or authoritative equipment mapping confirms equivalence"
+    },
+    {
+      "source": "/equipment-rental/sleeper-trailers/",
+      "destination": "/equipment-rental/mobile-sleep-trailers/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "redirect",
+      "reason": "Approve only after original content or authoritative equipment mapping confirms equivalence"
+    },
+    {
+      "source": "/equipment-rental/command-center-trailers/",
+      "destination": "/equipment-rental/modular-command-center-trailers/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "redirect",
+      "reason": "Approve only after original content or authoritative equipment mapping confirms equivalence"
+    },
+    {
+      "source": "/equipment-rental/decontamination-trailers/",
+      "destination": "/equipment-rental/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/equipment-rental/dump-rental/",
+      "destination": "/equipment-rental/fencing-barricades-trash-receptacles/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "redirect",
+      "reason": "Approve only after original content or authoritative equipment mapping confirms equivalence"
+    },
+    {
+      "source": "/equipment-rental/multi-trailer/",
+      "destination": "/equipment-rental/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/equipment-rental/port-potties-and-port-johns/",
+      "destination": "/equipment-rental/restroom-trailers/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/equipment-rental/ramp-rental/",
+      "destination": "/equipment-rental/ramp-rentals/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "redirect",
+      "reason": "Approve only after original content or authoritative equipment mapping confirms equivalence"
+    },
+    {
+      "source": "/equipment-rental/stair-rental/",
+      "destination": "/equipment-rental/stair-rentals/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "redirect",
+      "reason": "Approve only after original content or authoritative equipment mapping confirms equivalence"
+    },
+    {
+      "source": "/equipment-rental/waste-container/",
+      "destination": "/equipment-rental/fencing-barricades-trash-receptacles/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "redirect",
+      "reason": "Approve only after original content or authoritative equipment mapping confirms equivalence"
+    },
+    {
+      "source": "/catering/",
+      "destination": "/food-services-2/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/emergency-migrant-containerized-living-spaces/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/modular-temporary-camp-facilities/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/modular-temporary-workforce-housing-facilities/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/remote-basecamp-housing-service-company/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/remote-containerized-military-berthing-solution/",
+      "destination": "/remote-containerized-military-berthing-solution-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "redirect",
+      "reason": "Approve only after original content or authoritative equipment mapping confirms equivalence"
+    },
+    {
+      "source": "/remote-housing-facilities/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/remote-temporary-workforce-housing-facilities-rental/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/remote-workforce-housing-facilities/",
+      "destination": "/man-camps-for-rent/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/wp-content/uploads/2023/04/2-Food-Service-Design.png",
+      "destination": "/food-services-2/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate",
+      "reason": "Asset bytes, ownership and equivalence review required"
+    },
+    {
+      "source": "/contact/",
+      "destination": "/contact-us/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "redirect",
+      "reason": "Approve only after original content or authoritative equipment mapping confirms equivalence"
+    },
+    {
+      "source": "/planning-tool/",
+      "destination": "/planning/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/shop/",
+      "destination": "/equipment-rental/",
+      "status": "needs_source_equivalence",
+      "proposedAction": "retain/recreate pending decision",
+      "reason": "Business/content equivalence unresolved"
+    },
+    {
+      "source": "/inventory/laundry-trailers/",
+      "destination": "/equipment-rental/laundry-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/handwashing-stations/",
+      "destination": "/equipment-rental/handwashing-stations/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/classroom-trailers/",
+      "destination": "/equipment-rental/classroom-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/restroom-trailers/",
+      "destination": "/equipment-rental/restroom-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/temporary-shower-trailers/",
+      "destination": "/equipment-rental/shower-trailer/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/mobile-sleep-trailers/",
+      "destination": "/equipment-rental/mobile-sleep-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/mobile-office-trailers/",
+      "destination": "/equipment-rental/mobile-office-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/shower-trailer/",
+      "destination": "/equipment-rental/shower-trailer/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/military-command-center-trailers/",
+      "destination": "/equipment-rental/modular-command-center-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/mobile-command-trailers/",
+      "destination": "/equipment-rental/modular-command-center-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/mobile-crew-camps/",
+      "destination": "/equipment-rental/mobile-crew-camps/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/stair-rentals/",
+      "destination": "/equipment-rental/stair-rentals/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/refrigeration-trailers/",
+      "destination": "/equipment-rental/refrigeration/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/mobile-kitchen-trailers/",
+      "destination": "/equipment-rental/mobile-kitchen-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/security-camera-trailers/",
+      "destination": "/equipment-rental/security-camera-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/refrigerated-containers/",
+      "destination": "/equipment-rental/refrigerated-containers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/tent-rentals/",
+      "destination": "/equipment-rental/tent-structures/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/ramp-rentals/",
+      "destination": "/equipment-rental/ramp-rentals/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/wastewater-freshwater-container/",
+      "destination": "/equipment-rental/wastewater-and-freshwater-container/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/modular-buildings/",
+      "destination": "/equipment-rental/modular-buildings/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/bunkhouse-trailers/",
+      "destination": "/equipment-rental/bunkhouse-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/fencing-barricades-trash-receptacles/",
+      "destination": "/equipment-rental/fencing-barricades-trash-receptacles/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/generator-trailers/",
+      "destination": "/equipment-rental/generator-trailers/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/dining-structure-rental/",
+      "destination": "/equipment-rental/dining-structure-rental/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    },
+    {
+      "source": "/breakroom-trailer/",
+      "destination": "/equipment-rental/breakroom-trailer/",
+      "status": "verified",
+      "proposedAction": "redirect",
+      "reason": "Explicit legacyPath-to-path equipment identity in content/equipment-catalog.json; existing redirect retained under approved Phase 2 scope"
+    }
+  ]
+}

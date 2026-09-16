@@ -1,0 +1,1247 @@
+{
+  "Alabama": [
+    ["Huntsville", "Florence", "Rogersville", "Hillsboro", "North Courtland"],
+    [
+      "Birmingham",
+      "Montgomery",
+      "Clanton",
+      "Thorsby",
+      "Jemison",
+      "Shelby",
+      "Talladega Springs",
+      "Weogufka"
+    ],
+    [
+      "Dothan",
+      "Enterprise",
+      "Newton",
+      "Daleville",
+      "Pinckard",
+      "Clayhatchee",
+      "Fort Rucker",
+      "Midland City"
+    ],
+    [
+      "Mobile",
+      "Gulf Shores",
+      "Point Clear",
+      "Fairhope",
+      "Magnolia Springs",
+      "Silverhill",
+      "Daphne"
+    ]
+  ],
+  "Alaska": [
+    [
+      "Anchorage",
+      "Palmer",
+      "Knik River",
+      "Butte",
+      "Gateway",
+      "South Lakes",
+      "Wasilla",
+      "Knik-Fairview"
+    ],
+    [
+      "Fairbanks",
+      "Delta Junction",
+      "Harding-Birch Lakes",
+      "Salcha",
+      "Eielson AFB",
+      "Moose Creek",
+      "North Pole",
+      "Whitestone"
+    ],
+    [
+      "Juneau",
+      "Ketchikan",
+      "Kupreanof",
+      "Petersburg",
+      "Kake",
+      "Hobart Bay",
+      "Point Baker",
+      "Port Protection"
+    ],
+    ["Bethel", "Dillingham", "Twin Hills", "Togiak", "Quinhagak", "Eek"],
+    ["Utqiagvik", "Kotzebue", "Point Lay", "Red Dog Mine", "Wainwright"]
+  ],
+  "Arizona": [
+    ["Flagstaff", "Prescott", "Clarkdale", "Cottonwood", "Jerome"],
+    ["Phoenix", "Mesa", "Paradise Valley", "Tempe"],
+    [
+      "Tucson",
+      "Sierra Vista",
+      "J-Six Ranchettes",
+      "Mescal",
+      "Vail",
+      "Corona de Tucson",
+      "Sonoita",
+      "Elgin"
+    ]
+  ],
+  "Arkansas": [
+    ["Fayetteville", "Mountain Home", "Batavia", "Alpena"],
+    ["Fort Smith", "Russellville", "Paris", "Caulksville", "Subiaco"],
+    ["Jonesboro", "Helena-West Helena", "Parkin", "Wynne", "Colt", "Widener"],
+    [
+      "Texarkana",
+      "El Dorado",
+      "Waldo",
+      "Buckner",
+      "Magnolia",
+      "McNeil",
+      "Stamps",
+      "Willisville"
+    ]
+  ],
+  "California": [
+    [
+      "Eureka",
+      "Crescent City",
+      "Orick",
+      "Big Lagoon",
+      "Trinidad",
+      "Wautec",
+      "Westhaven-Moonstone"
+    ],
+    [
+      "San Francisco",
+      "Oakland",
+      "Muir Beach",
+      "Broadmoor",
+      "Daly City",
+      "Tamalpais-Homestead Valley",
+      "Marin City",
+      "Sausalito"
+    ],
+    ["Fresno", "Bakersfield", "Tipton", "Waukena", "Matheny"],
+    [
+      "Los Angeles",
+      "Long Beach",
+      "Gardena",
+      "West Rancho Dominguez",
+      "West Athens",
+      "Alondra Park"
+    ],
+    ["Riverside", "San Bernardino", "Colton", "Grand Terrace"],
+    [
+      "San Diego",
+      "Oceanside",
+      "Rancho Santa Fe",
+      "Fairbanks Ranch",
+      "Solana Beach",
+      "Encinitas",
+      "Del Mar"
+    ]
+  ],
+  "Colorado": [
+    [
+      "Denver",
+      "Colorado Springs",
+      "Castle Rock",
+      "Franktown",
+      "Larkspur",
+      "Perry Park",
+      "Castle Pines Village"
+    ],
+    [
+      "Grand Junction",
+      "Durango",
+      "Norwood",
+      "Redvale",
+      "Placerville",
+      "Sawpit",
+      "Nucla",
+      "Naturita"
+    ],
+    ["Sterling", "Burlington", "Yuma", "Eckley", "Otis", "Joes"],
+    ["Alamosa", "Monte Vista", "Alamosa East", "Center"]
+  ],
+  "Connecticut": [
+    [
+      "Torrington",
+      "New Milford",
+      "Bantam",
+      "New Preston",
+      "Litchfield",
+      "Bethlehem Village",
+      "Cornwall Bridge",
+      "Thomaston"
+    ],
+    [
+      "Hartford",
+      "New Britain",
+      "Newington",
+      "West Hartford",
+      "Wethersfield",
+      "Blue Hills"
+    ],
+    [
+      "Middletown",
+      "East Hartford",
+      "Glastonbury Center",
+      "Portland",
+      "Kensington"
+    ],
+    [
+      "New Haven",
+      "New London",
+      "Clinton",
+      "Westbrook Center",
+      "Deep River Center",
+      "Madison Center",
+      "Saybrook Manor",
+      "Chester Center"
+    ]
+  ],
+  "Delaware": [
+    [
+      "Wilmington",
+      "Newark",
+      "Newport",
+      "Pike Creek Valley",
+      "Elsmere",
+      "Wilmington Manor",
+      "Pike Creek",
+      "Brookside"
+    ],
+    ["Dover", "Middletown", "Smyrna", "Clayton", "Kenton", "Cheswold"],
+    [
+      "Rehoboth Beach",
+      "Bethany Beach",
+      "Dewey Beach",
+      "Long Neck",
+      "Henlopen Acres",
+      "Millville",
+      "Ocean View",
+      "South Bethany"
+    ]
+  ],
+  "Florida": [
+    ["Pensacola", "Tallahassee", "Ebro", "Vernon", "Southport"],
+    ["Jacksonville", "Gainesville", "Lawtey", "Middleburg", "Starke"],
+    ["Orlando", "Tampa", "Polk City", "Auburndale", "Fussels Corner"],
+    ["Miami", "Fort Lauderdale", "Ojus", "Ives Estates"],
+    ["Key West", "Marathon", "Big Pine Key", "Cudjoe Key"]
+  ],
+  "Georgia": [
+    ["Rome", "Dalton", "Plainville", "Calhoun", "Resaca"],
+    [
+      "Atlanta",
+      "Marietta",
+      "Vinings",
+      "Smyrna",
+      "Fair Oaks",
+      "Mableton",
+      "Sandy Springs",
+      "Brookhaven"
+    ],
+    [
+      "Macon",
+      "Columbus",
+      "Ellerslie",
+      "Cataula",
+      "Piney Grove",
+      "Cusseta-Chattahoochee County unified government",
+      "Box Springs"
+    ],
+    [
+      "Savannah",
+      "Brunswick",
+      "Crescent",
+      "Eulonia",
+      "Riceboro",
+      "Midway",
+      "Darien",
+      "Buckhead"
+    ],
+    ["Valdosta", "Albany", "Moultrie", "Norman Park"]
+  ],
+  "Hawaii": [
+    [
+      "Honolulu",
+      "Kapolei",
+      "Makakilo",
+      "Kalaeloa",
+      "Ewa Villages",
+      "East Kapolei",
+      "Ewa Gentry"
+    ],
+    ["Kahului", "Lahaina", "Waikapu", "Wailuku", "Olowalu"],
+    [
+      "Hilo",
+      "Kailua-Kona",
+      "Wainaku",
+      "Keaau",
+      "Paukaa",
+      "Kurtistown",
+      "Papaikou"
+    ],
+    ["Lihue", "Kapaa", "Wailua", "Hanamaulu", "Wailua Homesteads", "Puhi"]
+  ],
+  "Idaho": [
+    ["Coeur d'Alene", "Lewiston", "De Smet", "Tensed", "Onaway", "Potlatch"],
+    ["Boise", "Nampa", "Meridian", "Kuna", "Garden City", "Star"],
+    ["Ketchum", "McCall", "Stanley", "Lowman"],
+    [
+      "Idaho Falls",
+      "Pocatello",
+      "Blackfoot",
+      "Groveland",
+      "Firth",
+      "Riverside",
+      "Moreland"
+    ]
+  ],
+  "Illinois": [
+    ["Chicago", "Joliet", "Lemont", "Willow Springs", "Palos Park"],
+    ["Rockford", "DeKalb", "Kirkland", "Monroe Center", "Kingston"],
+    [
+      "Springfield",
+      "Peoria",
+      "San Jose",
+      "Mason City",
+      "New Holland",
+      "Emden",
+      "Delavan",
+      "Green Valley"
+    ],
+    [
+      "Carbondale",
+      "Marion",
+      "Crainville",
+      "Carterville",
+      "Cambria",
+      "Energy",
+      "Colp"
+    ]
+  ],
+  "Indiana": [
+    ["Fort Wayne", "South Bend", "Enchanted Hills", "Syracuse"],
+    ["Indianapolis", "Muncie", "Royerton", "Yorktown", "Cowan", "Selma"],
+    [
+      "Evansville",
+      "Bloomington",
+      "Alfordsville",
+      "Montgomery",
+      "Cannelburg",
+      "Haysville",
+      "Otwell",
+      "Washington"
+    ]
+  ],
+  "Iowa": [
+    ["Sioux City", "Spencer", "Marcus", "Cleghorn"],
+    [
+      "Des Moines",
+      "Ames",
+      "Alleman",
+      "Elkhart",
+      "Ankeny",
+      "Polk City",
+      "Sheldahl",
+      "Huxley"
+    ],
+    ["Dubuque", "Waterloo", "Masonville", "Manchester", "Dundee", "Lamont"],
+    ["Ottumwa", "Burlington", "Stockport", "Lockridge", "Hillsboro", "Rome"]
+  ],
+  "Kansas": [
+    [
+      "Garden City",
+      "Dodge City",
+      "Ingalls",
+      "Cimarron",
+      "Pierceville",
+      "Ensign",
+      "Montezuma"
+    ],
+    [
+      "Salina",
+      "Hays",
+      "Wilson",
+      "Dorrance",
+      "Sylvan Grove",
+      "Bunker Hill",
+      "Lucas"
+    ],
+    [
+      "Kansas City",
+      "Lawrence",
+      "Linwood",
+      "De Soto",
+      "Tonganoxie",
+      "Bonner Springs"
+    ],
+    [
+      "Wichita",
+      "Hutchinson",
+      "Mount Hope",
+      "Andale",
+      "Bentley",
+      "Colwich",
+      "Haven",
+      "St. Marks"
+    ],
+    ["Pittsburg", "Chanute", "Walnut", "St. Paul"]
+  ],
+  "Kentucky": [
+    ["Owensboro", "Paducah", "Wheatcroft", "Clay", "Providence"],
+    [
+      "Lexington",
+      "Frankfort",
+      "Midway",
+      "Lawrenceburg",
+      "Stamping Ground",
+      "Versailles",
+      "Monterey",
+      "Pleasureville"
+    ],
+    ["Pikeville", "Hazard", "Pippa Passes", "Wayland", "Hindman"],
+    [
+      "Bowling Green",
+      "Somerset",
+      "Edmonton",
+      "Columbia",
+      "Marrowbone",
+      "Summer Shade"
+    ]
+  ],
+  "Louisiana": [
+    [
+      "Shreveport",
+      "Monroe",
+      "Arcadia",
+      "Bryceland",
+      "Mount Lebanon",
+      "Gibsland",
+      "Simsboro"
+    ],
+    ["Lafayette", "Lake Charles", "Mermentau", "Jennings", "Egan"],
+    [
+      "Baton Rouge",
+      "Hammond",
+      "Livingston",
+      "Walker",
+      "Denham Springs",
+      "French Settlement",
+      "Port Vincent",
+      "Watson"
+    ],
+    ["New Orleans", "Slidell", "Eden Isle", "Lacombe"],
+    ["Gonzales", "LaPlace", "Lutcher", "Gramercy", "Garyville", "Grand Point"]
+  ],
+  "Maine": [
+    [
+      "Presque Isle",
+      "Caribou",
+      "Fort Fairfield",
+      "Washburn",
+      "Mapleton",
+      "Limestone",
+      "Mars Hill"
+    ],
+    ["Bangor", "Millinocket", "Howland", "Milo"],
+    [
+      "Farmington",
+      "Bethel",
+      "Dixfield",
+      "Mexico",
+      "Rumford",
+      "Wilton",
+      "Chisholm"
+    ],
+    ["Rockland", "Belfast", "Camden", "Thomaston"],
+    [
+      "Bar Harbor",
+      "Machias",
+      "Milbridge",
+      "Jonesport",
+      "Winter Harbor",
+      "Northeast Harbor"
+    ],
+    [
+      "Portland",
+      "Kennebunk",
+      "Old Orchard Beach",
+      "Saco",
+      "Dunstan",
+      "Biddeford"
+    ]
+  ],
+  "Maryland": [
+    [
+      "Cumberland",
+      "Hagerstown",
+      "Hancock",
+      "Little Orleans",
+      "Pecktonville",
+      "Ernstville",
+      "Big Pool"
+    ],
+    ["Rockville", "Bowie", "Hillandale", "College Park", "Adelphi"],
+    [
+      "Baltimore",
+      "Frederick",
+      "Sykesville",
+      "Lisbon",
+      "Eldersburg",
+      "Mount Airy",
+      "Randallstown"
+    ],
+    [
+      "Salisbury",
+      "Easton",
+      "Brookview",
+      "Eldorado",
+      "Hurlock",
+      "East New Market",
+      "Galestown"
+    ],
+    [
+      "Waldorf",
+      "Lexington Park",
+      "Mechanicsville",
+      "Golden Beach",
+      "Benedict",
+      "Charlotte Hall"
+    ]
+  ],
+  "Massachusetts": [
+    ["Pittsfield", "North Adams", "Cheshire", "Adams", "Williamstown", "Lenox"],
+    ["Worcester", "Fitchburg", "South Lancaster", "Leominster", "Clinton"],
+    ["Boston", "Cambridge", "Somerville", "Chelsea", "Everett", "Brookline"],
+    ["Salem", "Gloucester", "Beverly", "Marblehead", "Essex", "Ipswich"],
+    ["Plymouth", "Hyannis", "North Plymouth", "Kingston"]
+  ],
+  "Michigan": [
+    ["Marquette", "Escanaba", "Rock", "Gwinn", "K. I. Sawyer", "Rapid River"],
+    ["Traverse City", "Alpena", "Gaylord", "Lewiston", "Vanderbilt"],
+    ["Grand Rapids", "Muskegon", "Coopersville", "Lamont", "Nunica", "Ravenna"],
+    ["Lansing", "Saginaw", "Henderson", "Owosso"],
+    ["Detroit", "Ann Arbor", "Westland", "Garden City", "Plymouth"]
+  ],
+  "Minnesota": [
+    ["Bemidji", "Crookston", "Fosston", "McIntosh", "Lengby"],
+    ["Duluth", "Hibbing", "Meadowlands", "Brookston"],
+    ["St. Cloud", "Brainerd", "Genola", "Pierz"],
+    [
+      "Minneapolis",
+      "Saint Paul",
+      "Lauderdale",
+      "Golden Valley",
+      "St. Louis Park",
+      "Falcon Heights",
+      "Robbinsdale"
+    ],
+    ["Rochester", "Mankato", "Owatonna", "Medford"]
+  ],
+  "Mississippi": [
+    [
+      "Greenville",
+      "Clarksdale",
+      "Pace",
+      "Renova",
+      "Symonds",
+      "Cleveland",
+      "Skene"
+    ],
+    [
+      "Oxford",
+      "Tupelo",
+      "Thaxton",
+      "Toccopola",
+      "Ecru",
+      "Pontotoc",
+      "Randolph"
+    ],
+    ["Jackson", "Meridian", "Forest", "Hillsboro"],
+    ["Hattiesburg", "Laurel", "Moselle", "Eastabuchie", "Ellisville"],
+    ["Gulfport", "Biloxi", "D'Iberville", "St. Martin"]
+  ],
+  "Missouri": [
+    ["St. Joseph", "Maryville", "Rosendale", "Rea"],
+    [
+      "Kansas City",
+      "Independence",
+      "Blue Summit",
+      "Sugar Creek",
+      "Randolph",
+      "Birmingham",
+      "Avondale",
+      "River Bend"
+    ],
+    [
+      "Columbia",
+      "Jefferson City",
+      "Ashland",
+      "Hartsburg",
+      "Pierpont",
+      "New Bloomfield",
+      "Holts Summit",
+      "St. Martins"
+    ],
+    [
+      "Springfield",
+      "Branson",
+      "Spokane",
+      "Highlandville",
+      "Saddlebrooke",
+      "Nixa",
+      "Ozark",
+      "Fremont Hills"
+    ],
+    [
+      "St. Louis",
+      "St. Charles",
+      "Breckenridge Hills",
+      "St. Ann",
+      "Woodson Terrace",
+      "Overland",
+      "Edmundson"
+    ],
+    ["Cape Girardeau", "Sikeston", "Benton", "Lambert"]
+  ],
+  "Montana": [
+    [
+      "Kalispell",
+      "Missoula",
+      "Ronan",
+      "Pablo",
+      "Charlo",
+      "Kicking Horse",
+      "Kerr",
+      "Turtle Lake"
+    ],
+    [
+      "Great Falls",
+      "Helena",
+      "Hardy",
+      "Craig",
+      "Cascade",
+      "Wolf Creek",
+      "York",
+      "Fair Haven Colony"
+    ],
+    ["Bozeman", "Livingston", "Wineglass", "Bridger", "King Arthur Park"],
+    [
+      "Havre",
+      "Glasgow",
+      "Dodson",
+      "Malta",
+      "Fort Belknap Agency",
+      "East Malta Colony"
+    ],
+    [
+      "Billings",
+      "Miles City",
+      "Hysham",
+      "Custer",
+      "Forsyth",
+      "Colstrip",
+      "Hardin",
+      "Crow Agency"
+    ]
+  ],
+  "Nebraska": [
+    [
+      "Scottsbluff",
+      "Chadron",
+      "Hemingford",
+      "Berea",
+      "Crawford",
+      "Alliance",
+      "Whitney"
+    ],
+    [
+      "Valentine",
+      "Thedford",
+      "Brownlee",
+      "Wood Lake",
+      "Johnstown",
+      "Seneca",
+      "Crookston"
+    ],
+    ["Grand Island", "Kearney", "Shelton", "Wood River", "Gibbon"],
+    [
+      "Norfolk",
+      "Columbus",
+      "Creston",
+      "Humphrey",
+      "Madison",
+      "Leigh",
+      "Cornlea"
+    ],
+    ["Lincoln", "Omaha", "Ashland", "Linoma Beach", "Beacon View", "Memphis"]
+  ],
+  "Nevada": [
+    ["Elko", "Winnemucca", "Valmy", "Battle Mountain"],
+    [
+      "Reno",
+      "Carson City",
+      "Washoe Valley",
+      "Virginia City",
+      "Incline Village"
+    ],
+    ["Ely", "Tonopah", "Preston", "Lund", "Eureka", "Kingston"],
+    [
+      "Las Vegas",
+      "Henderson",
+      "Winchester",
+      "Paradise",
+      "Whitney",
+      "Sunrise Manor"
+    ],
+    [
+      "Mesquite",
+      "Boulder City",
+      "Moapa Valley",
+      "Moapa Town",
+      "Nellis AFB",
+      "North Las Vegas",
+      "Bunkerville",
+      "Spring Valley"
+    ]
+  ],
+  "New Hampshire": [
+    [
+      "Berlin",
+      "Colebrook",
+      "Groveton",
+      "Lancaster",
+      "West Stewartstown",
+      "Gorham",
+      "Whitefield",
+      "Littleton"
+    ],
+    [
+      "Conway",
+      "Lincoln",
+      "Bartlett",
+      "North Conway",
+      "Center Sandwich",
+      "North Woodstock",
+      "Suissevale",
+      "Center Ossipee"
+    ],
+    ["Laconia", "Wolfeboro", "Melvin Village", "Meredith", "Alton", "Belmont"],
+    ["Lebanon", "Claremont", "Plainfield", "Newport"],
+    ["Manchester", "Concord", "Hooksett", "Suncook"],
+    ["Portsmouth", "Dover", "Durham", "Newmarket", "Newfields"]
+  ],
+  "New Jersey": [
+    [
+      "Morristown",
+      "Newton",
+      "Lower Berkshire Valley",
+      "Mount Arlington",
+      "Lake Hopatcong",
+      "Landing"
+    ],
+    [
+      "Newark",
+      "Jersey City",
+      "Kearny",
+      "Harrison",
+      "East Newark",
+      "Bayonne",
+      "North Arlington",
+      "Hoboken"
+    ],
+    [
+      "New Brunswick",
+      "Princeton",
+      "Kendall Park",
+      "Ten Mile Run",
+      "Franklin Park"
+    ],
+    ["Asbury Park", "Toms River", "Allenwood", "Brielle", "Point Pleasant"],
+    ["Trenton", "Camden", "Beverly", "Burlington", "Riverton", "Florence"],
+    ["Atlantic City", "Cape May", "Sea Isle City", "Strathmere"]
+  ],
+  "New Mexico": [
+    ["Santa Fe", "Taos", "Truchas", "Cordova"],
+    ["Las Vegas", "Raton", "Springer", "Wagon Mound", "Cimarron"],
+    [
+      "Albuquerque",
+      "Rio Rancho",
+      "Paradise Hills",
+      "Los Ranchos de Albuquerque",
+      "North Valley",
+      "Corrales"
+    ],
+    ["Roswell", "Carlsbad", "Morningside", "Artesia"],
+    [
+      "Las Cruces",
+      "Silver City",
+      "Faywood",
+      "Garfield",
+      "Keeler Farm",
+      "Pecan Park"
+    ]
+  ],
+  "New York": [
+    ["Watertown", "Plattsburgh", "Tupper Lake", "Cranberry Lake"],
+    ["Albany", "Troy", "Menands", "Siena College", "Loudonville", "Watervliet"],
+    ["Syracuse", "Utica", "Oneida", "Wampsville", "Oneida Castle"],
+    ["Rochester", "Ithaca", "Hall", "Gorham"],
+    ["Buffalo", "Jamestown", "Perrysburg", "Sunset Bay", "Gowanda"],
+    [
+      "Poughkeepsie",
+      "Kingston",
+      "Hyde Park",
+      "Staatsburg",
+      "Rifton",
+      "Haviland",
+      "Tillson"
+    ],
+    ["New York City", "Hempstead", "South Valley Stream", "North Valley Stream"]
+  ],
+  "North Carolina": [
+    ["Asheville", "Boone", "Spruce Pine", "Bakersville", "Burnsville"],
+    ["Greensboro", "Winston-Salem", "Kernersville", "Oak Ridge", "Walkertown"],
+    [
+      "Charlotte",
+      "Gastonia",
+      "Belmont",
+      "Cramerton",
+      "McAdenville",
+      "Mount Holly",
+      "Lowell"
+    ],
+    ["Raleigh", "Durham", "Morrisville", "Cary", "Gorman", "Apex"],
+    ["Fayetteville", "Greenville", "Mar-Mac", "Brogden", "Princeton", "Dudley"],
+    ["Nags Head", "Kill Devil Hills", "Manteo", "Kitty Hawk", "Manns Harbor"]
+  ],
+  "North Dakota": [
+    [
+      "Williston",
+      "Dickinson",
+      "Watford City",
+      "Arnegard",
+      "Killdeer",
+      "Mandaree",
+      "Alexander",
+      "Manning"
+    ],
+    ["Minot", "Devils Lake", "Balta", "Orrin", "Rugby", "Esmond", "Towner"],
+    [
+      "Fargo",
+      "Grand Forks",
+      "Hillsboro",
+      "Caledonia",
+      "Grandin",
+      "Blanchard",
+      "Buxton",
+      "Gardner"
+    ],
+    ["Bismarck", "Jamestown", "Dawson", "Tappen", "Steele", "Driscoll"]
+  ],
+  "Ohio": [
+    ["Cleveland", "Akron", "Brecksville", "Richfield"],
+    ["Toledo", "Lima", "Deshler", "Hoytville", "Custar", "Belmore"],
+    ["Columbus", "Newark", "Pataskala", "Jersey"],
+    ["Cincinnati", "Dayton", "Monroe", "Middletown", "Hunter"],
+    [
+      "Athens",
+      "Marietta",
+      "Vincent",
+      "Stewart",
+      "Little Hocking",
+      "Chesterhill",
+      "Amesville"
+    ]
+  ],
+  "Oklahoma": [
+    [
+      "Guymon",
+      "Boise City",
+      "Keyes",
+      "Texhoma",
+      "Goodwell",
+      "Hough",
+      "Optima",
+      "Hooker"
+    ],
+    [
+      "Woodward",
+      "Enid",
+      "Cleo Springs",
+      "Aline",
+      "Fairview",
+      "Carmen",
+      "Dacoma"
+    ],
+    ["Tulsa", "Bartlesville", "Vera", "Collinsville", "Skiatook", "Ramona"],
+    [
+      "Oklahoma City",
+      "Shawnee",
+      "Harrah",
+      "Choctaw",
+      "Nicoma Park",
+      "McLoud",
+      "Midwest City"
+    ],
+    [
+      "McAlester",
+      "Idabel",
+      "Nashoba",
+      "Clayton",
+      "Finley",
+      "Tuskahoma",
+      "Rattan"
+    ],
+    [
+      "Lawton",
+      "Altus",
+      "Snyder",
+      "Mountain Park",
+      "Indiahoma",
+      "Manitou",
+      "Cache",
+      "Headrick"
+    ]
+  ],
+  "Oregon": [
+    ["Astoria", "Coos Bay", "Depoe Bay", "Lincoln Beach", "Siletz"],
+    ["Portland", "Salem", "Donald", "Butteville", "Hubbard"],
+    [
+      "Medford",
+      "Grants Pass",
+      "Foots Creek",
+      "Gold Hill",
+      "Rogue River",
+      "Jacksonville"
+    ],
+    [
+      "Bend",
+      "Redmond",
+      "Pronghorn",
+      "Tumalo",
+      "Eagle Crest",
+      "Tetherow",
+      "Seventh Mountain"
+    ],
+    ["Pendleton", "Ontario", "Haines", "Baker City", "North Powder"]
+  ],
+  "Pennsylvania": [
+    [
+      "Erie",
+      "Meadville",
+      "Edinboro",
+      "Cambridge Springs",
+      "Mill Village",
+      "Venango",
+      "Waterford",
+      "McKean"
+    ],
+    [
+      "Pittsburgh",
+      "Washington",
+      "Lawrence",
+      "McMurray",
+      "Thompsonville",
+      "Hendersonville",
+      "Bridgeville"
+    ],
+    [
+      "State College",
+      "DuBois",
+      "Wallaceton",
+      "Bigler",
+      "West Decatur",
+      "Woodland",
+      "Morrisdale"
+    ],
+    ["Harrisburg", "Lancaster", "Elizabethtown", "Rheems", "Maytown"],
+    [
+      "Scranton",
+      "Wilkes-Barre",
+      "Hughestown",
+      "Pittston",
+      "Browntown",
+      "Dupont",
+      "West Pittston",
+      "Yatesville"
+    ],
+    [
+      "Philadelphia",
+      "Allentown",
+      "Souderton",
+      "Hatfield",
+      "Telford",
+      "Silverdale",
+      "Sellersville"
+    ]
+  ],
+  "Rhode Island": [
+    [
+      "Providence",
+      "Cranston",
+      "East Providence",
+      "Warwick",
+      "Central Falls",
+      "Greenville",
+      "Valley Falls",
+      "Harmony"
+    ],
+    ["Woonsocket", "Pawtucket", "Cumberland Hill", "Chepachet", "Harrisville"],
+    [
+      "Newport",
+      "Middletown",
+      "Newport East",
+      "Melville",
+      "Narragansett Pier",
+      "Wakefield-Peace Dale",
+      "Kingston",
+      "Tiverton"
+    ],
+    ["Westerly", "Narragansett", "Bradford", "Weekapaug"]
+  ],
+  "South Carolina": [
+    ["Greenville", "Spartanburg", "Reidville", "Duncan", "Startex"],
+    ["Columbia", "Aiken", "Fairview Crossroads", "Pelion", "White Knoll"],
+    ["Florence", "Myrtle Beach", "Daviston", "Centenary"],
+    [
+      "Charleston",
+      "Beaufort",
+      "Adams Run",
+      "Meggett",
+      "Rockville",
+      "Edisto Beach"
+    ]
+  ],
+  "South Dakota": [
+    [
+      "Rapid City",
+      "Spearfish",
+      "Blucksberg Mountain",
+      "Piedmont",
+      "Sturgis",
+      "Boulder Canyon"
+    ],
+    ["Pierre", "Mobridge", "Swift Bird", "Agar"],
+    ["Aberdeen", "Watertown", "Crocker", "Butler", "Bradley", "Bristol"],
+    ["Sioux Falls", "Yankton", "Viborg", "Davis", "Hurley"]
+  ],
+  "Tennessee": [
+    ["Memphis", "Jackson", "Stanton", "Dancyville", "Mason", "Braden"],
+    ["Nashville", "Clarksville", "Adams", "Cedar Hill", "Slayden"],
+    [
+      "Cookeville",
+      "Crossville",
+      "Mayland",
+      "Monterey",
+      "Pleasant Hill",
+      "Bon Air",
+      "Bowman"
+    ],
+    ["Knoxville", "Johnson City", "Russellville", "White Pine", "Morristown"]
+  ],
+  "Texas": [
+    [
+      "Amarillo",
+      "Lubbock",
+      "Kress",
+      "Edmonson",
+      "Tulia",
+      "Hart",
+      "Seth Ward",
+      "Plainview"
+    ],
+    [
+      "Dallas",
+      "Fort Worth",
+      "Euless",
+      "Bedford",
+      "Irving",
+      "Arlington",
+      "Grand Prairie"
+    ],
+    ["Tyler", "Longview", "Liberty City", "Winona"],
+    ["Austin", "Waco", "Salado", "Holland", "Little River-Academy"],
+    ["El Paso", "Midland", "Mentone", "Toyah"],
+    [
+      "Houston",
+      "Corpus Christi",
+      "Palacios",
+      "Blessing",
+      "La Ward",
+      "Midfield",
+      "Lolita"
+    ],
+    ["San Antonio", "Laredo", "Fowlerton", "Cotulla"]
+  ],
+  "Utah": [
+    ["Ogden", "Logan", "Mantua", "Avon", "Paradise"],
+    ["Salt Lake City", "Provo", "Alpine", "Draper"],
+    ["Price", "Richfield", "Manti", "Sterling", "Ephraim"],
+    ["Moab", "Blanding", "Monticello", "La Sal", "Spanish Valley"],
+    ["St. George", "Cedar City", "New Harmony", "Toquerville", "Pine Valley"]
+  ],
+  "Vermont": [
+    ["Newport", "St. Johnsbury", "Glover", "Sutton", "Barton"],
+    ["Burlington", "Middlebury", "East Charlotte", "West Charlotte"],
+    [
+      "Montpelier",
+      "Rutland",
+      "Rochester",
+      "Randolph",
+      "Bethel",
+      "South Lincoln",
+      "Northfield",
+      "Lincoln"
+    ],
+    [
+      "Brattleboro",
+      "Bennington",
+      "Wilmington",
+      "Chimney Hill",
+      "Whitingham",
+      "Jacksonville",
+      "Readsboro",
+      "Stamford"
+    ]
+  ],
+  "Virginia": [
+    [
+      "Arlington",
+      "Manassas",
+      "Kings Park West",
+      "George Mason",
+      "Burke Centre",
+      "Long Branch",
+      "Wakefield",
+      "Fairfax Station"
+    ],
+    ["Winchester", "Harrisonburg", "Edinburg", "Bowmans Crossing", "Woodstock"],
+    ["Richmond", "Charlottesville", "Goochland", "Columbia", "Mineral"],
+    [
+      "Norfolk",
+      "Newport News",
+      "Hampton",
+      "Bethel Manor",
+      "Carrollton",
+      "Portsmouth"
+    ],
+    [
+      "Onancock",
+      "Chincoteague",
+      "Modest Town",
+      "Mappsville",
+      "Nelsonia",
+      "Gargatha"
+    ],
+    [
+      "Roanoke",
+      "Bristol",
+      "Wytheville",
+      "Fort Chiswell",
+      "Max Meadows",
+      "Ivanhoe"
+    ]
+  ],
+  "Washington": [
+    ["Port Angeles", "Aberdeen", "Amanda Park", "Neilton", "Hoodsport"],
+    ["Seattle", "Tacoma", "Normandy Park", "Vashon", "Burien"],
+    ["Bellingham", "Wenatchee", "Darrington", "Verlot"],
+    ["Yakima", "Ellensburg", "Naches", "Gleed", "Eschbach", "Selah"],
+    ["Spokane", "Pullman", "Rosalia", "Oakesdale", "Malden", "Latah"],
+    ["Vancouver", "Centralia", "Lexington", "Kelso"]
+  ],
+  "West Virginia": [
+    ["Wheeling", "Weirton", "Beech Bottom", "Wellsburg", "Windsor Heights"],
+    [
+      "Morgantown",
+      "Fairmont",
+      "Booth",
+      "Rivesville",
+      "Baxter",
+      "Westover",
+      "Granville",
+      "Grant Town"
+    ],
+    [
+      "Martinsburg",
+      "Harpers Ferry",
+      "Shenandoah Junction",
+      "Shepherdstown",
+      "Ranson corporation",
+      "Bolivar"
+    ],
+    [
+      "Charleston",
+      "Huntington",
+      "Culloden",
+      "Hurricane",
+      "Milton",
+      "Teays Valley",
+      "Hamlin"
+    ],
+    ["Beckley", "Lewisburg", "Meadow Bridge", "Hinton", "Alderson", "Rainelle"],
+    ["Logan", "Bluefield", "Brenton", "Pineville", "Davy"]
+  ],
+  "Wisconsin": [
+    [
+      "Rhinelander",
+      "Minocqua",
+      "Lake Tomahawk",
+      "Woodruff",
+      "Sayner",
+      "Eagle River",
+      "Three Lakes",
+      "Tomahawk"
+    ],
+    ["Superior", "Ashland", "Iron River", "Brule", "Port Wing"],
+    [
+      "Wausau",
+      "Stevens Point",
+      "Knowlton",
+      "Kronenwetter",
+      "Mosinee",
+      "Rothschild"
+    ],
+    ["Green Bay", "Appleton", "Wrightstown", "De Pere", "Hobart"],
+    [
+      "Madison",
+      "Janesville",
+      "Stoughton",
+      "Fulton",
+      "Brooklyn",
+      "Evansville",
+      "Edgerton",
+      "Oregon"
+    ],
+    [
+      "Milwaukee",
+      "Racine",
+      "Oak Creek",
+      "South Milwaukee",
+      "Cudahy",
+      "St. Francis"
+    ],
+    [
+      "La Crosse",
+      "Prairie du Chien",
+      "De Soto",
+      "Ferryville",
+      "Genoa",
+      "Lynxville"
+    ]
+  ],
+  "Wyoming": [
+    ["Jackson", "Cody", "Dubois", "Kelly", "Meeteetse"],
+    ["Gillette", "Sheridan", "Arvada", "Clearmont", "Buffalo", "Story"],
+    ["Casper", "Riverton", "Powder River", "Jeffrey City"],
+    ["Rock Springs", "Evanston", "Lyman", "Granger", "Little America"],
+    [
+      "Cheyenne",
+      "Laramie",
+      "Warren AFB",
+      "South Greeley",
+      "Ranchettes",
+      "Fox Farm-College",
+      "Hillsdale",
+      "Chugwater"
+    ]
+  ]
+}

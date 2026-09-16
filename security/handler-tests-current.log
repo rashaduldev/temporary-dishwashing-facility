@@ -1,0 +1,31 @@
+
+> temporary123@0.1.0 test
+> vitest run tests/contact.test.ts tests/routes.test.ts tests/import.test.mjs
+
+
+ RUN  v3.2.7 C:/Users/Lee/Documents/Codex/2026-09-11/https-github-com-markravencanete50-source-temp123/work/Temp123
+
+stderr | tests/contact.test.ts > contact application boundary > preserves stored success when email fails
+{"event":"delivery_pending","id":"test-id"}
+
+ ✓ tests/contact.test.ts (16 tests) 23ms
+ ✓ tests/import.test.mjs (1 test) 23ms
+stderr | tests/routes.test.ts > actual Vercel entry points > contact rejects GET before initializing credentials
+{"event":"inquiry_rejected","status":405}
+
+stderr | tests/routes.test.ts > actual Vercel entry points > contact fails closed without configuration
+{"event":"inquiry_rejected","status":503}
+
+stderr | tests/routes.test.ts > actual Vercel entry points > outbox rejects GET mutations
+{"event":"inquiry_rejected","status":405}
+
+stderr | tests/routes.test.ts > actual Vercel entry points > outbox rejects an invalid scheduler credential
+{"event":"inquiry_rejected","status":401}
+
+ ✓ tests/routes.test.ts (4 tests) 9ms
+
+ Test Files  3 passed (3)
+      Tests  21 passed (21)
+   Start at  00:50:38
+   Duration  1.28s (transform 166ms, setup 0ms, collect 1.23s, tests 55ms, environment 1ms, prepare 499ms)
+

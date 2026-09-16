@@ -1,0 +1,120 @@
+{
+  "checked_at": "2026-09-11T16:04:11.064950+00:00",
+  "environment": "Local production-style static preview (draft mode)",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Temporary facilities. Thoughtfully planned. | AprilConcept illustration of a temporary kitchen facility, not an actual fleet unit",
+      "h1_count": 1,
+      "description": "Explore temporary facility requirements, compare service categories and prepare a clear project inquiry with April.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/services/",
+      "status": 200,
+      "title": "Temporary facility services | April",
+      "h1_count": 1,
+      "description": "Explore mobile kitchens, restroom and shower trailers, workforce housing and temporary facilities.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/industries/",
+      "status": 200,
+      "title": "Project requirements by industry | April",
+      "h1_count": 1,
+      "description": "Plan temporary facilities around construction, institutional renovation, events and remote workforce needs.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/service-areas/",
+      "status": 200,
+      "title": "Service area inquiries | April",
+      "h1_count": 1,
+      "description": "Provide your project location to request a coverage review. Availability requires confirmation.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/planning/",
+      "status": 200,
+      "title": "Temporary facility planning guide | April",
+      "h1_count": 1,
+      "description": "Prepare your site, dates, occupancy and utility details before requesting a temporary facility proposal.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/contact/",
+      "status": 200,
+      "title": "Discuss your project | April",
+      "h1_count": 1,
+      "description": "Share your temporary facility requirements with April through a project inquiry.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/privacy/",
+      "status": 200,
+      "title": "Privacy notice review | April",
+      "h1_count": 1,
+      "description": "Information about the inquiry form and the privacy details that require approval before launch.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/services/mobile-kitchens/",
+      "status": 200,
+      "title": "Mobile kitchens planning | April",
+      "h1_count": 1,
+      "description": "Plan a temporary cooking space around the way your team prepares, cooks and serves.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/services/restroom-shower-trailers/",
+      "status": 200,
+      "title": "Restroom & shower trailers planning | April",
+      "h1_count": 1,
+      "description": "Bring occupancy, access and water requirements into one practical facilities brief.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/services/workforce-housing/",
+      "status": 200,
+      "title": "Workforce housing planning | April",
+      "h1_count": 1,
+      "description": "Connect sleeping, dining and welfare requirements in a coordinated accommodation plan.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    },
+    {
+      "path": "/services/temporary-facilities/",
+      "status": 200,
+      "title": "Temporary facilities planning | April",
+      "h1_count": 1,
+      "description": "Shape a temporary workspace around the activities your permanent site cannot support.",
+      "robots": "noindex,nofollow",
+      "canonicals": [],
+      "invalid_internal_destinations": []
+    }
+  ],
+  "unknown_route_status": 404,
+  "sitemap": "Empty intentionally while draft/noindex",
+  "passed": true,
+  "limitations": "No production hostname or Search Console verification; this does not establish Google indexation."
+}

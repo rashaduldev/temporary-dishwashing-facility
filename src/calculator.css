@@ -1,0 +1,290 @@
+.rental-calculator {
+  --calculator-ink: #112d36;
+  --calculator-muted: #526a72;
+  --calculator-accent: #087c86;
+  --calculator-line: #d6e4e6;
+  --calculator-surface: #f1f7f7;
+  color: var(--calculator-ink);
+  font-family: var(--font-ui, "Manrope", system-ui, sans-serif);
+}
+
+.rental-calculator *,
+.rental-calculator *::before,
+.rental-calculator *::after {
+  box-sizing: border-box;
+}
+
+.rental-calculator__intro {
+  max-width: 48rem;
+  margin-bottom: 1.5rem;
+}
+
+.rental-calculator__intro h2 {
+  margin: 0.25rem 0 0.7rem;
+  font-size: clamp(1.75rem, 4vw, 2.65rem);
+  line-height: 1.12;
+  letter-spacing: -0.035em;
+}
+
+.rental-calculator__intro > p:last-child,
+.rental-calculator__field-note,
+.rental-calculator__notice p {
+  color: var(--calculator-muted);
+  line-height: 1.65;
+}
+
+.rental-calculator__eyebrow {
+  margin: 0;
+  color: var(--calculator-accent);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.rental-calculator__workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(18rem, 0.8fr);
+  gap: clamp(1rem, 3vw, 2rem);
+  align-items: start;
+}
+
+.rental-calculator__form,
+.rental-calculator__result {
+  border: 1px solid var(--calculator-line);
+  border-radius: 1rem;
+  background: #fff;
+  box-shadow: 0 1rem 2.5rem rgb(17 45 54 / 7%);
+}
+
+.rental-calculator__form {
+  padding: clamp(1.1rem, 3vw, 2rem);
+}
+
+.rental-calculator fieldset {
+  min-width: 0;
+  margin: 0;
+  padding: 0 0 1.6rem;
+  border: 0;
+}
+
+.rental-calculator fieldset + fieldset {
+  padding-top: 1.6rem;
+  border-top: 1px solid var(--calculator-line);
+}
+
+.rental-calculator fieldset:last-child {
+  padding-bottom: 0;
+}
+
+.rental-calculator legend {
+  margin-bottom: 1rem;
+  padding: 0;
+  font-size: 1.05rem;
+  font-weight: 800;
+}
+
+.rental-calculator__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.rental-calculator__grid--dates {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.rental-calculator__grid--equipment {
+  grid-template-columns: minmax(0, 1.5fr) minmax(0, 1.25fr) minmax(7rem, 0.65fr);
+}
+
+.rental-calculator label {
+  display: grid;
+  align-content: start;
+  gap: 0.45rem;
+  font-size: 0.86rem;
+  font-weight: 750;
+}
+
+.rental-calculator input,
+.rental-calculator select {
+  width: 100%;
+  min-height: 3.35rem;
+  padding: 0.8rem 0.95rem;
+  border: 1px solid var(--dw-control-border, #adc3c5);
+  border-radius: var(--dw-control-radius, 0.72rem);
+  color: var(--calculator-ink);
+  background-color: var(--dw-control-bg, #fff);
+  box-shadow: var(--dw-control-shadow, 0 1px 2px rgb(17 45 54 / 6%));
+  font: inherit;
+  font-weight: 600;
+  transition: border-color 160ms ease, box-shadow 160ms ease, background-color 160ms ease;
+}
+
+.rental-calculator select {
+  appearance: none;
+  padding-right: 3.4rem;
+  border-color: #96b3b6;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30' fill='none'%3E%3Crect x='1' y='1' width='28' height='28' rx='8' fill='%23E8F4F2'/%3E%3Cpath d='m11 13 4 4 4-4' stroke='%23086C65' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"), linear-gradient(180deg, #fff 0%, #f8fbfb 100%);
+  background-position: right 0.65rem center, 0 0;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 1.9rem 1.9rem, 100% 100%;
+  cursor: pointer;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rental-calculator select option {
+  background: #fff;
+  color: var(--calculator-ink);
+  font-weight: 600;
+}
+
+.rental-calculator input:hover:not([readonly]),
+.rental-calculator select:hover {
+  border-color: var(--dw-control-border-hover, #789da1);
+}
+
+.rental-calculator input[readonly] {
+  color: #435d65;
+  background: #edf3f3;
+  box-shadow: none;
+}
+
+.rental-calculator input:focus-visible,
+.rental-calculator select:focus-visible {
+  border-color: var(--calculator-accent);
+  box-shadow: 0 0 0 4px rgb(8 124 134 / 14%), 0 1px 2px rgb(17 45 54 / 6%);
+  outline: 0;
+}
+
+.rental-calculator [aria-invalid="true"] {
+  border-color: #a72e2e;
+}
+
+.rental-calculator__optional {
+  color: var(--calculator-muted);
+  font-size: 0.75rem;
+  font-weight: 550;
+}
+
+.rental-calculator__label-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.38rem;
+  white-space: nowrap;
+}
+
+.rental-calculator__field-note {
+  margin: 0.75rem 0 0;
+  font-size: 0.8rem;
+}
+
+.rental-calculator__error {
+  color: #8d2020;
+  font-size: 0.78rem;
+  font-weight: 650;
+}
+
+.rental-calculator__result {
+  position: sticky;
+  top: 1rem;
+  overflow: hidden;
+  padding: clamp(1.25rem, 3vw, 1.75rem);
+  background: var(--calculator-surface);
+}
+
+.rental-calculator__result > h3 {
+  margin: 0.45rem 0 1.2rem;
+  font-size: 1.25rem;
+  line-height: 1.3;
+}
+
+.rental-calculator__breakdown {
+  margin: 0;
+}
+
+.rental-calculator__breakdown > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-top: 1px solid var(--calculator-line);
+}
+
+.rental-calculator__breakdown dt {
+  color: var(--calculator-muted);
+  font-size: 0.85rem;
+}
+
+.rental-calculator__breakdown dd {
+  margin: 0;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.rental-calculator__breakdown .rental-calculator__total {
+  align-items: end;
+  margin-top: 0.25rem;
+  padding-top: 1rem;
+  border-color: #9dbdc0;
+}
+
+.rental-calculator__total dt {
+  color: var(--calculator-ink);
+  font-weight: 750;
+}
+
+.rental-calculator__total dd {
+  color: var(--calculator-accent);
+  font-size: clamp(1.6rem, 4vw, 2.25rem);
+  line-height: 1;
+}
+
+.rental-calculator__notice {
+  margin-top: 1.35rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--calculator-line);
+}
+
+.rental-calculator__notice h3 {
+  margin: 0 0 0.55rem;
+  font-size: 0.95rem;
+}
+
+.rental-calculator__notice p {
+  margin: 0.45rem 0 0;
+  font-size: 0.78rem;
+}
+
+@media (max-width: 850px) {
+  .rental-calculator__workspace {
+    grid-template-columns: 1fr;
+  }
+
+  .rental-calculator__result {
+    position: static;
+  }
+}
+
+@media (max-width: 620px) {
+  .rental-calculator__grid,
+  .rental-calculator__grid--dates,
+  .rental-calculator__grid--equipment {
+    grid-template-columns: 1fr;
+  }
+
+  .rental-calculator__form,
+  .rental-calculator__result {
+    border-radius: 0.75rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rental-calculator *,
+  .rental-calculator *::before,
+  .rental-calculator *::after {
+    scroll-behavior: auto !important;
+  }
+}

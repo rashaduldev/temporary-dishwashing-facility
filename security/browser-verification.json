@@ -1,0 +1,459 @@
+{
+  "checkedAt": "2026-09-11T16:01:10.097Z",
+  "environment": "Chrome extension; localhost:4173",
+  "layouts": [
+    {
+      "path": "/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Temporary facilities. Thoughtfully planned. | April"
+    },
+    {
+      "path": "/services/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Temporary facility services | April"
+    },
+    {
+      "path": "/industries/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Project requirements by industry | April"
+    },
+    {
+      "path": "/service-areas/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Service area inquiries | April"
+    },
+    {
+      "path": "/planning/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Temporary facility planning guide | April"
+    },
+    {
+      "path": "/contact/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Discuss your project | April"
+    },
+    {
+      "path": "/privacy/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Privacy notice review | April"
+    },
+    {
+      "path": "/services/mobile-kitchens/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Mobile kitchens planning | April"
+    },
+    {
+      "path": "/services/restroom-shower-trailers/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Restroom & shower trailers planning | April"
+    },
+    {
+      "path": "/services/workforce-housing/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Workforce housing planning | April"
+    },
+    {
+      "path": "/services/temporary-facilities/",
+      "width": 400,
+      "h1": 1,
+      "scroll": 381,
+      "title": "Temporary facilities planning | April"
+    },
+    {
+      "path": "/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Temporary facilities. Thoughtfully planned. | April"
+    },
+    {
+      "path": "/services/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Temporary facility services | April"
+    },
+    {
+      "path": "/industries/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Project requirements by industry | April"
+    },
+    {
+      "path": "/service-areas/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Service area inquiries | April"
+    },
+    {
+      "path": "/planning/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Temporary facility planning guide | April"
+    },
+    {
+      "path": "/contact/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Discuss your project | April"
+    },
+    {
+      "path": "/privacy/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Privacy notice review | April"
+    },
+    {
+      "path": "/services/mobile-kitchens/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Mobile kitchens planning | April"
+    },
+    {
+      "path": "/services/restroom-shower-trailers/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Restroom & shower trailers planning | April"
+    },
+    {
+      "path": "/services/workforce-housing/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Workforce housing planning | April"
+    },
+    {
+      "path": "/services/temporary-facilities/",
+      "width": 488,
+      "h1": 1,
+      "scroll": 469,
+      "title": "Temporary facilities planning | April"
+    },
+    {
+      "path": "/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Temporary facilities. Thoughtfully planned. | April"
+    },
+    {
+      "path": "/services/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Temporary facility services | April"
+    },
+    {
+      "path": "/industries/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Project requirements by industry | April"
+    },
+    {
+      "path": "/service-areas/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Service area inquiries | April"
+    },
+    {
+      "path": "/planning/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Temporary facility planning guide | April"
+    },
+    {
+      "path": "/contact/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Discuss your project | April"
+    },
+    {
+      "path": "/privacy/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Privacy notice review | April"
+    },
+    {
+      "path": "/services/mobile-kitchens/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Mobile kitchens planning | April"
+    },
+    {
+      "path": "/services/restroom-shower-trailers/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Restroom & shower trailers planning | April"
+    },
+    {
+      "path": "/services/workforce-housing/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Workforce housing planning | April"
+    },
+    {
+      "path": "/services/temporary-facilities/",
+      "width": 960,
+      "h1": 1,
+      "scroll": 941,
+      "title": "Temporary facilities planning | April"
+    },
+    {
+      "path": "/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Temporary facilities. Thoughtfully planned. | April"
+    },
+    {
+      "path": "/services/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Temporary facility services | April"
+    },
+    {
+      "path": "/industries/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Project requirements by industry | April"
+    },
+    {
+      "path": "/service-areas/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Service area inquiries | April"
+    },
+    {
+      "path": "/planning/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Temporary facility planning guide | April"
+    },
+    {
+      "path": "/contact/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Discuss your project | April"
+    },
+    {
+      "path": "/privacy/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Privacy notice review | April"
+    },
+    {
+      "path": "/services/mobile-kitchens/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Mobile kitchens planning | April"
+    },
+    {
+      "path": "/services/restroom-shower-trailers/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Restroom & shower trailers planning | April"
+    },
+    {
+      "path": "/services/workforce-housing/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Workforce housing planning | April"
+    },
+    {
+      "path": "/services/temporary-facilities/",
+      "width": 1280,
+      "h1": 1,
+      "scroll": 1261,
+      "title": "Temporary facilities planning | April"
+    },
+    {
+      "path": "/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Temporary facilities. Thoughtfully planned. | April"
+    },
+    {
+      "path": "/services/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Temporary facility services | April"
+    },
+    {
+      "path": "/industries/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Project requirements by industry | April"
+    },
+    {
+      "path": "/service-areas/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Service area inquiries | April"
+    },
+    {
+      "path": "/planning/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Temporary facility planning guide | April"
+    },
+    {
+      "path": "/contact/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Discuss your project | April"
+    },
+    {
+      "path": "/privacy/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Privacy notice review | April"
+    },
+    {
+      "path": "/services/mobile-kitchens/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Mobile kitchens planning | April"
+    },
+    {
+      "path": "/services/restroom-shower-trailers/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Restroom & shower trailers planning | April"
+    },
+    {
+      "path": "/services/workforce-housing/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Workforce housing planning | April"
+    },
+    {
+      "path": "/services/temporary-facilities/",
+      "width": 1800,
+      "h1": 1,
+      "scroll": 1781,
+      "title": "Temporary facilities planning | April"
+    }
+  ],
+  "interactions": [
+    {
+      "case": "mobile menu opens",
+      "visible": true
+    },
+    {
+      "case": "menu closes and returns focus",
+      "result": {
+        "focus": "Menu \u00e2\u02dc\u00b0",
+        "open": false
+      }
+    },
+    {
+      "case": "facility selection",
+      "panel": "A place between shifts.\n\nConnect sleeping, dining and daily crew routines.\n\nExplore housing\n\u00e2\u2020\u2014"
+    },
+    {
+      "case": "tab keyboard navigation",
+      "selected": "true"
+    },
+    {
+      "case": "blank form validation",
+      "alert": "Check the highlighted fields before sending.",
+      "fields": [
+        {
+          "description": "name-error",
+          "name": "name"
+        },
+        {
+          "description": "email-error",
+          "name": "email"
+        },
+        {
+          "description": "location-error",
+          "name": "location"
+        },
+        {
+          "description": "service-error",
+          "name": "service"
+        },
+        {
+          "description": "message-error",
+          "name": "message"
+        },
+        {
+          "description": "consent-error",
+          "name": "consent"
+        }
+      ]
+    },
+    {
+      "case": "disabled service reports unavailable without fake success",
+      "alert": "Online inquiries are not enabled yet. Your details have not been sent."
+    },
+    {
+      "case": "planning checklist updates",
+      "status": "2 of 4 planning areas ready"
+    },
+    {
+      "case": "reduced motion",
+      "result": {
+        "artAnimation": "none",
+        "headingAnimation": "none",
+        "reduced": true
+      }
+    }
+  ],
+  "logs": []
+}

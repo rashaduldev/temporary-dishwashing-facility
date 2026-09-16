@@ -1,0 +1,733 @@
+{
+  "/services/mobile-kitchen-trailers/24ft/": {
+    "equipment": [
+      "Commercial ovens, cooktops, grills and refrigerated storage",
+      "Food preparation workstations",
+      "Exhaust hoods, fire suppression and climate control"
+    ],
+    "planning": [
+      "List the appliances your menu requires, including any fryers or steamers.",
+      "Share meals per service and the number of staff working at once.",
+      "Confirm electrical service, fuel, potable water, drainage and the delivery footprint."
+    ],
+    "use": "A temporary commercial kitchen supports meal preparation while a permanent kitchen is renovated or unavailable. Plan receiving, preparation, cooking and service as a connected workflow.",
+    "image": "/images/catalog/mobile-kitchen-trailers-960.webp",
+    "alt": "Representative commercial mobile kitchen interior",
+    "unknown": "Appliance quantities, fuel type, electrical load and meal output are not specified in the model listing.",
+    "name": "24ft Mobile Kitchen Trailer",
+    "category": "Mobile Kitchens",
+    "categoryHref": "/equipment-rental/mobile-kitchen-trailers/",
+    "intro": "The 24ft Mobile Kitchen Trailer brings cooking, refrigerated storage and preparation space into one temporary facility. Consider it when you need a complete cooking line during a renovation or an off-site event.",
+    "highlight": "Commercial ovens, stoves, grills, refrigeration and preparation stations are listed.",
+    "source": "https://fire-damage-kitchen-contractor.com/24ft-mobile-kitchen-trailer/"
+  },
+  "/services/mobile-kitchen-trailers/26ft-bulk/": {
+    "equipment": [
+      "Commercial ovens, cooktops, grills and refrigerated storage",
+      "Food preparation workstations",
+      "Exhaust hoods, fire suppression and climate control"
+    ],
+    "planning": [
+      "List the appliances your menu requires, including any fryers or steamers.",
+      "Share meals per service and the number of staff working at once.",
+      "Confirm electrical service, fuel, potable water, drainage and the delivery footprint."
+    ],
+    "use": "A temporary commercial kitchen supports meal preparation while a permanent kitchen is renovated or unavailable. Plan receiving, preparation, cooking and service as a connected workflow.",
+    "image": "/images/catalog/mobile-kitchen-trailers-960.webp",
+    "alt": "Representative commercial mobile kitchen interior",
+    "unknown": "Appliance quantities, fuel type, electrical load and meal output are not specified in the model listing.",
+    "name": "26ft Bulk Mobile Kitchen",
+    "category": "Mobile Kitchens",
+    "categoryHref": "/equipment-rental/mobile-kitchen-trailers/",
+    "intro": "The 26ft Bulk Mobile Kitchen is listed for larger food preparation and catering operations. Its published equipment includes fryers alongside ovens, grills, stoves, refrigeration and preparation stations.",
+    "highlight": "Review the appliance schedule against your menu before selecting this bulk kitchen.",
+    "source": "https://fire-damage-kitchen-contractor.com/26ft-bulk-kitchen-trailer-rental/"
+  },
+  "/services/mobile-kitchen-trailers/28ft/": {
+    "equipment": [
+      "Commercial ovens, cooktops, grills and refrigerated storage",
+      "Food preparation workstations",
+      "Exhaust hoods, fire suppression and climate control"
+    ],
+    "planning": [
+      "List the appliances your menu requires, including any fryers or steamers.",
+      "Share meals per service and the number of staff working at once.",
+      "Confirm electrical service, fuel, potable water, drainage and the delivery footprint."
+    ],
+    "use": "A temporary commercial kitchen supports meal preparation while a permanent kitchen is renovated or unavailable. Plan receiving, preparation, cooking and service as a connected workflow.",
+    "image": "/images/catalog/mobile-kitchen-trailers-960.webp",
+    "alt": "Representative commercial mobile kitchen interior",
+    "unknown": "Appliance quantities, fuel type, electrical load and meal output are not specified in the model listing.",
+    "name": "28ft Mobile Kitchen Trailer",
+    "category": "Mobile Kitchens",
+    "categoryHref": "/equipment-rental/mobile-kitchen-trailers/",
+    "intro": "The 28ft Mobile Kitchen Trailer combines cooking appliances with refrigerated storage and preparation stations for temporary food production. The reference lists ovens, grills, fryers and stoves.",
+    "highlight": "Plan the cooking line and staffing positions using the available unit's floor plan.",
+    "source": "https://fire-damage-kitchen-contractor.com/28ft-mobile-kitchen-trailer-rental/"
+  },
+  "/services/mobile-kitchen-trailers/38ft/": {
+    "equipment": [
+      "Commercial ovens, cooktops, grills and refrigerated storage",
+      "Food preparation workstations",
+      "Exhaust hoods, fire suppression and climate control"
+    ],
+    "planning": [
+      "List the appliances your menu requires, including any fryers or steamers.",
+      "Share meals per service and the number of staff working at once.",
+      "Confirm electrical service, fuel, potable water, drainage and the delivery footprint."
+    ],
+    "use": "A temporary commercial kitchen supports meal preparation while a permanent kitchen is renovated or unavailable. Plan receiving, preparation, cooking and service as a connected workflow.",
+    "image": "/images/catalog/mobile-kitchen-trailers-960.webp",
+    "alt": "Representative commercial mobile kitchen interior",
+    "unknown": "Appliance quantities, fuel type, electrical load and meal output are not specified in the model listing.",
+    "name": "38ft Mobile Kitchen Trailer",
+    "category": "Mobile Kitchens",
+    "categoryHref": "/equipment-rental/mobile-kitchen-trailers/",
+    "intro": "The 38ft Mobile Kitchen Trailer is listed for large cooking operations, with ovens, stoves, grills, fryers, refrigerators, freezers and preparation space.",
+    "highlight": "Refrigerated and frozen storage are both described for this model.",
+    "source": "https://fire-damage-kitchen-contractor.com/38ft-mobile-kitchen-trailer-rental/"
+  },
+  "/services/mobile-kitchen-trailers/40ft/": {
+    "equipment": [
+      "Commercial ovens, cooktops, grills and refrigerated storage",
+      "Food preparation workstations",
+      "Exhaust hoods, fire suppression and climate control"
+    ],
+    "planning": [
+      "List the appliances your menu requires, including any fryers or steamers.",
+      "Share meals per service and the number of staff working at once.",
+      "Confirm electrical service, fuel, potable water, drainage and the delivery footprint."
+    ],
+    "use": "A temporary commercial kitchen supports meal preparation while a permanent kitchen is renovated or unavailable. Plan receiving, preparation, cooking and service as a connected workflow.",
+    "image": "/images/catalog/mobile-kitchen-trailers-960.webp",
+    "alt": "Representative commercial mobile kitchen interior",
+    "unknown": "Appliance quantities, fuel type, electrical load and meal output are not specified in the model listing.",
+    "name": "40ft Mobile Kitchen Trailer",
+    "category": "Mobile Kitchens",
+    "categoryHref": "/equipment-rental/mobile-kitchen-trailers/",
+    "intro": "The 40ft Mobile Kitchen Trailer provides a longer-format facility for food preparation, cooking and cold storage. Its listing includes ovens, stoves, grills, fryers, refrigerators and freezers.",
+    "highlight": "Check the full delivery footprint, including stairs, service areas and utility access.",
+    "source": "https://fire-damage-kitchen-contractor.com/40ft-mobile-kitchen-trailer-rental/"
+  },
+  "/services/mobile-kitchen-trailers/40ft-combination/": {
+    "equipment": [
+      "Commercial ovens, cooktops, grills and refrigerated storage",
+      "Food preparation workstations",
+      "Exhaust hoods, fire suppression and climate control"
+    ],
+    "planning": [
+      "List the appliances your menu requires, including any fryers or steamers.",
+      "Share meals per service and the number of staff working at once.",
+      "Confirm electrical service, fuel, potable water, drainage and the delivery footprint."
+    ],
+    "use": "A temporary commercial kitchen supports meal preparation while a permanent kitchen is renovated or unavailable. Plan receiving, preparation, cooking and service as a connected workflow.",
+    "image": "/images/catalog/mobile-kitchen-trailers-960.webp",
+    "alt": "Representative commercial mobile kitchen interior",
+    "unknown": "Appliance quantities, fuel type, electrical load and meal output are not specified in the model listing.",
+    "name": "40ft Combination Mobile Kitchen",
+    "category": "Mobile Kitchens",
+    "categoryHref": "/equipment-rental/mobile-kitchen-trailers/",
+    "intro": "The 40ft Combination Mobile Kitchen combines cooking, preparation and storage functions. Steamers appear in the published equipment list alongside ovens, stoves, grills, fryers and refrigeration.",
+    "highlight": "A combined layout can help keep preparation and storage close to the cooking line.",
+    "source": "https://fire-damage-kitchen-contractor.com/40ft-combo-kitchen-trailer-rental/"
+  },
+  "/services/mobile-kitchen-trailers/40ft-bulk-combination/": {
+    "equipment": [
+      "Commercial ovens, cooktops, grills and refrigerated storage",
+      "Food preparation workstations",
+      "Exhaust hoods, fire suppression and climate control"
+    ],
+    "planning": [
+      "List the appliances your menu requires, including any fryers or steamers.",
+      "Share meals per service and the number of staff working at once.",
+      "Confirm electrical service, fuel, potable water, drainage and the delivery footprint."
+    ],
+    "use": "A temporary commercial kitchen supports meal preparation while a permanent kitchen is renovated or unavailable. Plan receiving, preparation, cooking and service as a connected workflow.",
+    "image": "/images/catalog/mobile-kitchen-trailers-960.webp",
+    "alt": "Representative commercial mobile kitchen interior",
+    "unknown": "Appliance quantities, fuel type, electrical load and meal output are not specified in the model listing.",
+    "name": "40ft Bulk Combination Mobile Kitchen",
+    "category": "Mobile Kitchens",
+    "categoryHref": "/equipment-rental/mobile-kitchen-trailers/",
+    "intro": "The 40ft Bulk Combination Mobile Kitchen is described for bulk food production. The listed appliance types include industrial ovens, stoves, grills, fryers, steamers and refrigeration.",
+    "highlight": "The listing describes bulk cooking equipment but does not state meals per hour.",
+    "source": "https://fire-damage-kitchen-contractor.com/40ft-bulk-kitchen-trailer-rental/"
+  },
+  "/services/dishwashing-trailers/22ft/": {
+    "equipment": [
+      "Commercial dishwashing equipment for plates, cookware and utensils",
+      "Hot-water washing and sanitation provision",
+      "Separate washing, rinsing and drying areas",
+      "Water supply, waste handling and power connections"
+    ],
+    "planning": [
+      "Describe your busiest dish-return period and the cookware you need to wash.",
+      "Plan a dirty-to-clean workflow between the kitchen and dishwashing trailer.",
+      "Confirm machine capacity, sanitation method, hot-water demand, electrical service and wastewater removal."
+    ],
+    "use": "A portable warewashing trailer keeps dish returns and cleaning outside the cooking line. It can support catered events, kitchen renovations and remote meal operations. The staffing plan and equipment specification matter as much as trailer length.",
+    "image": "/media/4723f18940a45f69bd1c8483.webp",
+    "alt": "Representative mobile dishwashing facility",
+    "unknown": "The published listing does not give racks per hour, machine make, tank capacities or electrical ratings.",
+    "name": "22ft Dishwashing Trailer",
+    "category": "Dishwashing",
+    "categoryHref": "/portable-dishwashing-trailer-rental/",
+    "intro": "The 22ft Dishwashing Trailer provides a dedicated space for cleaning plates, utensils and cookware during temporary food service. Its published layout separates washing, rinsing and drying, with commercial dishwashing equipment and hot-water provision.",
+    "highlight": "A separate dish-return area helps your team organize soiled items before they enter the wash line.",
+    "source": "https://fire-damage-kitchen-contractor.com/22ft-dishwashing-trailer-rental/"
+  },
+  "/services/dishwashing-trailers/24ft/": {
+    "equipment": [
+      "Commercial dishwashing equipment for plates, cookware and utensils",
+      "Hot-water washing and sanitation provision",
+      "Separate washing, rinsing and drying areas",
+      "Water supply, waste handling and power connections"
+    ],
+    "planning": [
+      "Describe your busiest dish-return period and the cookware you need to wash.",
+      "Plan a dirty-to-clean workflow between the kitchen and dishwashing trailer.",
+      "Confirm machine capacity, sanitation method, hot-water demand, electrical service and wastewater removal."
+    ],
+    "use": "A portable warewashing trailer keeps dish returns and cleaning outside the cooking line. It can support catered events, kitchen renovations and remote meal operations. The staffing plan and equipment specification matter as much as trailer length.",
+    "image": "/media/4723f18940a45f69bd1c8483.webp",
+    "alt": "Representative mobile dishwashing facility",
+    "unknown": "The published listing does not give racks per hour, machine make, tank capacities or electrical ratings.",
+    "name": "24ft Dishwashing Trailer",
+    "category": "Dishwashing",
+    "categoryHref": "/portable-dishwashing-trailer-rental/",
+    "intro": "The 24ft Dishwashing Trailer is listed with commercial warewashing equipment, hot-water sanitation and separate wash, rinse and drying stations. It supports dish handling for catering, events and remote food service.",
+    "highlight": "Compare the machine specification with the 22ft model; additional length does not establish a higher wash rate.",
+    "source": "https://fire-damage-kitchen-contractor.com/24ft-dishwashing-trailer-rental/"
+  },
+  "/services/dishwashing-trailers/26ft/": {
+    "equipment": [
+      "Commercial dishwashing equipment for plates, cookware and utensils",
+      "Hot-water washing and sanitation provision",
+      "Separate washing, rinsing and drying areas",
+      "Water supply, waste handling and power connections"
+    ],
+    "planning": [
+      "Describe your busiest dish-return period and the cookware you need to wash.",
+      "Plan a dirty-to-clean workflow between the kitchen and dishwashing trailer.",
+      "Confirm machine capacity, sanitation method, hot-water demand, electrical service and wastewater removal."
+    ],
+    "use": "A portable warewashing trailer keeps dish returns and cleaning outside the cooking line. It can support catered events, kitchen renovations and remote meal operations. The staffing plan and equipment specification matter as much as trailer length.",
+    "image": "/media/4723f18940a45f69bd1c8483.webp",
+    "alt": "Representative mobile dishwashing facility",
+    "unknown": "The published listing does not give racks per hour, machine make, tank capacities or electrical ratings.",
+    "name": "26ft Dishwashing Trailer",
+    "category": "Dishwashing",
+    "categoryHref": "/portable-dishwashing-trailer-rental/",
+    "intro": "The 26ft Dishwashing Trailer supports commercial dish cleaning with dedicated washing, rinsing and drying stations. The reference describes hot-water provision, water supply, waste storage and power connections.",
+    "highlight": "Use the floor plan to review staff circulation, cookware handling and clean-dish collection.",
+    "source": "https://fire-damage-kitchen-contractor.com/26ft-dishwashing-trailer-rental/"
+  },
+  "/services/dishwashing-trailers/38ft-conveyor/": {
+    "equipment": [
+      "Conveyor system for moving dishes through the wash process",
+      "Commercial dishwashing equipment for plates, cookware and utensils",
+      "Hot-water washing and sanitation provision",
+      "Separate washing, rinsing and drying areas",
+      "Water supply, waste handling and power connections"
+    ],
+    "planning": [
+      "Describe your busiest dish-return period and the cookware you need to wash.",
+      "Plan a dirty-to-clean workflow between the kitchen and dishwashing trailer.",
+      "Confirm machine capacity, sanitation method, hot-water demand, electrical service and wastewater removal."
+    ],
+    "use": "A portable warewashing trailer keeps dish returns and cleaning outside the cooking line. It can support catered events, kitchen renovations and remote meal operations. The staffing plan and equipment specification matter as much as trailer length.",
+    "image": "/media/4723f18940a45f69bd1c8483.webp",
+    "alt": "Representative mobile dishwashing facility",
+    "unknown": "The published listing does not give racks per hour, machine make, tank capacities or electrical ratings.",
+    "name": "38ft Conveyor Dishwashing Trailer",
+    "category": "Dishwashing",
+    "categoryHref": "/portable-dishwashing-trailer-rental/",
+    "intro": "The 38ft Conveyor Dishwashing Trailer uses a conveyor system to move dishes through the cleaning process. It is the conveyor option in this range, intended for sustained dish returns at larger food-service operations.",
+    "highlight": "Conveyor movement is the distinguishing published feature; confirm loading racks and rated throughput.",
+    "source": "https://fire-damage-kitchen-contractor.com/38ft-conveyor-dishwashing-trailer-rental/"
+  },
+  "/services/restroom-trailers/12ft/": {
+    "equipment": [
+      "12ft model listed in the service menu",
+      "Exact equipment and layout pending specification confirmation"
+    ],
+    "planning": [
+      "Provide expected attendance or crew size and peak use periods.",
+      "Identify accessible routes, steps or ramp needs before selecting a layout.",
+      "Agree on water supply, tank servicing, cleaning and electrical connections."
+    ],
+    "use": "Restroom trailer rentals provide temporary facilities during construction, events and building renovations. Select a configuration around occupancy, accessibility and service access, rather than length alone.",
+    "image": "/images/catalog/restroom-trailers-960.webp",
+    "alt": "Representative restroom trailer",
+    "unknown": "Stall counts, accessible configurations, tank sizes and power requirements need confirmation for the selected unit.",
+    "name": "12ft Restroom Trailer",
+    "category": "Restroom",
+    "categoryHref": "/equipment-rental/restroom-trailers/",
+    "intro": "The 12ft Restroom Trailer is offered in the reference menu. Its linked page has a conflicting 14ft description, so the exact 12ft equipment layout needs confirmation before booking.",
+    "highlight": "The source heading and body disagree on length. Request the 12ft specification and floor plan.",
+    "source": "https://fire-damage-kitchen-contractor.com/12ft-restroom-trailer-rental/"
+  },
+  "/services/restroom-trailers/14ft/": {
+    "equipment": [
+      "Flush toilets and handwashing sinks",
+      "Interior lighting and ventilation",
+      "Water storage, waste storage and utility connections"
+    ],
+    "planning": [
+      "Provide expected attendance or crew size and peak use periods.",
+      "Identify accessible routes, steps or ramp needs before selecting a layout.",
+      "Agree on water supply, tank servicing, cleaning and electrical connections."
+    ],
+    "use": "Restroom trailer rentals provide temporary facilities during construction, events and building renovations. Select a configuration around occupancy, accessibility and service access, rather than length alone.",
+    "image": "/images/catalog/restroom-trailers-960.webp",
+    "alt": "Representative restroom trailer",
+    "unknown": "Stall counts, accessible configurations, tank sizes and power requirements need confirmation for the selected unit.",
+    "name": "14ft Restroom Trailer",
+    "category": "Restroom",
+    "categoryHref": "/equipment-rental/restroom-trailers/",
+    "intro": "The 14ft Restroom Trailer is listed with flush toilets, handwashing sinks and ventilated interiors. Its published description includes interior lighting and onboard water and waste storage.",
+    "highlight": "Choose by actual stall count and expected occupancy, not trailer length alone.",
+    "source": "https://fire-damage-kitchen-contractor.com/14ft-restroom-trailer-rental/"
+  },
+  "/services/restroom-trailers/20ft/": {
+    "equipment": [
+      "Flush toilets and handwashing sinks",
+      "Interior lighting and ventilation",
+      "Water storage, waste storage and utility connections"
+    ],
+    "planning": [
+      "Provide expected attendance or crew size and peak use periods.",
+      "Identify accessible routes, steps or ramp needs before selecting a layout.",
+      "Agree on water supply, tank servicing, cleaning and electrical connections."
+    ],
+    "use": "Restroom trailer rentals provide temporary facilities during construction, events and building renovations. Select a configuration around occupancy, accessibility and service access, rather than length alone.",
+    "image": "/images/catalog/restroom-trailers-960.webp",
+    "alt": "Representative restroom trailer",
+    "unknown": "Stall counts, accessible configurations, tank sizes and power requirements need confirmation for the selected unit.",
+    "name": "20ft Restroom Trailer",
+    "category": "Restroom",
+    "categoryHref": "/equipment-rental/restroom-trailers/",
+    "intro": "The 20ft Restroom Trailer is listed with flush toilets, handwashing sinks and ventilated interiors. The reference describes multiple stalls and sinks.",
+    "highlight": "Choose by actual stall count and expected occupancy, not trailer length alone.",
+    "source": "https://fire-damage-kitchen-contractor.com/20ft-restroom-trailer-rental/"
+  },
+  "/services/restroom-trailers/30ft/": {
+    "equipment": [
+      "Flush toilets and handwashing sinks",
+      "Interior lighting and ventilation",
+      "Water storage, waste storage and utility connections"
+    ],
+    "planning": [
+      "Provide expected attendance or crew size and peak use periods.",
+      "Identify accessible routes, steps or ramp needs before selecting a layout.",
+      "Agree on water supply, tank servicing, cleaning and electrical connections."
+    ],
+    "use": "Restroom trailer rentals provide temporary facilities during construction, events and building renovations. Select a configuration around occupancy, accessibility and service access, rather than length alone.",
+    "image": "/images/catalog/restroom-trailers-960.webp",
+    "alt": "Representative restroom trailer",
+    "unknown": "Stall counts, accessible configurations, tank sizes and power requirements need confirmation for the selected unit.",
+    "name": "30ft Restroom Trailer",
+    "category": "Restroom",
+    "categoryHref": "/equipment-rental/restroom-trailers/",
+    "intro": "The 30ft Restroom Trailer is listed with flush toilets, handwashing sinks and ventilated interiors. The longer layout is described for heavier visitor traffic.",
+    "highlight": "Choose by actual stall count and expected occupancy, not trailer length alone.",
+    "source": "https://fire-damage-kitchen-contractor.com/30ft-restroom-trailer-rental/"
+  },
+  "/services/laundry-trailers/24ft/": {
+    "equipment": [
+      "Industrial washers and dryers",
+      "An interior work area for on-site laundry",
+      "Water-system and power connections"
+    ],
+    "planning": [
+      "Estimate laundry loads per day, including bedding and work clothes.",
+      "Confirm washer and dryer counts, load sizes and cycle times.",
+      "Arrange water supply, drainage, dryer ventilation, power and maintenance access."
+    ],
+    "use": "Mobile laundry trailers bring washing and drying closer to workforce housing, response teams and longer projects. Machine capacity and operating hours determine output; trailer length alone does not establish how many loads can be processed.",
+    "image": "/images/catalog/laundry-trailers-960.webp",
+    "alt": "Representative mobile laundry layout",
+    "unknown": "Machine quantities, load capacities, cycle times and utility ratings must be confirmed.",
+    "name": "24ft Mobile Laundry Trailer",
+    "category": "Laundry",
+    "categoryHref": "/equipment-rental/laundry-trailers/",
+    "intro": "The 24ft Mobile Laundry Trailer brings industrial washers and dryers to temporary sites. The reference describes space for multiple users, with water-system and power connections for on-site laundry.",
+    "highlight": "Discuss daily loads and available laundry hours to match the machine arrangement.",
+    "source": "https://fire-damage-kitchen-contractor.com/24ft-laundry-trailer-rental/"
+  },
+  "/services/laundry-trailers/30ft/": {
+    "equipment": [
+      "Industrial washers and dryers",
+      "An interior work area for on-site laundry",
+      "Water-system and power connections"
+    ],
+    "planning": [
+      "Estimate laundry loads per day, including bedding and work clothes.",
+      "Confirm washer and dryer counts, load sizes and cycle times.",
+      "Arrange water supply, drainage, dryer ventilation, power and maintenance access."
+    ],
+    "use": "Mobile laundry trailers bring washing and drying closer to workforce housing, response teams and longer projects. Machine capacity and operating hours determine output; trailer length alone does not establish how many loads can be processed.",
+    "image": "/images/catalog/laundry-trailers-960.webp",
+    "alt": "Representative mobile laundry layout",
+    "unknown": "Machine quantities, load capacities, cycle times and utility ratings must be confirmed.",
+    "name": "30ft Mobile Laundry Trailer",
+    "category": "Laundry",
+    "categoryHref": "/equipment-rental/laundry-trailers/",
+    "intro": "The 30ft Mobile Laundry Trailer is listed with industrial washers and dryers and a larger interior work area. It is an option for workforce camps, response operations and projects with recurring laundry demand.",
+    "highlight": "Compare its machine count and load capacity with the 24ft option before choosing a longer trailer.",
+    "source": "https://fire-damage-kitchen-contractor.com/30ft-laundry-trailer-rental/"
+  },
+  "/services/mobile-sleeper-trailers/20ft-shared/": {
+    "equipment": [
+      "Sleeping areas designed for temporary accommodation",
+      "Heating and air conditioning",
+      "Power and lighting for the accommodation area"
+    ],
+    "planning": [
+      "Provide crew size, shift pattern and privacy requirements.",
+      "Confirm bed count, storage, bathrooms and any separate support facilities.",
+      "Review site access, power, cleaning, waste service and delivery arrangements."
+    ],
+    "use": "Temporary sleeper trailers support people staying close to construction or remote work. Coordinate sleeping space with meals, restrooms, showers and laundry so the accommodation plan covers everyday needs.",
+    "image": "/images/catalog/mobile-sleep-trailers-960.webp",
+    "alt": "Representative mobile sleeper accommodation",
+    "unknown": "Bed count, bathroom configuration, utility ratings and included furnishings require a confirmed unit specification.",
+    "name": "20ft Shared Sleeper Trailer",
+    "category": "Sleeper",
+    "categoryHref": "/equipment-rental/mobile-sleep-trailers/",
+    "intro": "The 20ft Shared Sleeper Trailer provides communal sleeping accommodation with bunks or sleeping pods. Heating and air conditioning are described in the listing, along with power and utility systems.",
+    "highlight": "Shared sleeping arrangements distinguish this option from contractor and VIP layouts.",
+    "source": "https://fire-damage-kitchen-contractor.com/20ft-mobile-sleeper-shared/"
+  },
+  "/services/mobile-sleeper-trailers/20ft-contractor/": {
+    "equipment": [
+      "Sleeping areas designed for temporary accommodation",
+      "Heating and air conditioning",
+      "Power and lighting for the accommodation area"
+    ],
+    "planning": [
+      "Provide crew size, shift pattern and privacy requirements.",
+      "Confirm bed count, storage, bathrooms and any separate support facilities.",
+      "Review site access, power, cleaning, waste service and delivery arrangements."
+    ],
+    "use": "Temporary sleeper trailers support people staying close to construction or remote work. Coordinate sleeping space with meals, restrooms, showers and laundry so the accommodation plan covers everyday needs.",
+    "image": "/images/catalog/mobile-sleep-trailers-960.webp",
+    "alt": "Representative mobile sleeper accommodation",
+    "unknown": "Bed count, bathroom configuration, utility ratings and included furnishings require a confirmed unit specification.",
+    "name": "20ft Contractor Sleeper Trailer",
+    "category": "Sleeper",
+    "categoryHref": "/equipment-rental/mobile-sleep-trailers/",
+    "intro": "The 20ft Contractor Sleeper Trailer is described with individual sleeping areas, heating, air conditioning and storage for personal belongings or work equipment.",
+    "highlight": "Request the room and bed layout to assess the level of privacy for each occupant.",
+    "source": "https://fire-damage-kitchen-contractor.com/20ft-mobile-sleeper-contractors/"
+  },
+  "/services/mobile-sleeper-trailers/20ft-vip/": {
+    "equipment": [
+      "Sleeping areas designed for temporary accommodation",
+      "Heating and air conditioning",
+      "Power and lighting for the accommodation area",
+      "Private bathroom and kitchenette"
+    ],
+    "planning": [
+      "Provide crew size, shift pattern and privacy requirements.",
+      "Confirm bed count, storage, bathrooms and any separate support facilities.",
+      "Review site access, power, cleaning, waste service and delivery arrangements."
+    ],
+    "use": "Temporary sleeper trailers support people staying close to construction or remote work. Coordinate sleeping space with meals, restrooms, showers and laundry so the accommodation plan covers everyday needs.",
+    "image": "/images/catalog/mobile-sleep-trailers-960.webp",
+    "alt": "Representative mobile sleeper accommodation",
+    "unknown": "Bed count, bathroom configuration, utility ratings and included furnishings require a confirmed unit specification.",
+    "name": "20ft VIP Sleeper Trailer",
+    "category": "Sleeper",
+    "categoryHref": "/equipment-rental/mobile-sleep-trailers/",
+    "intro": "The 20ft VIP Sleeper Trailer is listed with a private sleeping area, bathroom, kitchenette and space for work or relaxation. Heating and air conditioning support the accommodation.",
+    "highlight": "The private bathroom and kitchenette are the main published differences from shared sleeping units.",
+    "source": "https://fire-damage-kitchen-contractor.com/20ft-mobile-sleeper-vip/"
+  },
+  "/equipment-rental-refrigeration-12ft-refrigerated-trailer/": {
+    "equipment": [
+      "Temperature-controlled storage",
+      "Refrigeration and freezer configurations available",
+      "Interior storage configurations to suit the load"
+    ],
+    "planning": [
+      "Specify products, required temperature and storage volume.",
+      "Explain how goods will be loaded and how often doors will open.",
+      "Confirm temperature range, power, monitoring and backup arrangements."
+    ],
+    "use": "Temporary cold storage can bridge a cooler breakdown, add event storage or support a kitchen renovation. Select the unit against the product temperature requirement and loading pattern, then confirm the available specification.",
+    "image": "/images/catalog/refrigeration-trailers-960.webp",
+    "alt": "Representative refrigerated storage trailer",
+    "unknown": "Usable capacity, electrical rating and the available unit's temperature range require confirmation.",
+    "name": "12ft Refrigeration Trailer",
+    "category": "Refrigeration",
+    "categoryHref": "/equipment-rental/refrigeration/",
+    "intro": "The 12ft Refrigeration Trailer provides compact temporary cold storage for businesses and events with limited space. Temporary123 lists adjustable cooling, optional freezer configurations and short- or long-term rental.",
+    "highlight": "The original page gives a typical range of -10°F to 50°F, subject to the unit and requirements. Confirm the temperature specification for your products.",
+    "source": "https://temporary123.com/equipment-rental-refrigeration-12ft-refrigerated-trailer/"
+  },
+  "/20ft-refrigeration-trailers/": {
+    "equipment": [
+      "Temperature-controlled storage",
+      "Refrigeration and freezer configurations available",
+      "Interior storage configurations to suit the load"
+    ],
+    "planning": [
+      "Specify products, required temperature and storage volume.",
+      "Explain how goods will be loaded and how often doors will open.",
+      "Confirm temperature range, power, monitoring and backup arrangements."
+    ],
+    "use": "Temporary cold storage can bridge a cooler breakdown, add event storage or support a kitchen renovation. Select the unit against the product temperature requirement and loading pattern, then confirm the available specification.",
+    "image": "/images/catalog/refrigeration-trailers-960.webp",
+    "alt": "Representative refrigerated storage trailer",
+    "unknown": "Usable capacity, electrical rating and the available unit's temperature range require confirmation.",
+    "name": "20ft Refrigeration Trailer",
+    "category": "Refrigeration",
+    "categoryHref": "/equipment-rental/refrigeration/",
+    "intro": "The 20ft Refrigeration Trailer provides temporary refrigerated or frozen storage. The reference describes adjustable temperature control and shelving configurations for different storage needs.",
+    "highlight": "Confirm whether the available unit is configured for refrigeration or frozen storage.",
+    "source": "https://fire-damage-kitchen-contractor.com/refrigeration-trailer-20ft-rental/"
+  },
+  "/equipment-rental/refrigerated-containers/": {
+    "equipment": [
+      "Temperature-controlled storage",
+      "Refrigeration and freezer configurations available",
+      "Interior storage configurations to suit the load"
+    ],
+    "planning": [
+      "Specify products, required temperature and storage volume.",
+      "Explain how goods will be loaded and how often doors will open.",
+      "Confirm temperature range, power, monitoring and backup arrangements."
+    ],
+    "use": "Temporary cold storage can bridge a cooler breakdown, add event storage or support a kitchen renovation. Select the unit against the product temperature requirement and loading pattern, then confirm the available specification.",
+    "image": "/images/catalog/refrigeration-trailers-960.webp",
+    "alt": "Representative refrigerated storage trailer",
+    "unknown": "Usable capacity, electrical rating and the available unit's temperature range require confirmation.",
+    "name": "40ft Refrigerated Container",
+    "category": "Refrigeration",
+    "categoryHref": "/equipment-rental/refrigeration/",
+    "intro": "The 40ft Refrigerated Container is a container-based option for larger or longer-term cold-storage needs. The reference lists refrigeration and freezing capability with configurable shelving or racking.",
+    "highlight": "Container placement and loading access need to be planned separately from trailer towing access.",
+    "source": "https://fire-damage-kitchen-contractor.com/refrigeration-container-40ft-rental/"
+  },
+  "/remote-containerized-military-berthing-solution-for-rent/": {
+    "equipment": [
+      "Sleeping areas designed for temporary accommodation",
+      "Heating and air conditioning",
+      "Power and lighting for the accommodation area"
+    ],
+    "planning": [
+      "Provide crew size, shift pattern and privacy requirements.",
+      "Confirm bed count, storage, bathrooms and any separate support facilities.",
+      "Review site access, power, cleaning, waste service and delivery arrangements."
+    ],
+    "use": "Temporary sleeper trailers support people staying close to construction or remote work. Coordinate sleeping space with meals, restrooms, showers and laundry so the accommodation plan covers everyday needs.",
+    "image": "/images/catalog/mobile-sleep-trailers-960.webp",
+    "alt": "Representative mobile sleeper accommodation",
+    "unknown": "Bed count, bathroom configuration, utility ratings and included furnishings require a confirmed unit specification.",
+    "name": "Containerized Sleeper Units",
+    "category": "Sleeper",
+    "categoryHref": "/equipment-rental/mobile-sleep-trailers/",
+    "intro": "Containerized Sleeper Units provide insulated accommodation with bunk beds, climate control and personal storage. The reference describes power and lighting for longer worksites and temporary deployments.",
+    "highlight": "Container-based accommodation is distinct from the three 20ft sleeper trailer layouts.",
+    "source": "https://fire-damage-kitchen-contractor.com/containerized-sleeper-rental/"
+  },
+  "/services/handwashing-trailers/hands-free/": {
+    "equipment": [
+      "Hands-free foot-pump operation",
+      "Handwashing basin",
+      "Soap and hand-towel dispensers shown in the published drawing"
+    ],
+    "planning": [
+      "Place stations where staff or guests need to wash their hands.",
+      "Confirm water replenishment, waste-water collection and consumable restocking.",
+      "Check station count, accessibility and servicing frequency."
+    ],
+    "use": "Portable handwashing stations give people a dedicated place to clean their hands near food preparation areas, events and work zones. The published Temporary123 drawing shows a station rather than an enclosed trailer.",
+    "image": "/images/catalog/handwashing-stations-960.webp",
+    "alt": "Temporary123 handwashing station drawing showing a foot pump, basin and dispensers",
+    "unknown": "Tank capacities, hot-water provision and the number of stations per rental are not specified in the drawing.",
+    "name": "Hands-Free Handwashing Stations",
+    "category": "Handwashing Trailers",
+    "categoryHref": "/equipment-rental/handwashing-stations/",
+    "intro": "Hands-Free Handwashing Stations use a foot pump to operate the water supply. The published Temporary123 equipment drawing shows a basin with soap and hand-towel dispensers.",
+    "highlight": "This is a portable station design; confirm the number of stations and supporting water services.",
+    "source": "https://temporary123.com/wp-content/uploads/2021/11/HAND-WASHING-STATION-1-web.jpg"
+  },
+  "/equipment-rental/handwashing-stations/": {
+    "equipment": [
+      "Hands-free foot-pump operation",
+      "Handwashing basin",
+      "Soap and hand-towel dispensers shown in the published drawing"
+    ],
+    "planning": [
+      "Place stations where staff or guests need to wash their hands.",
+      "Confirm water replenishment, waste-water collection and consumable restocking.",
+      "Check station count, accessibility and servicing frequency."
+    ],
+    "use": "Portable handwashing stations give people a dedicated place to clean their hands near food preparation areas, events and work zones. The published Temporary123 drawing shows a station rather than an enclosed trailer.",
+    "image": "/images/catalog/handwashing-stations-960.webp",
+    "alt": "Temporary123 handwashing station drawing showing a foot pump, basin and dispensers",
+    "unknown": "Tank capacities, hot-water provision and the number of stations per rental are not specified in the drawing.",
+    "name": "Portable Handwashing Stations",
+    "category": "Handwashing Trailers",
+    "categoryHref": "/equipment-rental/handwashing-stations/",
+    "intro": "Portable Handwashing Stations provide a dedicated wash point close to work and food-service areas. Temporary123's published drawing shows a hands-free foot pump, a basin and soap and towel dispensers.",
+    "highlight": "The source describes station equipment rather than an enclosed handwashing trailer.",
+    "source": "https://temporary123.com/wp-content/uploads/2021/11/HAND-WASHING-STATION-1-web.jpg"
+  },
+  "/services/shower-trailers/22ft-10-stall/": {
+    "equipment": [
+      "One 22 ft mobile shower trailer configuration",
+      "10 individual shower stalls for workforce hygiene",
+      "A compact shower facility for construction sites, man camps and emergency base camps"
+    ],
+    "planning": [
+      "Share the number of users and the expected shift schedule.",
+      "Confirm water, wastewater, power and hot water requirements for the 10 stalls.",
+      "Plan delivery access, cleaning, servicing and safe pedestrian routes before arrival."
+    ],
+    "use": "The 22 ft shower trailer provides 10 stalls for construction crews, man camps, facility renovations and emergency support. Plan capacity around the busiest shift change and allow time for cleaning, water supply and wastewater servicing.",
+    "image": "/images/catalog/temporary-shower-trailers-960.webp",
+    "alt": "Interior reference for the 22 ft shower trailer with 10 stalls",
+    "unknown": "Utility ratings, tank capacities, water heating performance, floor plan and the available unit must be confirmed for the project.",
+    "name": "22 ft Shower Trailer, 10 Stalls",
+    "category": "Shower",
+    "categoryHref": "/equipment-rental/shower-trailer/",
+    "intro": "Temporary123 offers one shower-only configuration: a 22 ft mobile shower trailer with 10 stalls. It is available for rental or lease planning for construction sites, man camps, renovations and emergency base camps.",
+    "highlight": "The shower-only fleet listing is a 22 ft trailer with 10 stalls. Confirm the available unit and site utility plan in the quote.",
+    "source": "https://temporary123.com/equipment-rental/shower-trailer/"
+  },
+  "/services/shower-restroom-combination-trailers/13ft-3-stall/": {
+    "equipment": [
+      "One 13 ft luxury shower and restroom combination trailer",
+      "3 stalls in the listed combination configuration",
+      "Combined shower and restroom support in one mobile facility"
+    ],
+    "planning": [
+      "Share crew size, shift times and the expected peak-use period.",
+      "Review the actual floor plan, privacy requirements and any accessible entry needs.",
+      "Confirm water heating, wastewater, power, cleaning and service access before delivery."
+    ],
+    "use": "13 ft Luxury Shower and Restroom Combination Trailer, 3 Stalls supports construction projects, man camps, renovations and emergency base camps that need showers and restrooms in one mobile facility. Plan capacity around the busiest shift change and allow time for cleaning, water supply and wastewater servicing.",
+    "image": "/images/catalog/temporary-shower-trailers-960.webp",
+    "alt": "Interior reference for the 13 ft Luxury Shower and Restroom Combination Trailer, 3 Stalls",
+    "unknown": "Confirm the actual floor plan, restroom and shower allocation, accessible features, tank capacities, utility ratings and available unit.",
+    "name": "13 ft Luxury Shower and Restroom Combination Trailer, 3 Stalls",
+    "category": "Shower and Restroom Combination Trailers",
+    "categoryHref": "/services/shower-restroom-combination-trailers/",
+    "intro": "Temporary123 offers the 13 ft luxury shower and restroom combination trailer, 3 stalls for rental or lease planning. The published client equipment schedule identifies the trailer length and total stall capacity shown on this page.",
+    "highlight": "Published configuration: 13 ft with 3 stalls. Confirm the available unit and site utility plan in the quote.",
+    "source": "https://fire-damage-kitchen-contractor.com/"
+  },
+  "/services/shower-restroom-combination-trailers/22ft-6-stall/": {
+    "equipment": [
+      "One 22 ft luxury shower and restroom combination trailer",
+      "6 stalls in the listed combination configuration",
+      "Combined shower and restroom support in one mobile facility"
+    ],
+    "planning": [
+      "Share crew size, shift times and the expected peak-use period.",
+      "Review the actual floor plan, privacy requirements and any accessible entry needs.",
+      "Confirm water heating, wastewater, power, cleaning and service access before delivery."
+    ],
+    "use": "22 ft Luxury Shower and Restroom Combination Trailer, 6 Stalls supports construction projects, man camps, renovations and emergency base camps that need showers and restrooms in one mobile facility. Plan capacity around the busiest shift change and allow time for cleaning, water supply and wastewater servicing.",
+    "image": "/images/catalog/temporary-shower-trailers-960.webp",
+    "alt": "Interior reference for the 22 ft Luxury Shower and Restroom Combination Trailer, 6 Stalls",
+    "unknown": "Confirm the actual floor plan, restroom and shower allocation, accessible features, tank capacities, utility ratings and available unit.",
+    "name": "22 ft Luxury Shower and Restroom Combination Trailer, 6 Stalls",
+    "category": "Shower and Restroom Combination Trailers",
+    "categoryHref": "/services/shower-restroom-combination-trailers/",
+    "intro": "Temporary123 offers the 22 ft luxury shower and restroom combination trailer, 6 stalls for rental or lease planning. The published client equipment schedule identifies the trailer length and total stall capacity shown on this page.",
+    "highlight": "Published configuration: 22 ft with 6 stalls. Confirm the available unit and site utility plan in the quote.",
+    "source": "https://fire-damage-kitchen-contractor.com/"
+  },
+  "/services/shower-restroom-combination-trailers/30ft-8-stall/": {
+    "equipment": [
+      "One 30 ft luxury shower and restroom combination trailer",
+      "8 stalls in the listed combination configuration",
+      "Combined shower and restroom support in one mobile facility"
+    ],
+    "planning": [
+      "Share crew size, shift times and the expected peak-use period.",
+      "Review the actual floor plan, privacy requirements and any accessible entry needs.",
+      "Confirm water heating, wastewater, power, cleaning and service access before delivery."
+    ],
+    "use": "30 ft Luxury Shower and Restroom Combination Trailer, 8 Stalls supports construction projects, man camps, renovations and emergency base camps that need showers and restrooms in one mobile facility. Plan capacity around the busiest shift change and allow time for cleaning, water supply and wastewater servicing.",
+    "image": "/images/catalog/temporary-shower-trailers-960.webp",
+    "alt": "Interior reference for the 30 ft Luxury Shower and Restroom Combination Trailer, 8 Stalls",
+    "unknown": "Confirm the actual floor plan, restroom and shower allocation, accessible features, tank capacities, utility ratings and available unit.",
+    "name": "30 ft Luxury Shower and Restroom Combination Trailer, 8 Stalls",
+    "category": "Shower and Restroom Combination Trailers",
+    "categoryHref": "/services/shower-restroom-combination-trailers/",
+    "intro": "Temporary123 offers the 30 ft luxury shower and restroom combination trailer, 8 stalls for rental or lease planning. The published client equipment schedule identifies the trailer length and total stall capacity shown on this page.",
+    "highlight": "Published configuration: 30 ft with 8 stalls. Confirm the available unit and site utility plan in the quote.",
+    "source": "https://fire-damage-kitchen-contractor.com/"
+  },
+  "/services/shower-restroom-combination-trailers/3-stall-1-ada/": {
+    "equipment": [
+      "One accessible luxury shower and restroom combination trailer configuration",
+      "3 stalls plus 1 ADA stall in the listed accessible combination configuration",
+      "Combined shower and restroom support in one mobile facility"
+    ],
+    "planning": [
+      "Share crew size, shift times and the expected peak-use period.",
+      "Review the actual floor plan, privacy requirements and any accessible entry needs.",
+      "Confirm water heating, wastewater, power, cleaning and service access before delivery."
+    ],
+    "use": "Luxury Shower and Restroom Combination Trailer, 3 Stalls + 1 ADA supports construction projects, man camps, renovations and emergency base camps that need showers and restrooms in one mobile facility. Plan capacity around the busiest shift change and allow time for cleaning, water supply and wastewater servicing.",
+    "image": "/images/catalog/temporary-shower-trailers-960.webp",
+    "alt": "Interior reference for the Luxury Shower and Restroom Combination Trailer, 3 Stalls + 1 ADA",
+    "unknown": "The current equipment schedule lists this accessible configuration by stall capacity without a trailer length. Confirm the actual floor plan, accessible features, utility ratings and available unit.",
+    "name": "Luxury Shower and Restroom Combination Trailer, 3 Stalls + 1 ADA",
+    "category": "Shower and Restroom Combination Trailers",
+    "categoryHref": "/services/shower-restroom-combination-trailers/",
+    "intro": "Temporary123 offers the luxury shower and restroom combination trailer, 3 stalls + 1 ada for rental or lease planning. The published client equipment schedule identifies the trailer length and total stall capacity shown on this page.",
+    "highlight": "Published configuration: 3 stalls plus 1 ADA stall. Trailer length is not listed in the current equipment schedule and must be confirmed in the quote.",
+    "source": "https://fire-damage-kitchen-contractor.com/"
+  },
+  "/services/shower-restroom-combination-trailers/8-stall-1-ada/": {
+    "equipment": [
+      "One accessible luxury shower and restroom combination trailer configuration",
+      "8 stalls plus 1 ADA stall in the listed accessible combination configuration",
+      "Combined shower and restroom support in one mobile facility"
+    ],
+    "planning": [
+      "Share crew size, shift times and the expected peak-use period.",
+      "Review the actual floor plan, privacy requirements and any accessible entry needs.",
+      "Confirm water heating, wastewater, power, cleaning and service access before delivery."
+    ],
+    "use": "Luxury Shower and Restroom Combination Trailer, 8 Stalls + 1 ADA supports construction projects, man camps, renovations and emergency base camps that need showers and restrooms in one mobile facility. Plan capacity around the busiest shift change and allow time for cleaning, water supply and wastewater servicing.",
+    "image": "/images/catalog/temporary-shower-trailers-960.webp",
+    "alt": "Interior reference for the Luxury Shower and Restroom Combination Trailer, 8 Stalls + 1 ADA",
+    "unknown": "The current equipment schedule lists this accessible configuration by stall capacity without a trailer length. Confirm the actual floor plan, accessible features, utility ratings and available unit.",
+    "name": "Luxury Shower and Restroom Combination Trailer, 8 Stalls + 1 ADA",
+    "category": "Shower and Restroom Combination Trailers",
+    "categoryHref": "/services/shower-restroom-combination-trailers/",
+    "intro": "Temporary123 offers the luxury shower and restroom combination trailer, 8 stalls + 1 ada for rental or lease planning. The published client equipment schedule identifies the trailer length and total stall capacity shown on this page.",
+    "highlight": "Published configuration: 8 stalls plus 1 ADA stall. Trailer length is not listed in the current equipment schedule and must be confirmed in the quote.",
+    "source": "https://fire-damage-kitchen-contractor.com/"
+  },
+  "/services/shower-containers/20ft-5-stall/": {
+    "equipment": [
+      "One 20 ft mobile shower container configuration",
+      "5 individual shower stalls for workforce hygiene",
+      "Containerized shower support for construction sites, man camps and emergency base camps"
+    ],
+    "planning": [
+      "Share the number of users and the expected shift schedule.",
+      "Confirm water, wastewater, power and hot water requirements for the 5 stalls.",
+      "Plan placement, lifting or unloading access, cleaning and servicing before arrival."
+    ],
+    "use": "The 20 ft Shower Container provides 5 stalls for construction crews, man camps, facility renovations and emergency support. Plan capacity around the busiest shift change and confirm how the container will be delivered, positioned and connected at the site.",
+    "image": "/images/catalog/temporary-shower-trailers-960.webp",
+    "alt": "Interior reference for the 20 ft shower container with 5 stalls",
+    "unknown": "Utility ratings, tank capacities, water heating performance, floor plan, delivery method and the available unit must be confirmed for the project.",
+    "name": "20 ft Shower Container, 5 Stalls",
+    "category": "Shower",
+    "categoryHref": "/equipment-rental/shower-trailer/",
+    "intro": "Temporary123 offers a 20 ft mobile shower container with 5 stalls for rental or lease planning. It can support construction sites, man camps, renovations and emergency base camps when a containerized layout suits the delivery plan.",
+    "highlight": "Published configuration: 20 ft shower container with 5 stalls. Confirm the available unit, unloading method and site utility plan in the quote.",
+    "source": "https://temporary123.com/equipment-rental/shower-trailer/"
+  }
+}

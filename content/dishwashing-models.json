@@ -1,0 +1,107 @@
+[
+  {
+    "id": "dishwashing-22ft",
+    "name": "22-Foot Commercial Dishwashing Trailer",
+    "shortName": "22-Foot Dishwashing Trailer",
+    "route": "/22ft-dishwashing-trailer-rental/",
+    "configuration": "standard",
+    "nominalLengthFeet": 22,
+    "availability": "unknown",
+    "verificationStatus": "unverified",
+    "summary": "A temporary warewashing configuration to evaluate for compact project sites. Final layout, equipment, capacity, utilities, access, and availability require confirmation.",
+    "specifications": {
+      "exteriorDimensions": null,
+      "dishMachine": null,
+      "racksPerHour": null,
+      "waterConnection": null,
+      "wastewaterConnection": null,
+      "electricalService": null,
+      "fuel": null,
+      "staffingCapacity": null
+    },
+    "image": {
+      "src": null,
+      "alt": null,
+      "status": "no-verified-exact-model-photo"
+    }
+  },
+  {
+    "id": "dishwashing-24ft",
+    "name": "24-Foot Commercial Dishwashing Trailer",
+    "shortName": "24-Foot Dishwashing Trailer",
+    "route": "/24ft-dishwashing-trailer-rental/",
+    "configuration": "standard",
+    "nominalLengthFeet": 24,
+    "availability": "unknown",
+    "verificationStatus": "unverified",
+    "summary": "A temporary warewashing configuration to consider when planning added workspace. Final layout, equipment, capacity, utilities, access, and availability require confirmation.",
+    "specifications": {
+      "exteriorDimensions": null,
+      "dishMachine": null,
+      "racksPerHour": null,
+      "waterConnection": null,
+      "wastewaterConnection": null,
+      "electricalService": null,
+      "fuel": null,
+      "staffingCapacity": null
+    },
+    "image": {
+      "src": null,
+      "alt": null,
+      "status": "no-verified-exact-model-photo"
+    }
+  },
+  {
+    "id": "dishwashing-26ft",
+    "name": "26-Foot Commercial Dishwashing Trailer",
+    "shortName": "26-Foot Dishwashing Trailer",
+    "route": "/26ft-dishwashing-trailer-rental/",
+    "configuration": "standard",
+    "nominalLengthFeet": 26,
+    "availability": "unknown",
+    "verificationStatus": "unverified",
+    "summary": "A temporary warewashing configuration for projects that may need more working room. Final layout, equipment, capacity, utilities, access, and availability require confirmation.",
+    "specifications": {
+      "exteriorDimensions": null,
+      "dishMachine": null,
+      "racksPerHour": null,
+      "waterConnection": null,
+      "wastewaterConnection": null,
+      "electricalService": null,
+      "fuel": null,
+      "staffingCapacity": null
+    },
+    "image": {
+      "src": null,
+      "alt": null,
+      "status": "no-verified-exact-model-photo"
+    }
+  },
+  {
+    "id": "dishwashing-38ft-conveyor",
+    "name": "38-Foot Conveyor Dishwashing Trailer",
+    "shortName": "38-Foot Conveyor Trailer",
+    "route": "/38ft-conveyor-dishwashing-trailer-rental/",
+    "configuration": "conveyor",
+    "nominalLengthFeet": 38,
+    "availability": "unknown",
+    "verificationStatus": "unverified",
+    "summary": "A conveyor-designated temporary warewashing configuration for higher-volume planning. Final machine type, throughput, workflow, utilities, access, and availability require confirmation.",
+    "specifications": {
+      "exteriorDimensions": null,
+      "dishMachine": null,
+      "racksPerHour": null,
+      "waterConnection": null,
+      "wastewaterConnection": null,
+      "electricalService": null,
+      "fuel": null,
+      "staffingCapacity": null
+    },
+    "image": {
+      "src": null,
+      "alt": null,
+      "status": "no-verified-exact-model-photo"
+    }
+  }
+]
+

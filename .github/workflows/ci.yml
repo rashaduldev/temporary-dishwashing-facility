@@ -1,0 +1,34 @@
+name: Verify Temporary 123
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - uses: actions/setup-java@v6
+        with:
+          distribution: temurin
+          java-version: 21
+      - run: npm ci
+      - run: npm run build
+      - run: npm run check:seo
+      - run: node --no-experimental-require-module scripts/check-server-runtime.mjs
+      - run: npm run check:secrets
+      - run: npm test
+      - run: npm run test:rules
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e
+      - run: npm audit --audit-level=high
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: verification
+          path: |
+            test-results/
+            security/

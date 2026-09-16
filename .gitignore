@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.vercel/
+playwright-report/
+test-results/
+*-debug.log
+audit/input/
+docs/REVISED-PROJECT-PROMPT.md
+security/archive/
+content/catalog/
+content/priority/

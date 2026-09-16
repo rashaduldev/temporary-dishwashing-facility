@@ -1,0 +1,192 @@
+[
+  {
+    "path": "/",
+    "kind": "core",
+    "action": "rebuild",
+    "h1": "Temporary Commercial Dishwashing Facility Rentals",
+    "intent": "Plan a temporary commercial warewashing setup",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["service coverage", "operating hours", "delivery timing", "phone ownership"]
+  },
+  {
+    "path": "/dishwashing-trailer-rental/",
+    "kind": "core",
+    "action": "rebuild",
+    "h1": "Commercial Dishwashing Trailer Rental",
+    "intent": "Compare temporary warewashing configurations",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["configuration details", "current model availability"]
+  },
+  {
+    "path": "/22ft-dishwashing-trailer-rental/",
+    "kind": "model",
+    "action": "rebuild",
+    "h1": "22-Foot Commercial Dishwashing Trailer Rental",
+    "intent": "Evaluate the 22-foot model",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["machine", "capacity", "utilities", "exact dimensions", "availability"]
+  },
+  {
+    "path": "/24ft-dishwashing-trailer-rental/",
+    "kind": "model",
+    "action": "rebuild",
+    "h1": "24-Foot Commercial Dishwashing Trailer Rental",
+    "intent": "Evaluate the 24-foot model",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["machine", "capacity", "utilities", "exact dimensions", "availability"]
+  },
+  {
+    "path": "/26ft-dishwashing-trailer-rental/",
+    "kind": "model",
+    "action": "rebuild",
+    "h1": "26-Foot Commercial Dishwashing Trailer Rental",
+    "intent": "Evaluate the 26-foot model",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["machine", "capacity", "utilities", "exact dimensions", "availability"]
+  },
+  {
+    "path": "/38ft-conveyor-dishwashing-trailer-rental/",
+    "kind": "model",
+    "action": "rebuild",
+    "h1": "38-Foot Conveyor Dishwashing Trailer Rental",
+    "intent": "Evaluate the conveyor-designated model",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["machine", "throughput", "workflow", "utilities", "exact dimensions", "availability"]
+  },
+  {
+    "path": "/calculator/",
+    "kind": "core",
+    "action": "build-new",
+    "h1": "Temporary Dishwashing Facility Rental and Delivery Calculator",
+    "intent": "Generate a nonbinding planning estimate",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["approved equipment baseline", "approved delivery formula"]
+  },
+  {
+    "path": "/emergency-service/",
+    "kind": "core",
+    "action": "rebuild",
+    "h1": "Emergency Commercial Dishwashing Facility Rental",
+    "intent": "Prepare for a time-sensitive equipment conversation",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["staffing hours", "delivery timing", "dispatch coverage", "phone ownership"]
+  },
+  {
+    "path": "/commercial-dishwashing-facility-contact/",
+    "kind": "core",
+    "action": "rebuild-with-submission-disabled",
+    "h1": "Request Commercial Dishwashing Rental Availability",
+    "intent": "Collect the project details needed for an availability conversation",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["phone ownership", "operating hours", "inquiry backend readiness"]
+  },
+  {
+    "path": "/industries/",
+    "kind": "core",
+    "action": "build-new",
+    "h1": "Commercial and Institutional Dishwashing Applications",
+    "intent": "Understand temporary warewashing planning by operating context",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["approved customer examples", "sector-specific compliance claims"]
+  },
+  {
+    "path": "/service-areas/",
+    "kind": "core",
+    "action": "build-new",
+    "h1": "Temporary Dishwashing Facility Service-Area Planning",
+    "intent": "Understand how location affects project planning",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["verified service footprint", "location-specific logistics"]
+  },
+  {
+    "path": "/resources/",
+    "kind": "core",
+    "action": "build-new",
+    "h1": "Commercial Warewashing Planning Resources",
+    "intent": "Review practical temporary-facility planning topics",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": []
+  },
+  {
+    "path": "/resources/mobile-backflow-protection-systems/",
+    "kind": "resource",
+    "action": "preserve-and-fact-check",
+    "h1": "Backflow Prevention for Mobile Dishwashing Trailers",
+    "intent": "Plan potable-water protection with the relevant authorities",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["site-specific requirements", "supplied components"]
+  },
+  {
+    "path": "/resources/hazardous-washdown-liquid-containment/",
+    "kind": "resource",
+    "action": "preserve-and-fact-check",
+    "h1": "Dishwashing Wastewater Containment for Emergency Operations",
+    "intent": "Plan wastewater handling and approved discharge",
+    "indexing": "index-when-production-approved",
+    "unresolvedFacts": ["tank capacities", "supplied services", "jurisdictional requirements"]
+  },
+  {
+    "path": "/resources/warewash-versus-paper-costs/",
+    "kind": "historical-protected",
+    "action": "preserve-pending-fact-check",
+    "h1": "Warewashing and Disposable Serviceware Planning",
+    "intent": "Compare operational factors without unsupported savings claims",
+    "indexing": "hold-for-review",
+    "unresolvedFacts": ["cost inputs", "comparison methodology", "publication date"]
+  },
+  {
+    "path": "/states/temporary-dishwashing-facility-for-lease-in-colorado-usa/",
+    "kind": "pilot-location",
+    "action": "preserve-and-rebuild",
+    "h1": "Colorado Commercial Dishwashing Facility Rental",
+    "intent": "Plan a Colorado project without implying local inventory",
+    "indexing": "hold-for-coverage-verification",
+    "unresolvedFacts": ["Colorado coverage", "logistics", "city-level service"]
+  },
+  {
+    "path": "/states/temporary-dishwashing-facility-for-lease-in-winconsin-usa/",
+    "kind": "historical-protected",
+    "action": "keep-historical-path-pending-seo-evidence",
+    "h1": "Wisconsin Commercial Dishwashing Facility Rental",
+    "intent": "Preserve the typo URL while its search and backlink value is reviewed",
+    "indexing": "hold-for-coverage-verification",
+    "unresolvedFacts": ["Wisconsin coverage", "search value", "backlinks", "corrected-route decision"]
+  },
+  {
+    "path": "/testimonials/",
+    "kind": "historical-protected",
+    "action": "preserve-pending-approved-evidence",
+    "h1": "Customer Experience",
+    "intent": "Avoid inventing testimonials or deleting a potentially valuable URL",
+    "indexing": "hold-for-review",
+    "unresolvedFacts": ["approved testimonials", "traffic", "backlinks"]
+  },
+  {
+    "path": "/brand-comparison/",
+    "kind": "historical-protected",
+    "action": "preserve-pending-approved-evidence",
+    "h1": "Dishwashing Equipment Planning Considerations",
+    "intent": "Avoid unsupported manufacturer comparisons while the URL is reviewed",
+    "indexing": "hold-for-review",
+    "unresolvedFacts": ["manufacturer evidence", "traffic", "backlinks"]
+  },
+  {
+    "path": "/cafeteria-kitchen-dishwasher-facility/",
+    "kind": "historical-protected",
+    "action": "preserve-pending-intent-review",
+    "h1": "Temporary Cafeteria Dishwashing Facility Planning",
+    "intent": "Retain the URL until content and search evidence identify the right disposition",
+    "indexing": "hold-for-review",
+    "unresolvedFacts": ["current search intent", "traffic", "backlinks", "best destination"]
+  },
+  {
+    "path": "/seo/dashboard/",
+    "kind": "private",
+    "action": "build-protected",
+    "h1": "SEO and Site Health",
+    "intent": "Provide authenticated operational diagnostics",
+    "indexing": "noindex",
+    "unresolvedFacts": ["authentication provider", "connected data sources"]
+  }
+]
+

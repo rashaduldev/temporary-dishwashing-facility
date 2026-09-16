@@ -1,0 +1,24 @@
+{
+  "brand": "Temporary Dishwashing Facility For Lease",
+  "shortBrand": "Dishwashing Facility Rental",
+  "origin": "https://temporary-dishwashing-facility-for-lease.com",
+  "phoneDisplay": "+1-888-385-5513",
+  "phoneE164": "+18883855513",
+  "phoneVerified": false,
+  "mode": "preview",
+  "indexingScope": "pilot",
+  "indexingBatchSize": 25,
+  "activeIndexingBatch": 0,
+  "indexingStartDate": "2026-12-01",
+  "inquiriesEnabled": false,
+  "domainRoutingReady": false,
+  "legacyUrlInventoryComplete": false,
+  "dashboardAuthReady": false,
+  "calculatorPricingApproved": false,
+  "claims": {
+    "staffed24Hours": false,
+    "deliveryWithin48Hours": false,
+    "nationwideAvailability": false,
+    "serves500Cities": false
+  }
+}

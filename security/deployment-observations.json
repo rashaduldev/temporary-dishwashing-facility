@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-09-11T16:49:57.473Z",
+  "firebase": {
+    "project": "temporary-123-87345",
+    "database": "temporary-123-87345-default-rtdb",
+    "rulesDeployed": true,
+    "unauthenticatedInquiryRead": 401
+  },
+  "vercel": {
+    "team": "temporary-124",
+    "project": "temp123",
+    "created": false,
+    "reason": "Account lacks permission to create a project in this team; UI Create Project/Deploy disabled"
+  },
+  "wordpress": {
+    "origin": "https://temporary123.com",
+    "adminStatus": "Error establishing a database connection",
+    "recoveredPages": 625,
+    "expectedPages": 98253
+  },
+  "liveDomainChanged": false,
+  "onlineInquiriesEnabled": false
+}

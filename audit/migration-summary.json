@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-09-11T16:41:18.277Z",
+  "spreadsheetRows": 148,
+  "uniquePaths": 102,
+  "recoveredPages": 625,
+  "expectedPages": 98253,
+  "backlinks": {
+    "rebuilt_homepage": 4,
+    "needs_source_recovery": 123,
+    "source_content_recovered": 21
+  },
+  "cutoverReady": false,
+  "reason": "Full source export, missing legacy URL recovery and media verification required before domain migration."
+}

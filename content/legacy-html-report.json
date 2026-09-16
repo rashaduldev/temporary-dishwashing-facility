@@ -1,0 +1,680 @@
+[
+  {
+    "path": "/temporary-facilities/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/facility-repurposing/",
+    "status": 500
+  },
+  {
+    "path": "/remote-workforce-house-company-in-alabama/",
+    "status": 500
+  },
+  {
+    "path": "/temporary-rv-housing/",
+    "status": 500
+  },
+  {
+    "path": "/modular-office/",
+    "status": 500
+  },
+  {
+    "path": "/workforce-multi-sleeper-trailer/",
+    "status": 500
+  },
+  {
+    "path": "/workforce-sleeper-modules/",
+    "status": 500
+  },
+  {
+    "path": "/workforce-sleeper-trailer/21-bed-sleeper-trailer/",
+    "status": 500
+  },
+  {
+    "path": "/workforce-sleeper-trailer/24-bed-sleeper-trailer/",
+    "status": 500
+  },
+  {
+    "path": "/workforce-housing-services/",
+    "status": 500
+  },
+  {
+    "path": "/mobile-workforce/",
+    "status": 500
+  },
+  {
+    "path": "/disaster-recoveries/",
+    "status": 500
+  },
+  {
+    "path": "/modular-workforce/",
+    "status": 500
+  },
+  {
+    "path": "/logistics-services/",
+    "status": 500
+  },
+  {
+    "path": "/contingency-planning-and-services/",
+    "status": 500
+  },
+  {
+    "path": "/emergency-logistics/",
+    "status": 500
+  },
+  {
+    "path": "/transportation-service/",
+    "status": 500
+  },
+  {
+    "path": "/installation/",
+    "status": 500
+  },
+  {
+    "path": "/expedited-permit-acquisition/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-set-up-installation/",
+    "status": 500
+  },
+  {
+    "path": "/food-service-design/",
+    "status": 500
+  },
+  {
+    "path": "/turnkey-service-level/",
+    "status": 500
+  },
+  {
+    "path": "/food-catering/",
+    "status": 500
+  },
+  {
+    "path": "/food-service-management/",
+    "status": 500
+  },
+  {
+    "path": "/complete-turnkey/",
+    "status": 500
+  },
+  {
+    "path": "/semi-turnkey/",
+    "status": 500
+  },
+  {
+    "path": "/site-management-and-maintenance/",
+    "status": 500
+  },
+  {
+    "path": "/ground-leveling-and-paving/",
+    "status": 500
+  },
+  {
+    "path": "/debris-and-snow-removal/",
+    "status": 500
+  },
+  {
+    "path": "/housekeeping-and-laundry/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-repair/",
+    "status": 500
+  },
+  {
+    "path": "/transportation-services/",
+    "status": 500
+  },
+  {
+    "path": "/safety-and-security/",
+    "status": 500
+  },
+  {
+    "path": "/auxiliary-services/",
+    "status": 500
+  },
+  {
+    "path": "/emergency-power-services-2/",
+    "status": 500
+  },
+  {
+    "path": "/fresh-water-solutions/",
+    "status": 500
+  },
+  {
+    "path": "/water-and-fire-restoration/",
+    "status": 500
+  },
+  {
+    "path": "/fuel-services/",
+    "status": 500
+  },
+  {
+    "path": "/spill-clean-up/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/food-service-solutions/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/refrigerated-trailers/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/dishwashing-trailers/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/refrigerated-containers/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/20ft-refrigeration-storage/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/dry-storage-container/",
+    "status": 404
+  },
+  {
+    "path": "/equipment-rental/40ft-refrigeration-storage/",
+    "status": 404
+  },
+  {
+    "path": "/equipment-rental/40ft-dry-storage-container/",
+    "status": 404
+  },
+  {
+    "path": "/equipment-rental/20ft-dry-storage-container/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/mobile-office-trailers/4",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/specialty-trailers/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/multi-trailer/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/sleeper-trailers/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/command-center-trailers/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/crew-man%20-camp-quarters-rental",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/decontamination-trailers/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/accessories-auxiliary-items/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/ramp-rental/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/stair-rental/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/dump-rental/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/waste-container/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/port-potties-and-port-johns/",
+    "status": 500
+  },
+  {
+    "path": "/containerized-mobile-office-trailer/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/dining-hall-facilities/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/standard-a-frame/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/curved-hat/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/a-frame-tent/",
+    "status": 500
+  },
+  {
+    "path": "/emergency-response/",
+    "status": 500
+  },
+  {
+    "path": "/government/military/",
+    "status": 500
+  },
+  {
+    "path": "/schools/",
+    "status": 500
+  },
+  {
+    "path": "/law-enforcement/",
+    "status": 500
+  },
+  {
+    "path": "/electric-companies",
+    "status": 500
+  },
+  {
+    "path": "/workforce-relocation",
+    "status": 500
+  },
+  {
+    "path": "/security-companies",
+    "status": 500
+  },
+  {
+    "path": "/commercial-firms",
+    "status": 500
+  },
+  {
+    "path": "/oil-and-gas",
+    "status": 500
+  },
+  {
+    "path": "/nursing-homes",
+    "status": 500
+  },
+  {
+    "path": "/houston-texas-mobile-kitchen-rental/",
+    "status": 500
+  },
+  {
+    "path": "/temporary-workforce-housing-facilities/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-california/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-alabama/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-alberta-ca/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-arizona/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-arkansas/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-connecticut/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-colorado/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-delaware/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-district-of-columbia/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-florida/",
+    "status": 500
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-alaska/",
+    "status": 404
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-georgia/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-hawaii/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-idaho/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-illinois/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-indiana/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-iowa/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-kansas/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-maine/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-kentucky/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-massachusetts/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-louisiana/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-michigan/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-maryland/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-minnesota/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-missouri/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-montana/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-mississippi/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-nebraska/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-nevada/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-new-hampshire/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-new-jersey/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-new-mexico/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-new-york/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-ohio/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-north-carolina/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-oklahoma/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-oregon/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-pennsylvania/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-north-dakota/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-rhode-island/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-south-carolina/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-south-dakota/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-texas/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-tennessee/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-utah/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-vermont/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-virginia/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-washington/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-winconsin/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-west-virginia/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/equipment-rental/restroom-trailers/portable-restroom-trailers-in-wyoming/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/containerized-shower-trailers/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/equipment-rental/shower-trailer/portable-shower-trailers-in-new-jersey-usa/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/emergency-migrant-containerized-living-spaces/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/workforce-housing-shelters-in-colorado/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/remote-workforce-housing-rentals-in-arizona/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/catering/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/emergency-workforce-housing-in-california/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/modular-temporary-workforce-housing-facilities/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/modular-temporary-camp-facilities/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/remote-basecamp-housing-service-company/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/remote-housing-facilities/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/remote-temporary-workforce-housing-facilities-rental/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/remote-workforce-house-company-in-hawaii/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/remote-workforce-housing-facilities/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/remote-workforce-housing-services-in-alaska/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/remote-workforce-housing-in-alabama/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/remote-containerized-military-berthing-solution/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/remote-workforce-housing-services-in-idaho/",
+    "status": 0,
+    "error": "fetch failed"
+  },
+  {
+    "path": "/temporary-remote-workforce-housing-services-in-arkansas/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/temporary-remote-workforce-housing-services-in-illinois/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/temporary-remote-workforce-housing-services-in-massachusetts/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "path": "/temporary-remote-workforce-housing-services-in-michigan/",
+    "status": 0,
+    "error": "The operation was aborted due to timeout"
+  }
+]

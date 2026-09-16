@@ -1,0 +1,225 @@
+{
+  "generatedAt": "2026-09-16T20:33:14.913Z",
+  "mode": "preview-noindex",
+  "origin": "https://temporary-dishwashing-facility-for-lease.com",
+  "releaseGates": {
+    "productionMode": false,
+    "productionDeployment": false,
+    "domainRoutingReady": false,
+    "legacyUrlInventoryComplete": false,
+    "dashboardAuthReady": false,
+    "calculatorPricingApproved": false
+  },
+  "routes": [
+    {
+      "path": "/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/dishwashing-trailer-rental/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/dishwashing-trailer-rental/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/22ft-dishwashing-trailer-rental/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/22ft-dishwashing-trailer-rental/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/24ft-dishwashing-trailer-rental/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/24ft-dishwashing-trailer-rental/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/26ft-dishwashing-trailer-rental/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/26ft-dishwashing-trailer-rental/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/38ft-conveyor-dishwashing-trailer-rental/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/38ft-conveyor-dishwashing-trailer-rental/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/calculator/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/calculator/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/emergency-service/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/emergency-service/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/commercial-dishwashing-facility-contact/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/commercial-dishwashing-facility-contact/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/industries/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/industries/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/service-areas/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/service-areas/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/resources/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/resources/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/resources/mobile-backflow-protection-systems/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/resources/mobile-backflow-protection-systems/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/resources/hazardous-washdown-liquid-containment/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/resources/hazardous-washdown-liquid-containment/",
+      "indexable": false,
+      "indexingPlan": "index-when-production-approved"
+    },
+    {
+      "path": "/resources/warewash-versus-paper-costs/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/resources/warewash-versus-paper-costs/",
+      "indexable": false,
+      "indexingPlan": "hold-for-review"
+    },
+    {
+      "path": "/states/temporary-dishwashing-facility-for-lease-in-colorado-usa/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/states/temporary-dishwashing-facility-for-lease-in-colorado-usa/",
+      "indexable": false,
+      "indexingPlan": "hold-for-coverage-verification"
+    },
+    {
+      "path": "/states/temporary-dishwashing-facility-for-lease-in-winconsin-usa/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/states/temporary-dishwashing-facility-for-lease-in-winconsin-usa/",
+      "indexable": false,
+      "indexingPlan": "hold-for-coverage-verification"
+    },
+    {
+      "path": "/about-us/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/about-us/",
+      "indexable": false,
+      "indexingPlan": "noindex"
+    },
+    {
+      "path": "/privacy/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/privacy/",
+      "indexable": false,
+      "indexingPlan": "noindex"
+    },
+    {
+      "path": "/seo/dashboard/",
+      "status": 200,
+      "canonical": null,
+      "indexable": false,
+      "indexingPlan": "noindex"
+    },
+    {
+      "path": "/seo/dashboard/diagnostics/",
+      "status": 200,
+      "canonical": null,
+      "indexable": false,
+      "indexingPlan": "noindex"
+    },
+    {
+      "path": "/seo/dashboard/google-status/",
+      "status": 200,
+      "canonical": null,
+      "indexable": false,
+      "indexingPlan": "noindex"
+    },
+    {
+      "path": "/seo/dashboard/authority/",
+      "status": 200,
+      "canonical": null,
+      "indexable": false,
+      "indexingPlan": "noindex"
+    },
+    {
+      "path": "/seo/dashboard/portfolio/",
+      "status": 200,
+      "canonical": null,
+      "indexable": false,
+      "indexingPlan": "noindex"
+    },
+    {
+      "path": "/seo/dashboard/protected-urls/",
+      "status": 200,
+      "canonical": null,
+      "indexable": false,
+      "indexingPlan": "noindex"
+    },
+    {
+      "path": "/seo/dashboard/next-checks/",
+      "status": 200,
+      "canonical": null,
+      "indexable": false,
+      "indexingPlan": "noindex"
+    },
+    {
+      "path": "/testimonials/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/testimonials/",
+      "indexable": false,
+      "indexingPlan": "hold-for-review"
+    },
+    {
+      "path": "/brand-comparison/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/brand-comparison/",
+      "indexable": false,
+      "indexingPlan": "hold-for-review"
+    },
+    {
+      "path": "/cafeteria-kitchen-dishwasher-facility/",
+      "status": 200,
+      "canonical": "https://temporary-dishwashing-facility-for-lease.com/cafeteria-kitchen-dishwasher-facility/",
+      "indexable": false,
+      "indexingPlan": "hold-for-review"
+    },
+    {
+      "path": "/404/",
+      "status": 404,
+      "canonical": null,
+      "indexable": false,
+      "indexingPlan": "noindex"
+    }
+  ]
+}

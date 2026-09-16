@@ -1,0 +1,96 @@
+
+> temporary123@0.1.0 test:rules
+> firebase emulators:exec --project demo-temporary123 --only database "vitest run --no-file-parallelism tests/rules.test.ts"
+
+i  emulators: Starting emulators: database
+i  emulators: Detected demo project ID "demo-temporary123", emulated services will use a demo configuration and attempts to access non-emulated services for this project will fail.
+i  database: Database Emulator logging to database-debug.log
+i  Running script: vitest run --no-file-parallelism tests/rules.test.ts
+
+ RUN  v3.2.7 C:/Users/Lee/Documents/Codex/2026-09-11/https-github-com-markravencanete50-source-temp123/work/Temp123
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for anonymous
+[2026-09-11T16:50:50.764Z]  @firebase/database: FIREBASE WARNING: set at / failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for anonymous
+[2026-09-11T16:50:50.772Z]  @firebase/database: FIREBASE WARNING: set at / failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for anonymous
+[2026-09-11T16:50:50.788Z]  @firebase/database: FIREBASE WARNING: set at /inquiries/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for anonymous
+[2026-09-11T16:50:50.795Z]  @firebase/database: FIREBASE WARNING: set at /inquiries/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for anonymous
+[2026-09-11T16:50:50.807Z]  @firebase/database: FIREBASE WARNING: set at /rateLimits/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for anonymous
+[2026-09-11T16:50:50.813Z]  @firebase/database: FIREBASE WARNING: set at /rateLimits/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for anonymous
+[2026-09-11T16:50:50.826Z]  @firebase/database: FIREBASE WARNING: set at /unknown/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for anonymous
+[2026-09-11T16:50:50.832Z]  @firebase/database: FIREBASE WARNING: set at /unknown/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for owner
+[2026-09-11T16:50:50.978Z]  @firebase/database: FIREBASE WARNING: set at / failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for owner
+[2026-09-11T16:50:50.984Z]  @firebase/database: FIREBASE WARNING: set at / failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for owner
+[2026-09-11T16:50:50.997Z]  @firebase/database: FIREBASE WARNING: set at /inquiries/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for owner
+[2026-09-11T16:50:51.003Z]  @firebase/database: FIREBASE WARNING: set at /inquiries/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for owner
+[2026-09-11T16:50:51.015Z]  @firebase/database: FIREBASE WARNING: set at /rateLimits/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for owner
+[2026-09-11T16:50:51.022Z]  @firebase/database: FIREBASE WARNING: set at /rateLimits/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for owner
+[2026-09-11T16:50:51.032Z]  @firebase/database: FIREBASE WARNING: set at /unknown/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for owner
+[2026-09-11T16:50:51.038Z]  @firebase/database: FIREBASE WARNING: set at /unknown/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for other
+[2026-09-11T16:50:51.092Z]  @firebase/database: FIREBASE WARNING: set at / failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for other
+[2026-09-11T16:50:51.098Z]  @firebase/database: FIREBASE WARNING: set at / failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for other
+[2026-09-11T16:50:51.110Z]  @firebase/database: FIREBASE WARNING: set at /inquiries/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for other
+[2026-09-11T16:50:51.117Z]  @firebase/database: FIREBASE WARNING: set at /inquiries/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for other
+[2026-09-11T16:50:51.129Z]  @firebase/database: FIREBASE WARNING: set at /rateLimits/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for other
+[2026-09-11T16:50:51.135Z]  @firebase/database: FIREBASE WARNING: set at /rateLimits/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for other
+[2026-09-11T16:50:51.146Z]  @firebase/database: FIREBASE WARNING: set at /unknown/test failed: permission_denied 
+
+stderr | tests/rules.test.ts > denies direct private reads and writes for other
+[2026-09-11T16:50:51.151Z]  @firebase/database: FIREBASE WARNING: set at /unknown/test failed: permission_denied 
+
+ ✓ tests/rules.test.ts (7 tests) 1515ms
+
+ Test Files  1 passed (1)
+      Tests  7 passed (7)
+   Start at  00:50:48
+   Duration  2.63s (transform 90ms, setup 0ms, collect 752ms, tests 1.51s, environment 0ms, prepare 114ms)
+
++  Script exited successfully (code 0)
+i  emulators: Shutting down emulators.
+i  database: Stopping Database Emulator
+!  Database Emulator has exited upon receiving signal: SIGINT
+i  hub: Stopping emulator hub
+i  logging: Stopping Logging Emulator
