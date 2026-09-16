@@ -27,6 +27,19 @@ const directStateRoutes: Record<string, string> = {
   Wisconsin: "/states/temporary-dishwashing-facility-for-lease-in-winconsin-usa/",
 };
 
+const dishwashingFacilityPhotos = [
+  {
+    image: "/media/cc7bd709e3c4c4a3698b1f00.webp",
+    alt: "Stainless steel sinks, pre-rinse equipment, worktables and storage racks inside a temporary dishwashing facility",
+    label: "Wash line and clean-storage layout",
+  },
+  {
+    image: "/media/4723f18940a45f69bd1c8483.webp",
+    alt: "Stainless steel worktable and preparation area inside a temporary dishwashing facility",
+    label: "Stainless work and landing space",
+  },
+] as const;
+
 function StateMap({ gradientId, selectState }: { gradientId: string; selectState: (state: string) => void }) {
   return (
     <svg className="dw-usa-map" viewBox="-25 -15 1190 690" role="group" aria-label="Interactive map of all 50 United States">
@@ -89,9 +102,11 @@ export function DishwashingCoverageMap() {
   const dialogRef = useRef<HTMLDialogElement>(null);
   const [selectedState, setSelectedState] = useState("");
   const [googleMapsState, setGoogleMapsState] = useState("");
+  const [photoIndex, setPhotoIndex] = useState(0);
 
   const selectState = (state: string) => {
     setSelectedState(state);
+    setPhotoIndex(states.findIndex((item) => item.name === state) % dishwashingFacilityPhotos.length);
     if (!dialogRef.current?.open) dialogRef.current?.showModal();
   };
 
@@ -99,6 +114,10 @@ export function DishwashingCoverageMap() {
   const googleMapsUrl = googleMapsState
     ? `https://www.google.com/maps/place/${encodeURIComponent(googleMapsState)}/`
     : "https://www.google.com/maps/place/United+States/";
+  const activePhoto = dishwashingFacilityPhotos[photoIndex];
+  const changePhoto = (direction: number) => {
+    setPhotoIndex((current) => (current + direction + dishwashingFacilityPhotos.length) % dishwashingFacilityPhotos.length);
+  };
 
   return (
     <figure className="dw-coverage-map" aria-labelledby="dw-coverage-map-title">
@@ -126,14 +145,65 @@ export function DishwashingCoverageMap() {
       </div>
       <figcaption>Includes Alaska and Hawaii. Map boundaries are based on U.S. Census Bureau geography. No state-level availability is implied.</figcaption>
 
-      <dialog ref={dialogRef} className="dw-state-map-dialog" aria-labelledby="dw-state-map-dialog-title" onCancel={() => dialogRef.current?.close()}>
+      <dialog
+        ref={dialogRef}
+        className="dw-state-map-dialog"
+        aria-labelledby="dw-state-map-dialog-title"
+        onCancel={() => dialogRef.current?.close()}
+        onClick={(event) => {
+          if (event.target === event.currentTarget) dialogRef.current?.close();
+        }}
+      >
         <button type="button" className="dw-state-map-close" aria-label="Close state planning dialog" onClick={() => dialogRef.current?.close()}>×</button>
-        <p className="dw-eyebrow">Project location</p>
-        <h2 id="dw-state-map-dialog-title">{selectedState || "State"} dishwashing rental planning</h2>
-        <p>Use the state as a starting point, then confirm the exact site, access, utilities, wastewater plan, requested dates and equipment availability.</p>
-        <div className="dw-state-map-actions">
-          <a className="dw-button dw-button-primary" href={stateRoute}>{directStateRoutes[selectedState] ? "Open state planning guide" : "Review service-area planning"}</a>
-          <a className="dw-button dw-button-quiet" href={dishwashingRoutes.contact}>Prepare an availability request</a>
+        <div className="dw-state-modal-grid">
+          <div className="dw-state-modal-gallery">
+            <div className="dw-state-modal-photo">
+              <img src={activePhoto.image} alt={`${activePhoto.alt} — representative equipment for ${selectedState || "the selected state"}`} width="850" height="650" />
+              <button type="button" className="dw-state-photo-control dw-state-photo-prev" aria-label="Show previous dishwashing facility photo" onClick={() => changePhoto(-1)}>←</button>
+              <button type="button" className="dw-state-photo-control dw-state-photo-next" aria-label="Show next dishwashing facility photo" onClick={() => changePhoto(1)}>→</button>
+              <span className="dw-state-photo-count">{photoIndex + 1} / {dishwashingFacilityPhotos.length}</span>
+            </div>
+            <div className="dw-state-photo-meta">
+              <strong>{activePhoto.label}</strong>
+              <div className="dw-state-photo-dots" aria-label="Choose a facility photo">
+                {dishwashingFacilityPhotos.map((photo, index) => (
+                  <button
+                    type="button"
+                    key={photo.image}
+                    className={index === photoIndex ? "is-active" : undefined}
+                    aria-label={`Show photo ${index + 1}: ${photo.label}`}
+                    aria-current={index === photoIndex ? "true" : undefined}
+                    onClick={() => setPhotoIndex(index)}
+                  />
+                ))}
+              </div>
+            </div>
+            <p className="dw-state-photo-note">Representative equipment photos. Images do not establish inventory, availability or a completed deployment in {selectedState || "this state"}.</p>
+          </div>
+
+          <div className="dw-state-modal-content">
+            <p className="dw-eyebrow">{selectedState || "State"} service planning</p>
+            <h2 id="dw-state-map-dialog-title">Temporary dishwashing facilities for rent in {selectedState || "your state"}</h2>
+            <p className="dw-state-modal-lead">Start with the operating brief, then confirm the exact site, model, delivery route and requested dates with the rental team.</p>
+            <div className="dw-state-detail-list">
+              <article>
+                <span>01</span>
+                <div><strong>Dish volume and workflow</strong><p>Share peak meal counts, ware types, rack volume and the return window from dining to the wash line.</p></div>
+              </article>
+              <article>
+                <span>02</span>
+                <div><strong>Site and utility review</strong><p>Confirm a level setup area, delivery access, power, potable water, drainage and the wastewater approach.</p></div>
+              </article>
+              <article>
+                <span>03</span>
+                <div><strong>Configuration and availability</strong><p>Match the model to the clean and soiled workflow, then verify equipment, timing and delivery feasibility.</p></div>
+              </article>
+            </div>
+            <div className="dw-state-map-actions">
+              <a className="dw-button dw-button-primary" href={stateRoute}>{directStateRoutes[selectedState] ? `Open the ${selectedState} planning guide` : "Review service-area planning"}</a>
+              <a className="dw-button dw-button-quiet" href={dishwashingRoutes.contact}>Request availability</a>
+            </div>
+          </div>
         </div>
       </dialog>
     </figure>
