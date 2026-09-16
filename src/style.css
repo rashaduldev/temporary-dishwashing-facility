@@ -135,9 +135,9 @@ main input[readonly],
 .dw-urgent-bar a:last-child { padding-left: 1rem; border-left: 1px solid #ffffff38; color: #fff; }
 
 .dw-header { position: sticky; top: 0; z-index: 100; border-bottom: 1px solid var(--dw-line); background: rgb(255 255 255 / 94%); backdrop-filter: blur(16px); }
-.dw-header-inner { min-height: 5.5rem; display: flex; align-items: center; gap: 2rem; }
+.dw-header-inner { min-height: 6.25rem; display: flex; align-items: center; gap: 2rem; }
 .dw-brand { display: inline-flex; align-items: center; gap: 0.85rem; flex-shrink: 0; }
-.dw-brand-logo { width: 5rem; height: 5rem; flex: 0 0 auto; object-fit: contain; }
+.dw-brand-logo { width: 7.5rem; height: 6.25rem; flex: 0 0 auto; object-fit: cover; object-position: center; }
 .dw-desktop-nav { display: flex; align-items: center; justify-content: center; gap: clamp(1rem, 2vw, 2rem); margin-left: auto; }
 .dw-desktop-nav a { position: relative; padding-block: 2rem; color: var(--dw-ink-soft); font-size: 0.83rem; font-weight: 700; }
 .dw-desktop-nav a::after { content: ""; position: absolute; left: 0; right: 0; bottom: 1.45rem; height: 2px; background: var(--dw-teal); transform: scaleX(0); transition: transform 180ms var(--dw-ease); }
@@ -488,7 +488,7 @@ main input[readonly],
   .dw-urgent-bar .dw-shell { justify-content: center; }
   .dw-urgent-bar span, .dw-urgent-bar strong, .dw-urgent-bar button { display: none; }
   .dw-urgent-bar a:last-child { padding-left: 0; border-left: 0; }
-  .dw-header-inner { min-height: 4.7rem; }
+  .dw-header-inner { min-height: 5.35rem; }
   .dw-header-contact { display: none; }
   .dw-hero { padding-top: 3rem; }
   .dw-page-hero { padding-bottom: 2.5rem; }
@@ -539,7 +539,7 @@ main input[readonly],
   .dw-page-hero-card-caption strong { font-size: 1.45rem; }
   .dw-page-hero-card-caption span { display: none; }
   .dw-page-hero-card-steps { padding: 0.6rem; }
-  .dw-brand-logo { width: 4rem; height: 4rem; }
+  .dw-brand-logo { width: 5.75rem; height: 4.85rem; }
   .dw-hero-copy h1 { max-width: none; font-size: clamp(3rem, 14vw, 4.2rem); }
   .dw-hero-facts { grid-template-columns: 1fr; }
   .dw-hero-facts div { padding: 0.7rem 0; }
