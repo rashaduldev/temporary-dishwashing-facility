@@ -88,6 +88,7 @@ export function DishwashingCoverageMap() {
   const gradientId = `dw-map-${useId().replace(/:/g, "")}`;
   const dialogRef = useRef<HTMLDialogElement>(null);
   const [selectedState, setSelectedState] = useState("");
+  const [googleMapsState, setGoogleMapsState] = useState("");
 
   const selectState = (state: string) => {
     setSelectedState(state);
@@ -95,6 +96,9 @@ export function DishwashingCoverageMap() {
   };
 
   const stateRoute = directStateRoutes[selectedState] || dishwashingRoutes.serviceAreas;
+  const googleMapsUrl = googleMapsState
+    ? `https://www.google.com/maps/place/${encodeURIComponent(googleMapsState)}/`
+    : "https://www.google.com/maps/place/United+States/";
 
   return (
     <figure className="dw-coverage-map" aria-labelledby="dw-coverage-map-title">
@@ -107,12 +111,18 @@ export function DishwashingCoverageMap() {
       <div className="dw-map-controls">
         <label htmlFor={`${gradientId}-picker`}>
           Choose your state
-          <select id={`${gradientId}-picker`} value="" onChange={(event) => selectState(event.target.value)}>
+          <select
+            id={`${gradientId}-picker`}
+            value={googleMapsState}
+            onChange={(event) => setGoogleMapsState(event.target.value)}
+          >
             <option value="" disabled>Select a state</option>
             {[...states].sort((a, b) => a.name.localeCompare(b.name)).map((state) => <option key={state.id} value={state.name}>{state.name}</option>)}
           </select>
         </label>
-        <a href="https://www.google.com/maps/place/United+States/" target="_blank" rel="noopener noreferrer">Open Google Maps <span aria-hidden="true">↗</span></a>
+        <a href={googleMapsUrl} target="_blank" rel="noopener noreferrer">
+          {googleMapsState ? `Open ${googleMapsState} in Google Maps` : "Open Google Maps"} <span aria-hidden="true">↗</span>
+        </a>
       </div>
       <figcaption>Includes Alaska and Hawaii. Map boundaries are based on U.S. Census Bureau geography. No state-level availability is implied.</figcaption>
 

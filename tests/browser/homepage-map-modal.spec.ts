@@ -20,3 +20,23 @@ for (const viewport of [
     expect(box!.y + box!.height / 2).toBeCloseTo(viewport.height / 2, 0);
   });
 }
+
+test("homepage state dropdown prepares a state-specific Google Maps link without opening the modal", async ({
+  page,
+}) => {
+  await page.goto("/");
+
+  await page
+    .locator(".dw-map-controls")
+    .getByLabel("Choose your state", { exact: true })
+    .selectOption("Texas");
+
+  await expect(page.locator(".dw-state-map-dialog")).not.toBeVisible();
+  await expect(page.locator(".dw-map-controls > a")).toHaveAttribute(
+    "href",
+    "https://www.google.com/maps/place/Texas/",
+  );
+  await expect(page.locator(".dw-map-controls > a")).toContainText(
+    "Open Texas in Google Maps",
+  );
+});
