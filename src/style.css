@@ -347,6 +347,7 @@ main input[readonly],
 .dw-map-depth { fill: #5f9da2; stroke: #5f9da2; stroke-width: 1; }
 .dw-map-land path { stroke: #3c747b; stroke-width: 1.2; cursor: pointer; transition: fill 160ms ease, stroke 160ms ease, transform 160ms ease; transform-box: fill-box; transform-origin: center; }
 .dw-map-land path:hover { fill: #6fc2bf; stroke: var(--dw-ink); stroke-width: 2; }
+.dw-map-land path:focus { outline: none; }
 .dw-map-land path:focus-visible { fill: #56b8b2; stroke: var(--dw-ink); stroke-width: 3; outline: none; }
 .dw-map-labels { fill: var(--dw-ink); font: 650 16px "Manrope Variable", sans-serif; pointer-events: none; }
 .dw-map-labels text { fill: var(--dw-ink); stroke: #d9eeee; stroke-width: 1.5; paint-order: stroke; }

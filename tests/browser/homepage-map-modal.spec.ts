@@ -40,3 +40,16 @@ test("homepage state dropdown prepares a state-specific Google Maps link without
     "Open Texas in Google Maps",
   );
 });
+
+test("homepage map state focus follows the state shape without a rectangular outline", async ({
+  page,
+}) => {
+  await page.goto("/");
+
+  const california = page.locator('[data-state="California"]');
+  await california.click();
+  await page.getByRole("button", { name: "Close state planning dialog" }).click();
+
+  await expect(california).toBeFocused();
+  await expect(california).toHaveCSS("outline-style", "none");
+});
