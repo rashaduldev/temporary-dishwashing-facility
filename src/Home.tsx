@@ -7,6 +7,7 @@ import {
   resources,
 } from "./dishwashingContent";
 import { dishwashingRoutes, siteConfig } from "./dishwashingConfig";
+import { lowTempFamily, modelPhotoCollections } from "./dishwashingImages";
 
 export type HomeProps = {
   openContact: () => void;
@@ -44,7 +45,7 @@ const faqs = [
   {
     question: "Are the photographs the exact trailer I will receive?",
     answer:
-      "Not necessarily. The current photographs show representative temporary dishwashing interiors. Exact-model photographs and specifications are shown only after they are verified.",
+      "Not necessarily. The photographs come from the original equipment library and are grouped by configuration family. Confirm the exact unit, installed equipment and specifications before rental.",
   },
   {
     question: "Can you help with a time-sensitive requirement?",
@@ -93,15 +94,15 @@ export function Home({ openContact }: HomeProps) {
           <div className="dw-hero-media">
             <figure className="dw-hero-photo">
               <img
-                src="/media/cc7bd709e3c4c4a3698b1f00.webp"
-                alt="Stainless steel sinks, pre-rinse equipment, worktables and storage racks inside a temporary dishwashing facility"
-                width="850"
-                height="650"
+                src={lowTempFamily.photos[0].src}
+                alt={lowTempFamily.photos[0].alt}
+                width="1448"
+                height="1086"
                 fetchPriority="high"
               />
               <figcaption>
-                <span>Representative commercial dishwashing interior</span>
-                <small>Confirm the exact model and installed equipment.</small>
+                <span>{lowTempFamily.photos[0].caption}</span>
+                <small>Original equipment photo · confirm the exact delivered configuration.</small>
               </figcaption>
             </figure>
             <div className="dw-hero-note">
@@ -128,6 +129,14 @@ export function Home({ openContact }: HomeProps) {
         <div className="dw-model-grid">
           {models.map((model, index) => (
             <article className="dw-model-card" key={model.id}>
+              <img
+                className="dw-model-card-photo"
+                src={modelPhotoCollections[model.id].photos[index % modelPhotoCollections[model.id].photos.length].src}
+                alt={modelPhotoCollections[model.id].photos[index % modelPhotoCollections[model.id].photos.length].alt}
+                width="1448"
+                height="1086"
+                loading="lazy"
+              />
               <div className="dw-model-index" aria-hidden="true">
                 {String(index + 1).padStart(2, "0")}
               </div>
@@ -137,7 +146,7 @@ export function Home({ openContact }: HomeProps) {
               <ul aria-label={`${model.shortName} verification status`}>
                 <li>Configuration: {model.configuration}</li>
                 <li>Availability: confirmation required</li>
-                <li>Exact model photo: not yet verified</li>
+                <li>Photo: original family image; exact unit confirmation required</li>
               </ul>
               <a href={model.route}>
                 Review this model <span aria-hidden="true">↗</span>

@@ -1,6 +1,7 @@
 import { useId, useRef, useState } from "react";
 import states from "./usStates.json" with { type: "json" };
 import { dishwashingRoutes } from "./dishwashingConfig";
+import { dishwashingPhotoCollections } from "./dishwashingImages";
 
 const callouts = [
   "Vermont",
@@ -27,18 +28,11 @@ const directStateRoutes: Record<string, string> = {
   Wisconsin: "/states/temporary-dishwashing-facility-for-lease-in-winconsin-usa/",
 };
 
-const dishwashingFacilityPhotos = [
-  {
-    image: "/media/cc7bd709e3c4c4a3698b1f00.webp",
-    alt: "Stainless steel sinks, pre-rinse equipment, worktables and storage racks inside a temporary dishwashing facility",
-    label: "Wash line and clean-storage layout",
-  },
-  {
-    image: "/media/4723f18940a45f69bd1c8483.webp",
-    alt: "Stainless steel worktable and preparation area inside a temporary dishwashing facility",
-    label: "Stainless work and landing space",
-  },
-] as const;
+const dishwashingFacilityPhotos = dishwashingPhotoCollections.map((collection) => ({
+  image: collection.photos[0].src,
+  alt: collection.photos[0].alt,
+  label: collection.title,
+}));
 
 function StateMap({ gradientId, selectState }: { gradientId: string; selectState: (state: string) => void }) {
   return (
@@ -178,7 +172,7 @@ export function DishwashingCoverageMap() {
                 ))}
               </div>
             </div>
-            <p className="dw-state-photo-note">Representative equipment photos. Images do not establish inventory, availability or a completed deployment in {selectedState || "this state"}.</p>
+            <p className="dw-state-photo-note">Original equipment-library photos, grouped by configuration family. Images do not establish inventory, availability or a completed deployment in {selectedState || "this state"}.</p>
           </div>
 
           <div className="dw-state-modal-content">

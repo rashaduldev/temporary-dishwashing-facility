@@ -3,6 +3,8 @@ import { Home } from "./Home";
 import { DishwashingCoverageMap } from "./DishwashingCoverageMap";
 import { RentalCalculator } from "./RentalCalculator";
 import { SeoDashboard } from "./SeoDashboard";
+import { DishwashingImageGallery } from "./DishwashingImageGallery";
+import { dishwashingPhotoCollections, modelPhotoCollections } from "./dishwashingImages";
 import type { SeoDashboardSection } from "./seoDashboardData";
 import {
   getDishwashingModel,
@@ -231,10 +233,13 @@ function ContactDialog({ open, onClose }: { open: boolean; onClose: () => void }
 
 function PageHero({ eyebrow, title, intro }: { eyebrow: string; title: string; intro: string }) {
   const context = eyebrow.toLowerCase();
+  const familyImage = title.startsWith("38")
+    ? dishwashingPhotoCollections[3].photos[0].src
+    : dishwashingPhotoCollections[0].photos[0].src;
   const card = context.includes("equipment guide")
-    ? { variant: "equipment", label: "Model comparison", kicker: "Equipment decision", title: "Four footprints. One verified fit.", detail: "Compare space first, then confirm the installed machine and utilities.", steps: ["Compare", "Match", "Confirm"], image: "/media/4723f18940a45f69bd1c8483.webp", mark: "" }
+    ? { variant: "equipment", label: "Model comparison", kicker: "Equipment decision", title: "Four footprints. One verified fit.", detail: "Compare space first, then confirm the installed machine and utilities.", steps: ["Compare", "Match", "Confirm"], image: dishwashingPhotoCollections[1].photos[0].src, mark: "" }
     : context.includes("model planning")
-      ? { variant: "model", label: "Model evidence", kicker: "Specification check", title: "Verify this configuration.", detail: `${title} still requires an exact equipment and utility review.`, steps: ["Measure", "Verify", "Approve"], image: "/media/4723f18940a45f69bd1c8483.webp", mark: "" }
+      ? { variant: "model", label: "Model evidence", kicker: "Specification check", title: "Verify this configuration.", detail: `${title} still requires an exact equipment and utility review.`, steps: ["Measure", "Verify", "Approve"], image: familyImage, mark: "" }
       : context.includes("contact gate")
         ? { variant: "calculator", label: "Transparent estimate", kicker: "Planning calculator", title: "Estimate before you inquire.", detail: "Choose the footprint and see the provisional inputs without sharing contact details.", steps: ["Select", "Calculate", "Review"], mark: "$", image: "" }
         : context.includes("time-sensitive")
@@ -242,7 +247,7 @@ function PageHero({ eyebrow, title, intro }: { eyebrow: string; title: string; i
           : context.includes("inquiry")
             ? { variant: "contact", label: "Project conversation", kicker: "Direct contact", title: "A clearer first call.", detail: "Prepare the location, dates, workflow and utility information before you connect.", steps: ["Prepare", "Call", "Confirm"], mark: "☎", image: "" }
             : context.includes("operating contexts")
-              ? { variant: "industries", label: "Operational fit", kicker: "Built around service", title: "The operation sets the brief.", detail: "Meal windows, access, ware types and approvals change by industry.", steps: ["Observe", "Plan", "Fit"], image: "/media/cc7bd709e3c4c4a3698b1f00.webp", mark: "" }
+              ? { variant: "industries", label: "Operational fit", kicker: "Built around service", title: "The operation sets the brief.", detail: "Meal windows, access, ware types and approvals change by industry.", steps: ["Observe", "Plan", "Fit"], image: dishwashingPhotoCollections[3].photos[0].src, mark: "" }
               : context.includes("location")
                 ? { variant: "location", label: "Location intelligence", kicker: "Site-first planning", title: "Every site changes the plan.", detail: "Transport, access, weather, utilities and approvals are location-specific.", steps: ["Locate", "Check", "Route"], mark: "50", image: "" }
                 : context.includes("library") || context.includes("resource")
@@ -300,6 +305,14 @@ function EquipmentOverview() {
         <div className="dw-model-grid dw-model-grid-large">
           {models.map((model) => (
             <article className="dw-model-card" key={model.id}>
+              <img
+                className="dw-model-card-photo"
+                src={modelPhotoCollections[model.id].photos[0].src}
+                alt={modelPhotoCollections[model.id].photos[0].alt}
+                width="1448"
+                height="1086"
+                loading="lazy"
+              />
               <p className="dw-model-length">{model.nominalLengthFeet} FT</p>
               <h2>{model.shortName}</h2>
               <p>{model.summary}</p>
@@ -313,6 +326,22 @@ function EquipmentOverview() {
           ))}
         </div>
       </section>
+      <section className="dw-section dw-section-tint">
+        <div className="dw-shell">
+          <div className="dw-section-heading">
+            <div><p className="dw-eyebrow">Original equipment photography</p><h2>Four verified photo families from the equipment library.</h2></div>
+            <p>The source sheet separates these configurations. Photos are grouped accordingly and are not used to claim that a specific unit is currently available.</p>
+          </div>
+          <div className="dw-source-photo-grid">
+            {dishwashingPhotoCollections.map((collection) => (
+              <article key={collection.id}>
+                <img src={collection.photos[0].src} alt={collection.photos[0].alt} width="1448" height="1086" loading="lazy" />
+                <div><p className="dw-eyebrow">{collection.photos.length} original photos</p><h3>{collection.title}</h3><p>{collection.fitNote}</p></div>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
     </>
   );
 }
@@ -320,19 +349,12 @@ function EquipmentOverview() {
 function ModelPage({ path, openContact }: { path: string; openContact: () => void }) {
   const model = getDishwashingModel(path)!;
   const unknown = unknownModelSpecifications(model);
+  const photoCollection = modelPhotoCollections[model.id];
   return (
     <>
       <PageHero eyebrow="Model planning guide" title={`${model.name} Rental`} intro={model.summary} />
       <section className="dw-section dw-shell dw-model-detail">
-        <figure className="dw-detail-photo">
-          <img
-            src="/media/4723f18940a45f69bd1c8483.webp"
-            alt="Stainless steel worktable inside a representative temporary dishwashing facility"
-            width="850"
-            height="650"
-          />
-          <figcaption>Representative interior only. This is not verified as the exact {model.nominalLengthFeet}-foot model.</figcaption>
-        </figure>
+        <DishwashingImageGallery collection={photoCollection} />
         <div>
           <p className="dw-eyebrow">Evidence before promises</p>
           <h2>Specifications awaiting owner verification</h2>
